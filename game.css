@@ -1,0 +1,148 @@
+:root {
+  background-color: #ecf5ff;
+  font-size: 62.5%;
+}
+
+.choice-container {
+  display: flex;
+  margin-bottom: 0.5rem;
+  width: 100%;
+  font-size: 1.8rem;
+  border: 0.1rem solid rgb(86, 165, 235, 0.25);
+  background-color: white;
+}
+
+#question {
+  font-size: 1.9rem;  /* Chỉnh kích thước chữ theo ý muốn */
+  font-weight: bold; /* Nếu muốn chữ đậm */
+  margin-bottom: 20px;
+}
+
+
+.choice-container:hover {
+  cursor: pointer;
+  box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+  transform: translateY(-0.1rem);
+  transition: transform 150ms;
+}
+
+.choice-prefix {
+  padding: 1rem 1rem;
+  /* background-color: #56a5eb; */
+  background-color: rgb(56, 141, 182);
+  color: white;
+}
+
+.choice-text {
+  padding: 1.5rem;
+  width: 100%;
+}
+
+.correct {
+  background-color: #28a745;
+}
+
+.incorrect {
+  background-color: #dc3545;
+}
+
+/* HUD */
+
+#hud {
+  display: flex;
+  justify-content: space-between;
+}
+
+.hud-prefix {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.hud-main-text {
+  text-align: center;
+}
+
+#progressBar {
+  width: 20rem;
+  height: 4rem;
+  border: 0.3rem solid rgb(56, 141, 182);
+  margin-top: 1.5rem;
+}
+
+#progressBarFull {
+  height: 3.4rem;
+  background-color: rgb(56, 141, 182);
+  width: 0%;
+}
+
+/* LOADER */
+#loader {
+  border: 1.6rem solid white;
+  border-radius: 50%;
+  border-top: 1.6rem solid rgb(56, 141, 182);
+  width: 12rem;
+  height: 12rem;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
+#explanation-popup {
+  display: none;  /* Mặc định ẩn popup */
+  position: fixed;
+  bottom: 0;  /* Đặt popup ở phía dưới */
+  left: 0;
+  width: 100%;
+  height: 100%;  /* Chiếm 1/3 chiều cao màn hình */
+  justify-content: center;
+  align-items: flex-start;  /* Căn giữa nội dung theo chiều dọc */
+  z-index: 100;
+}
+
+#explanation-content {
+  margin-top: auto;
+  display: none; /* Sử dụng flex để dễ dàng căn chỉnh nội dung */
+  flex-direction: column; /* Đặt hướng sắp xếp thành cột */
+  background-color: white;
+  padding: 1rem; /* Thêm padding để tạo khoảng cách bên trong */
+  width: 100%; /* Chiếm toàn bộ chiều rộng của popup */
+  height: 33%; /* Chiếm toàn bộ chiều cao của popup */
+  box-sizing: border-box; /* Đảm bảo padding không làm thay đổi kích thước */
+}
+
+#content-text {
+  display: flex;
+}
+
+#explanation-text {
+  font-size: 2rem;  /* Chỉnh kích thước chữ theo ý muốn */
+  color: white; /* Đổi màu chữ thành đen để dễ đọc trên nền trắng */
+  margin-bottom: 1rem; /* Thêm khoảng cách giữa chữ và nút */
+}
+
+#next-button {
+  margin-top: auto; /* Đẩy nút xuống dưới cùng */
+  padding: 2rem 2rem;
+  background-color: white;
+  color: black;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  font-size: 2rem;  /* Chỉnh kích thước chữ theo ý muốn */
+  font-weight: bold; /* Nếu muốn chữ đậm */
+}
+
+#next-button:hover {
+  background-color: rgb(240,240,240);
+  transform: translateY(-0.1rem);
+  transition: transform 150ms;
+}
+

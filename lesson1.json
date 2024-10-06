@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Chữ \"đạo\" trong Phật giáo nghĩa là gì?",
+    "choice1": "Là tôn giáo như đạo Phật, đạo Khổng, đạo Lão.",
+    "choice2": "Là con đường, là bổn phận.",
+    "choice3": "Là bản thể, là lý tánh tuyệt đối.",
+    "choice4": "Bao gồm đáp án b và c.",
+    "answer": "Bao gồm đáp án b và c.",
+    "explanation": "Chữ đạo có ba nghĩa: Đạo là con đường; Đạo là bổn phận; Đạo là lý tánh tuyệt đối, là bản thể."
+  },
+  {
+    "question": "Chữ \"Phật\" nghĩa là gì?",
+    "choice1": "Bậc hoàn toàn giác ngộ.",
+    "choice2": "Người giác ngộ chân chánh.",
+    "choice3": "Bậc tự giác, giác tha, giác hạnh viên mãn.",
+    "choice4": "Bậc cao hơn thượng đế.",
+    "answer": "Bậc tự giác, giác tha, giác hạnh viên mãn.",
+    "explanation": "Chữ Phật là một danh từ chung để gọi những bậc đã tự giác, giác tha và giác hạnh viên mãn, chứ không phải là một danh từ riêng để gọi một người nào nhất định. Ai tu hành được chứng quả như đã nói trên đều được gọi là Phật cả."
+  },
+  {
+    "question": "Ai khai sáng ra đạo Phật?",
+    "choice1": "Đức Phật Dược Sư.",
+    "choice2": "Đức Phật Di Lặc.",
+    "choice3": "Đức Phật A Di Đà.",
+    "choice4": "Đức Phật Thích Ca Mâu Ni.",
+    "answer": "Đức Phật Thích Ca Mâu Ni.",
+    "explanation": "Người đã khai sáng ra đạo Phật là đức Phật Thích Ca Mâu Ni."
+  },
+  {
+    "question": "Theo lịch sử, đạo Phật có từ khi nào?",
+    "choice1": "Trước khi Phật ra đời.",
+    "choice2": "Từ lúc Phật Đản sanh.",
+    "choice3": "Từ lúc Thái tử Xuất gia.",
+    "choice4": "Từ lúc Phật thành đạo.",
+    "answer": "Từ lúc Phật thành đạo.",
+    "explanation": "Theo lịch sử, đạo Phật có từ lúc Phật thành đạo."
+  },
+  {
+    "question": "Theo phương diện bản thể, đạo Phật có từ lúc nào?",
+    "choice1": "Đạo Phật có từ vô thỉ.",
+    "choice2": "Khi có chúng sinh là có đạo Phật.",
+    "choice3": "Đạo Phật có từ vô thỉ, khi có chúng sinh là có đạo Phật.",
+    "choice4": "Khi Đức Phật đản sinh.",
+    "answer": "Đạo Phật có từ vô thỉ, khi có chúng sinh là có đạo Phật.",
+    "explanation": "Đứng về phương diện bản thể mà xét thì Đạo Phật có từ vô thuỷ (nghĩa là không có đầu mối, không có giới hạn ở trong thời gian). Vì Đạo Phật là bản tánh sáng suốt của chúng sanh, nên có chúng sanh là có Đạo Phật; mà chúng sanh đã có từ vô thuỷ thì Đạo Phật cũng có từ vô thuỷ."
+  },
+  {
+    "question": "Phật lịch được tính từ lúc nào?",
+    "choice1": "Từ năm Phật Đản sanh.",
+    "choice2": "Từ năm Phật Thành đạo.",
+    "choice3": "Từ năm Phật Chuyển pháp luân.",
+    "choice4": "Từ năm Phật nhập Niết bàn.",
+    "answer": "Từ năm Phật nhập Niết bàn.",
+    "explanation": "Về Phật lịch, Phật giáo thế giới lấy mốc năm Đức Phật Thích Ca nhập Niết-bàn để tính năm đầu Phật lịch (544 trước Tây lịch)."
+  },
+  {
+    "question": "Giáo lý đạo Phật gồm những gì?",
+    "choice1": "Giới, Định, Tuệ.",
+    "choice2": "Văn, Tư, Tu.",
+    "choice3": "Gồm ba tạng: Tạng Kinh, tạng Luật và tạng Luận.",
+    "choice4": "Tứ diệu đế, Lục độ, Thập nhị nhân duyên.",
+    "answer": "Gồm ba tạng: Tạng Kinh, tạng Luật và tạng Luận.",
+    "explanation": "Giáo lý của đạo Phật gồm trong 3 tạng kinh điển là Kinh, Luật, Luận."
+  },
+  {
+    "question": "Tự giác viên mãn nghĩa là gì?",
+    "choice1": "Giác ngộ hoàn toàn do các đức Phật quá khứ.",
+    "choice2": "Tự mình giác ngộ hoàn toàn do công phu tu tập.",
+    "choice3": "Giác ngộ hoàn toàn do tích lũy lòng từ đối với chúng sinh.",
+    "choice4": "Giác ngộ do phước huệ đời trước.",
+    "answer": "Tự mình giác ngộ hoàn toàn do công phu tu tập.",
+    "explanation": "Tự giác: Nghĩa là tự giác ngộ hoàn toàn do phước huệ và công phu tu hành, khác với phàm phu là những người còn mê muội, bị luân hồi trong cõi trần lao, khổ ải."
+  },
+  {
+    "question": "Giác tha viên mãn nghĩa là gì?",
+    "choice1": "Chỉ cách giác ngộ cho người khác.",
+    "choice2": "Sau khi tự mình giác ngộ, hướng dẫn và chỉ dạy lại cho người khác giác ngộ hoàn toàn.",
+    "choice3": "Nhờ người khác chỉ cho mình phương pháp giác ngộ.",
+    "choice4": "Bao gồm đáp án a và b.",
+    "answer": "Sau khi tự mình giác ngộ, hướng dẫn và chỉ dạy lại cho người khác giác ngộ hoàn toàn.",
+    "explanation": "Giác tha: Nghĩa là mình đã giác ngộ, lại đem phương pháp giác ngộ ấy dạy cho những người tu hành được giác ngộ như mình. Người tu theo Tiểu Thừa không thể có được giác tha, vì chỉ lo giải thoát cho mình. Chỉ người tu theo Đại Thừa mới có được giác tha, nghĩa là giác ngộ cho hết thảy chúng sanh đang chìm đắm. "
+  },
+  {
+    "question": "Như thế nào là Giác hạnh viên mãn?",
+    "choice1": "Tự mình giác ngộ hoàn toàn do công phu tu tập.",
+    "choice2": "Sau khi giác ngộ đem chỉ dạy lại cho người khác giác ngộ.",
+    "choice3": "Những bậc tu tập đạt giác ngộ rốt ráo và đem truyền dạy cho người khác được giác ngộ rốt ráo như mình.",
+    "choice4": "Mình và người cùng giác ngộ giải thoát.",
+    "answer": "Những bậc tu tập đạt giác ngộ rốt ráo và đem truyền dạy cho người khác được giác ngộ rốt ráo như mình.",
+    "explanation": "Giác hạnh viên mãn: Nghĩa là giác ngộ hoàn toàn đầy đủ cho mình và cho người. Những bậc Bồ Tát, tuy đã giác ngộ cho mình và cho người, nhưng công hạnh chưa viên mãn, nên chưa gọi được là \"Giác Giác Hạnh Viên Mãn\". Chỉ có Phật mới được gọi là Giác Hạnh Viên Mãn. "
+  }
+]
