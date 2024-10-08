@@ -61,8 +61,12 @@ getNewQuestion = () => {
     if (availableQuesions.length === 0 || questionCounter >= MAX_QUESTIONS) {
         localStorage.setItem('mostRecentScore', score);
         localStorage.setItem('currentLesson', currentLesson);
+        localStorage.setItem('max_questions', MAX_QUESTIONS);
         //go to the end page
-        return window.location.assign('end.html');
+        setTimeout(() => {
+            // Chuyển đến trang end.html
+            window.location.assign('end.html');
+        }, 100);
     }
     questionCounter++;
     progressText.innerText = `Câu ${questionCounter}/${MAX_QUESTIONS}`;
@@ -103,11 +107,20 @@ getNewQuestion = () => {
     acceptingAnswers = true;
 };
 
+function scrollToBottom() {
+    window.scrollTo({
+        top: document.body.scrollHeight,
+        behavior: 'smooth' // Thêm hiệu ứng cuộn mượt mà
+    });
+}
+
+
 // Hàm mở popup
 function openPopup() {
     document.getElementById('explanation-popup').style.display = 'block';
     document.getElementById('explanation-content').style.display = 'flex';
     explanationText.innerText = currentQuestion.explanation;
+    scrollToBottom();
 }
 
 let globalClassToApply;
