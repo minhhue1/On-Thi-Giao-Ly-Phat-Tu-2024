@@ -1,11 +1,263 @@
 [
   {
-    "question": "",
-    "choice1": "",
-    "choice2": "",
-    "choice3": "",
-    "choice4": "",
-    "answer": "",
-    "explanation": ""
+    "question": "Các nhà tiên tri đoán điềm mộng \"voi trắng sáu ngà\" hoàng hậu Ma Da thấy như thế nào?",
+    "choice1": "Hoàng hậu sẽ từ trần sau 7 ngày hạ sinh Thái tử.",
+    "choice2": "Thành Ca Tỳ La Vệ sẽ giàu có sung túc hơn nữa.",
+    "choice3": "Hoàng hậu sẽ sinh quý tử tài đức song toàn.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Hoàng hậu sẽ sinh quý tử tài đức song toàn.",
+    "explanation": "Hoàng hậu nằm mộng thấy một con voi trắng sáu ngà từ trên hư không xuống, lấy ngà khai hông hữu của Bà mà chun vào. Các nhà tiên tri đoán rằng :\"Hoàng hậu sẽ sanh một quý tử tài đức song toàn\"."
+  },
+  {
+    "question": "Vì sao Đức Phật thị hiện đản sanh tại thế giới Ta bà?",
+    "choice1": "Vì muốn đem lợi ích rộng lớn cho đời.",
+    "choice2": "Vì muốn độ tất cả chúng sinh.",
+    "choice3": "Vì muốn đem hạnh phúc cho chư thiên và loài người.",
+    "choice4": "Vì muốn độ tất cả chúng sinh và đem lợi ích rộng lớn cho chư thiên và loài người.",
+    "answer": "Vì muốn độ tất cả chúng sinh và đem lợi ích rộng lớn cho chư thiên và loài người.",
+    "explanation": "Đức Phật thị hiện đản sanh tại thế giới Ta bà vì muốn độ tất cả chúng sinh và đem lợi ích rộng lớn cho chư thiên và loài người."
+  },
+  {
+    "question": "Đức Phật đản sanh ở đâu?",
+    "choice1": "Vườn Lâm Tỳ Ni.",
+    "choice2": "Vườn Lộc Uyển.",
+    "choice3": "Cội cây Bồ đề.",
+    "choice4": "Rừng Ta la.",
+    "answer": "Vườn Lâm Tỳ Ni.",
+    "explanation": "Đến sáng ngày mồng 8 tháng 4 âm lịch (trước Tây lịch 624 năm), tại vườn Lâm-tỳ-ni, cách thành Ca-tỳ-la-vệ 15 cây số, hoàng hậu Ma Da đang ngoạn cảnh, trong thấy cành hoa Vô-ưu mới nở, thơm ngát, bà đưa tay phải với hái, thì Thái tử cũng vừa xuất hiện ngay đấy."
+  },
+  {
+    "question": "Sự ra đời của Đức Phật thường được gọi là \"Đản sanh\" có ý nghĩa gì?",
+    "choice1": "Hiện sinh từ chỗ cao đến chỗ thấp.",
+    "choice2": "Sự ra đời làm vui vẻ, làm hân hoan, xán lạn cho đời.",
+    "choice3": "Hiện ra hình thể bằng xương bằng thịt cho con người nhìn thấy được.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Sự ra đời làm vui vẻ, làm hân hoan, xán lạn cho đời.",
+    "explanation": "Đản sang nghĩa là một sự ra đời vui vẻ, làm hân hoan, xán lạn cho cõi đời."
+  },
+  {
+    "question": "Sự ra đời của Đức Phật thường được gọi là \"Thị hiện\" có ý nghĩa gì?",
+    "choice1": "Hiện sinh từ chỗ cao đến chỗ thấp.",
+    "choice2": "Sự ra đời làm vui vẻ, làm hân hoan, xán lạn cho đời.",
+    "choice3": "Hiện ra hình thể bằng xương bằng thịt cho con người nhìn thấy được.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Hiện ra hình thể bằng xương bằng thịt cho con người nhìn thấy được.",
+    "explanation": "Thị hiện nghĩa là hiện ra bằng xương bằng thịt, cho con mắt trần của chúng ta thấy được."
+  },
+  {
+    "question": "Mẫu hậu, người hạ sinh thái tử Tất Đạt Đa là vị nào?",
+    "choice1": "Hoàng hậu Ma Da.",
+    "choice2": "Hoàng hậu Kiều Đàm Di.",
+    "choice3": "Hoàng hậu Vi Đề Hy.",
+    "choice4": "Hoàng hậu Mạt Lợi.",
+    "answer": "Hoàng hậu Ma Da.",
+    "explanation": "Mẫu hậu, người hạ sinh thái tử Tất Đạt Đa là Hoàng hậu Ma Da."
+  },
+  {
+    "question": "Sau khi sinh thái tử Tất Đạt Đa, hoàng hậu Ma Da sinh về cõi nào?",
+    "choice1": "Cõi trời Phạm Thiên.",
+    "choice2": "Cõi trời Đao Lợi.",
+    "choice3": "Cõi trời Hóa Lạc Thiên.",
+    "choice4": "Cõi trời Đâu Suất.",
+    "answer": "Cõi trời Đao Lợi.",
+    "explanation": "Hoàng hậu Ma Da sau khi sanh Thái tử được bảy ngày, vui thú vì thấy mình đã làm tròn nhiệm vụ cao quý, và đã rửa sạch nghiệp báo, nên Bà trút được xác phàm và sanh về cõi trời Đao lợi."
+  },
+  {
+    "question": "Thái tử Tất Đạt Đa xuất thân từ giai cấp nào?",
+    "choice1": "Bà la môn.",
+    "choice2": "Sát đế lợi.",
+    "choice3": "Phệ xá.",
+    "choice4": "Thủ đà la.",
+    "answer": "Sát đế lợi.",
+    "explanation": "Thái tử Tất Đạt Đa xuất thân từ giai cấp Sát đế lợi (dòng dõi Vua chúa)"
+  },
+  {
+    "question": "Theo Liên Hợp Quốc, Phật đản sinh năm nào được chọn phổ biến nhất?",
+    "choice1": "Năm 563 trước Tây lịch.",
+    "choice2": "Năm 566 trước Tây lịch.",
+    "choice3": "Năm 663 trước Tây lịch.",
+    "choice4": "Năm 624 trước Tây lịch.",
+    "answer": "Năm 624 trước Tây lịch.",
+    "explanation": "Phật đản sinh vào ngày mồng 8 tháng 4 âm lịch (trước Tây lịch 624 năm)"
+  },
+  {
+    "question": "Danh hiệu Thích Ca Mâu Ni có nghĩa là gì?",
+    "choice1": "Bậc Năng nhơn, Tịch mặc.",
+    "choice2": "Nhà hiền triết của dòng Thích Ca.",
+    "choice3": "Bậc thông thái.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Bậc Năng nhơn, Tịch mặc.",
+    "explanation": "- Chữ Thích Ca (Sakya), Hán dịch là Năng-nhơn: Năng là năng lực, Nhơn là từ bi.\n- Mâu-ni (Muni) nghĩa là Tịch-mặc: Tịch là yên lặng, không bị khổ vui làm động tâm; Mặc là lặng lẽ, không bị phiền não khuấy rối, độ mình độ người, công đức đầy đủ."
+  },
+  {
+    "question": "Dì Mẫu người chăm sóc thời niên thiếu cho Thái tử Tất Đạt Đa là ai?",
+    "choice1": "Bà Ma Da.",
+    "choice2": "Bà Kiều Đàm Di.",
+    "choice3": "Bà Vi Đề Hy.",
+    "choice4": "Bà Mạt Lợi.",
+    "answer": "Bà Kiều Đàm Di.",
+    "explanation": "Sau khi Hoàng hậu Ma Da sanh về cõi trời Đao lợi. Vua Tịnh Phạn giao Thái tử cho em gái Hoàng hậu là Ma-ha Ba-xà-ba-đề (Bà Kiều Đàm Di) nuôi dưỡng."
+  },
+  {
+    "question": "Tài năng và đức hạnh của thái tử Tất Đạt Đa ra sao?",
+    "choice1": "Văn võ song toàn.",
+    "choice2": "Tài đức, thương người mến vật.",
+    "choice3": "Thông minh, khiêm hạ, lễ độ.",
+    "choice4": "Gồm đáp án a, b và c.",
+    "answer": "Gồm đáp án a, b và c.",
+    "explanation": "Tài năng và đức hạnh của thái tử Tất Đạt Đa:\n- Văn võ song toàn.\n- Tài đức, thương người mến vật.\n- Thông minh, khiêm hạ, lễ độ."
+  },
+  {
+    "question": "Nhân lễ hạ điền, theo vua cha ra đồng cày cấy, thái tử Tất Đạt Đa nhìn thấy gì?",
+    "choice1": "Cảnh vui sướng của người nông dân.",
+    "choice2": "Cảnh tương tàn tương sát của các loài côn trùng, cầm thú.",
+    "choice3": "Cảnh hoa lá tốt tươi, chim muôn ca hót.",
+    "choice4": "Cảnh người nông dân chăm sóc ruộng vườn.",
+    "answer": "Cảnh tương tàn tương sát của các loài côn trùng, cầm thú.",
+    "explanation": "Ngài thấy người nông phu và trâu bò làm việc một cách cực nhọc dưới ánh nắng thiêu đốt, để đổi lấy bát cơm, nắm cỏ. Chim chóc tranh nhau ăn tươi nuốt sống côn trùng đang giãy giụa trên những luống đất mới cày. Trong bụi rậm người thợ săn đang nhắm bắn những con chim kia, và trong khu rừng gần đấy, bọn hổ báo đang rình bắt người thợ săn. Thật là một cảnh tương tàn tương sát, không phút giây nào ngừng!"
+  },
+  {
+    "question": "Xin phép vua cha đi dạo bốn cửa thành, thái Tử Tất Đạt Đa đến cửa thành nào đầu tiên?",
+    "choice1": "Cửa thành Đông.",
+    "choice2": "Cửa thành Nam.",
+    "choice3": "Cửa thành Tây.",
+    "choice4": "Cửa thành Bắc.",
+    "answer": "Cửa thành Đông.",
+    "explanation": "Thái tử Tất Đạt Đa đến cửa thành Đông đầu tiên."
+  },
+  {
+    "question": "Thái tử Tất Đạt Đa gặp cảnh người già ở cửa thành nào?",
+    "choice1": "Cửa thành Đông.",
+    "choice2": "Cửa thành Nam.",
+    "choice3": "Cửa thành Tây.",
+    "choice4": "Cửa thành Bắc.",
+    "answer": "Cửa thành Đông.",
+    "explanation": "Ra đến cửa Đông, Ngài gặp một ông già tóc bạc, răng rụng, mắt lờ, tai điếc, lưng còng, nương gậy lần từng bước ngập ngừng như sắp ngã."
+  },
+  {
+    "question": "Thái tử Tất Đạt Đa gặp cảnh người bệnh đau đớn ở cửa thành nào?",
+    "choice1": "Cửa thành Đông.",
+    "choice2": "Cửa thành Nam.",
+    "choice3": "Cửa thành Tây.",
+    "choice4": "Cửa thành Bắc.",
+    "answer": "Cửa thành Nam.",
+    "explanation": "Đến cửa Nam, Thái tử thấy một người đau nằm trên cỏ, đang khóc than rên siết, đau đớn vô cùng."
+  },
+  {
+    "question": "Trước khi quyết định xuất gia, thái tử Tất Đạt Đa gặp ai ở cửa Tây của thành Ca Tỳ La Vệ?",
+    "choice1": "Ông già tóc bạc, răng rụng, mắt lờ, tai điếc, lưng còng.",
+    "choice2": "Người bệnh khóc than rên siết, đau đớn.",
+    "choice3": "Người chết nằm giữa đường, ruồi, kiến bu bám.",
+    "choice4": "Vị tu sĩ tướng mạo nghiêm trang, điềm tĩnh an nhiên.",
+    "answer": "Người chết nằm giữa đường, ruồi, kiến bu bám.",
+    "explanation": "Đến cửa Tây, Ngài trông thấy một cái thây chết nằm giữa đường, ruồi lằng bu bám, và sình lên, trông rất ghê tởm."
+  },
+  {
+    "question": "Thái tử Tất Đạt Đa gặp ai ở cửa Bắc của thành Ca Tỳ La Vệ?",
+    "choice1": "Một người thợ săn.",
+    "choice2": "Một người chết.",
+    "choice3": "Một vị tu sĩ tướng mạo trang nghiêm.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Một vị tu sĩ tướng mạo trang nghiêm.",
+    "explanation": "Ngài ra cửa Bắc, gặp một vị tu sĩ tướng mạo nghiêm trang, điềm tĩnh, và thản nhiên như người vô sự đi ngang qua đường."
+  },
+  {
+    "question": "Thái tử Tất Đạt Đa thổ lộ với ai nỗi niềm mong tìm ánh đạo?",
+    "choice1": "Tiên nhân A Tư Đà.",
+    "choice2": "Công chúa Da Du Đà La.",
+    "choice3": "Đạo sĩ A La Lam.",
+    "choice4": "Đạo sĩ Uất Đầu Lam Phất.",
+    "answer": "Công chúa Da Du Đà La.",
+    "explanation": "Thái tử Tất Đạt Đa thổ lộ với Công chúa Da Du Đà La nỗi niềm mong tìm ánh đạo"
+  },
+  {
+    "question": "Vua Tịnh Phạn dùng cách nào để ràng buộc Thái tử bỏ chí xuất gia?",
+    "choice1": "Xây dựng 3 cung điện nguy nga tráng lệ, có nhiều người hầu hạ.",
+    "choice2": "Ép hôn, để thái tử mê đắm dục lạc.",
+    "choice3": "Hứa truyền ngôi vua sớm cho Thái tử.",
+    "choice4": "Gồm đáp án a, b và c.",
+    "answer": "Gồm đáp án a, b và c.",
+    "explanation": "Vua Tịnh Phạn đã dùng các cách sau để ràng buộc Thái tử bỏ chí xuất gia: \n- Xây dựng 3 cung điện nguy nga tráng lệ, có nhiều người hầu hạ.\n- Ép hôn, để thái tử mê đắm dục lạc.\n- Hứa truyền ngôi vua sớm cho Thái tử."
+  },
+  {
+    "question": "Khi vua Tịnh Phạn không đồng ý cho xuất gia, thái tử Tất Đạt Đa đã yêu cầu vua cha những gì?",
+    "choice1": "Cho con trẻ mãi không già, khỏe mãi không bệnh.",
+    "choice2": "Cho con trẻ mãi không già, khỏe mãi không bệnh, sống hoài không chết.",
+    "choice3": "Cho con không già, không bệnh, không chết và tất cả chúng sanh hết khổ.",
+    "choice4": "Cho con không già, không bệnh, được xuất gia, và tất cả chúng sanh hết khổ.",
+    "answer": "Cho con không già, không bệnh, không chết và tất cả chúng sanh hết khổ.",
+    "explanation": "Thái tử Tất Đạt Đa đã yêu cầu vua cha 4 điều:\n1. Làm sao cho con trẻ mãi không già.\n2. Làm sao cho con mạnh mãi không đau.\n3. Làm sao cho con sống hoài không chết.\n4. Làm sao cho mọi người hết khổ."
+  },
+  {
+    "question": "Thái tử Tất Đạt Đa cùng ngựa Kiền Trắc và Sa Nặc vượt thành xuất gia ở cửa thành nào?",
+    "choice1": "Cửa thành Đông.",
+    "choice2": "Cửa thành Nam.",
+    "choice3": "Cửa thành Tây.",
+    "choice4": "Cửa thành Bắc.",
+    "answer": "Cửa thành Đông.",
+    "explanation": "Thái tử Tất Đạt Đa cùng ngựa Kiền Trắc và Sa Nặc vượt thành xuất gia ở cửa thành Đông."
+  },
+  {
+    "question": "Thái tử Tất Đạt Đa vượt thành xuất gia vào thời điểm nào?",
+    "choice1": "Buổi sáng.",
+    "choice2": "Buổi chiều.",
+    "choice3": "Buổi tối.",
+    "choice4": "Nửa đêm.",
+    "answer": "Nửa đêm.",
+    "explanation": "Một đêm khuya, thừa dịp quân lính canh gác và cung phi mỹ nữ say ngủ sau một cuộc yến tiệc linh đình, Thái tử lén trổi dậy, nhìn vợ con từ biệt một lần cuối, rồi đánh thức tên giữ ngựa Xa-nặc dậy, thắng yên cương, và hai thầy trò cùng nhau trốn ra khỏi thành."
+  },
+  {
+    "question": "Theo Phật học Phổ thông, thái tử Tất Đạt Đa xuất gia ngày nào?",
+    "choice1": "Mùng 8/2 âm lịch.",
+    "choice2": "Mùng 8/4 âm lịch.",
+    "choice3": "Mùng 15/4 âm lịch.",
+    "choice4": "Mùng 8/12 âm lịch.",
+    "answer": "Mùng 8/2 âm lịch.",
+    "explanation": "Theo Phật học phổ thông, Thái tử Tất Đạt Đa xuất gia ngày đêm mồng tám tháng hai."
+  },
+  {
+    "question": "Phật đã chứng Tam minh, gồm những gì?",
+    "choice1": "Túc mệnh thông, thiên nhãn minh, lậu tận diệt.",
+    "choice2": "Túc mệnh minh, thiên nhãn minh, lậu tận minh.",
+    "choice3": "Túc mệnh minh, thiên nhãn minh, lậu tận thông.",
+    "choice4": "Túc mệnh thông, thiên nhãn thông, lậu tận thông.",
+    "answer": "Túc mệnh minh, thiên nhãn minh, lậu tận minh.",
+    "explanation": "Tam minh gồm:\n- Túc mệnh minh: thấy rõ được tất cả khoảng đời quá khứ của mình trong tam giới.\n- Thiên nhãn minh: thấy được tất cả bản thể của vũ trụ và nguyên nhân cấu tạo của nó.\n- Lậu tận minh: rõ biết nguồn gốc của đau khổ và phương pháp dứt trừ đau khổ để được giải thoát khỏi sanh tử luân hồi."
+  },
+  {
+    "question": "Sau 49 ngày đêm thiền định, Đức Phật đã Thành đạo ở đâu?",
+    "choice1": "Dưới cây Vô ưu.",
+    "choice2": "Dưới cội Bồ đề.",
+    "choice3": "Dưới cây Ta la.",
+    "choice4": "Dưới cây Asoka.",
+    "answer": "Dưới cội Bồ đề.",
+    "explanation": "Thái tử Tất Đạt Đa đã ngồi nhập định suốt 49 ngày đêm và đã Thành đạo ở dưới gốc Bồ đề"
+  },
+  {
+    "question": "Theo Phật giáo Bắc truyền, Đức Phật thành đạo ngày nào?",
+    "choice1": "Ngày 8/2 âm lịch.",
+    "choice2": "Ngày 15/4 âm lịch.",
+    "choice3": "Ngày 15/12 âm lịch.",
+    "choice4": "Ngày 8/12 âm lịch.",
+    "answer": "Ngày 8/12 âm lịch.",
+    "explanation": "Ngày thành Đạo của Ngài, tính theo Âm lịch là ngày mồng 8 tháng 12."
+  },
+  {
+    "question":"Thân Đức Phật có bao nhiêu tướng tốt, bao nhiêu vẻ đẹp?",
+    "choice1":"18 tướng tốt, 49 vẻ đẹp.",
+    "choice2":"32 tướng tốt, 72 vẻ đẹp.",
+    "choice3":"32 tướng tốt, 80 vẻ đẹp.",
+    "choice4":"49 tướng tốt, 80 vẻ đẹp.",
+    "answer":"32 tướng tốt, 80 vẻ đẹp.",
+    "explanation":"Thân Đức Phật có 32 tướng tốt, 80 vẻ đẹp."
+  },
+  {
+    "question":"Sau khi Thành đạo, Đức Phật an trú Bồ Đề Đạo Tràng thêm bao lâu?",
+    "choice1":"7 ngày",
+    "choice2":"21 ngày",
+    "choice3":"35 ngày",
+    "choice4":"49 ngày",
+    "answer":"49 ngày",
+    "explanation":"Sau khi Thành đạo, Đức Phật an trú Bồ Đề Đạo Tràng thêm 49 ngày."
   }
 ]
