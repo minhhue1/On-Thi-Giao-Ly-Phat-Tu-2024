@@ -10,8 +10,3 @@ const retryBtn = document.querySelector('a[href="game.html"]');
 
 // Cập nhật link "Làm lại" với lesson hiện tại
 retryBtn.href = `game.html?lesson=${currentLesson}`;
-
-// Xử lý nếu cần kiểm tra giá trị username (nếu có form nhập username)
-username.addEventListener('keyup', () => {
-    saveScoreBtn.disabled = !username.value;
-});

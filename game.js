@@ -105,7 +105,7 @@ getNewQuestion = () => {
 
 // Hàm mở popup
 function openPopup() {
-    document.getElementById('explanation-popup').style.display = 'flex';
+    document.getElementById('explanation-popup').style.display = 'block';
     document.getElementById('explanation-content').style.display = 'flex';
     explanationText.innerText = currentQuestion.explanation;
 }
