@@ -1,12 +1,336 @@
 [
   {
-    "question": "",
-    "choice1": "",
-    "choice2": "",
-    "choice3": "",
-    "choice4": "",
-    "answer": "",
-    "explanation": ""
+    "question": "Vì sao Đức Phật quyết định chuyển bánh xe pháp?",
+    "choice1": "Vì chúng sanh đều có Phật tánh.",
+    "choice2": "Vì bản tính thanh tịnh của chúng sanh như hoa sen.",
+    "choice3": "Vì chúng sanh cõi ta bà có thể chứng đạo như Ngài.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Đáp án a, b và c đều đúng.",
+    "explanation": "- Mỗi người sinh ra đều có Phật tánh và có thể thành Phật.\n- Giống như hoa sen sống trong bùn tanh hôi nhưng vẫn tỏa nhụy vàng thơm ngát, chúng sinh dù sống trong mê lầm nhưng vẫn có bản tính thanh tịnh.\n- Tất cả chúng sanh đều có Phật tánh. Tất cả chúng sinh đều sẽ thành Phật. Ta là Phật đã thành, chúng sanh là Phật sẽ thành"
+  },
+  {
+    "question": "Sau khi Thành đạo, Đức Phật hóa độ những vị nào đầu tiên?",
+    "choice1": "Nhóm ông Kiều Trần Như.",
+    "choice2": "Nhóm ông Da Xá.",
+    "choice3": "Vua Tần Bà Sa La.",
+    "choice4": "Vua Tịnh Phạn.",
+    "answer": "Nhóm ông Kiều Trần Như.",
+    "explanation": "Khi bắt đầu đi truyền đạo, ý nghĩ trước tiên của Ngài là đến vườn Lộc Uyển tìm mấy người bạn đồng tu với Ngài trước kia để thuyết pháp. Mấy người bạn ấy là các ông: Kiều-Trần-Như, Ác-Bệ, Thập-Lực, Ma-Ha-Nam và Bạc-Ðề. Bài thuyết pháp đầu tiên ấy là Tứ diệu đế. Năm vị nầy đều được khai ngộ, và trở thành 5 đệ tử đầu tiên của Phật.\nTheo trình tự:\n1. Nhóm ông Kiều Trần Như (5 người) được Đức Phật hóa độ đầu tiên.\n2. Nhóm ông Da Xá (55 người) được hóa độ tiếp theo.\n3. Vua Tần-bà-xa-la được Đức Phật đến độ sau khi Ngài rời vườn Lộc Uyển.\n4. Vua Tịnh-Phạn được Đức Phật thuyết pháp khi Ngài trở về thăm quê hương."
+  },
+  {
+    "question": "Đức Phật thuyết pháp độ nhóm ông Kiều Trần Như ở nơi nào?",
+    "choice1": "Vườn Lâm Tỳ Ni.",
+    "choice2": "Vườn Lộc Uyển.",
+    "choice3": "Vườn Trúc Lâm.",
+    "choice4": "Vườn Cấp Cô Độc.",
+    "answer": "Vườn Lộc Uyển.",
+    "explanation": "Khi bắt đầu đi truyền đạo, ý nghĩ trước tiên của Ngài là đến vườn Lộc Uyển tìm mấy người bạn đồng tu với Ngài trước kia để thuyết pháp. Mấy người bạn ấy là các ông: Kiều-Trần-Như, Ác-Bệ, Thập-Lực, Ma-Ha-Nam và Bạc-Ðề. Bài thuyết pháp đầu tiên ấy là Tứ diệu đế. Năm vị nầy đều được khai ngộ, và trở thành 5 đệ tử đầu tiên của Phật."
+  },
+  {
+    "question": "Theo Phật học Phổ thông, Đức Phật chuyển pháp luân với bài pháp đầu tiên là gì?",
+    "choice1": "Tứ Diệu Đế.",
+    "choice2": "Tứ Chánh Cần.",
+    "choice3": "Tứ Như Ý Túc.",
+    "choice4": "Tứ Vô Lượng Tâm.",
+    "answer": "Tứ Diệu Đế.",
+    "explanation": "Khi bắt đầu đi truyền đạo, ý nghĩ trước tiên của Ngài là đến vườn Lộc Uyển tìm mấy người bạn đồng tu với Ngài trước kia để thuyết pháp. Mấy người bạn ấy là các ông: Kiều-Trần-Như, Ác-Bệ, Thập-Lực, Ma-Ha-Nam và Bạc-Ðề. Bài thuyết pháp đầu tiên ấy là Tứ diệu đế. Năm vị nầy đều được khai ngộ, và trở thành 5 đệ tử đầu tiên của Phật."
+  },
+  {
+    "question": "Đức Phật thuyết pháp độ nhóm ông Kiều Trần Như bài pháp thứ hai tên gì?",
+    "choice1": "Tứ Diệu đế.",
+    "choice2": "Vô Ngã tướng.",
+    "choice3": "Chuyển Pháp luân.",
+    "choice4": "Tam Vô Lậu học.",
+    "answer": "Vô Ngã tướng.",
+    "explanation": "Đức Phật thuyết pháp độ nhóm ông Kiều Trần Như bài pháp thứ hai tên là Vô Ngã tướng."
+  },
+  {
+    "question": "Tam bảo lần đầu tiên xuất hiện tại địa điểm nào?",
+    "choice1": "Vườn Lâm Tỳ Ni.",
+    "choice2": "Vườn Lộc Uyển.",
+    "choice3": "Vườn Trúc Lâm.",
+    "choice4": "Vườn Cấp Cô Độc.",
+    "answer": "Vườn Lộc Uyển.",
+    "explanation": "- Vườn Lộc Uyển là nơi Đức Phật thuyết pháp lần đầu tiên, hay còn gọi là sự kiện Chuyển Pháp Luân.\n- Tại đây, Ngài đã độ cho 5 anh em ông Kiều Trần Như và sau đó là nhóm 55 người Bà La Môn, tạo thành Tăng đoàn đầu tiên.\n- Đức Phật là vị Phật đầu tiên của Hiền kiếp, giáo pháp được Ngài truyền bá chính là Pháp, và những người tu hành theo giáo pháp đó tạo thành Tăng.\nNhư vậy, cả ba yếu tố Phật - Pháp - Tăng, hay Tam bảo, đều hội tụ đủ tại vườn Lộc Uyển sau khi Đức Phật thành đạo."
+  },
+  {
+    "question": "Mùa hạ đầu tiên tại vườn Lộc Uyển, Đức Phật độ được bao nhiêu Thánh đệ tử?",
+    "choice1": "5 đệ tử.",
+    "choice2": "6 đệ tử.",
+    "choice3": "60 đệ tử.",
+    "choice4": "80 đệ tử.",
+    "answer": "60 đệ tử.",
+    "explanation": "Trong mùa hạ đầu tiên sau khi thành đạo, Đức Phật đã an cư tại vườn Lộc Uyển và hóa độ được 60 vị Thánh đệ tử, bao gồm 5 anh em ông Kiều Trần Như và 55 người Bà La Môn."
+  },
+  {
+    "question": "Đức Phật hàng phục vị Bà la môn thờ thần lửa cùng với 500 đệ tử xin xuất gia trở thành Tỳ kheo, đó là ai?",
+    "choice1": "Tôn giả Đại Ca Diếp.",
+    "choice2": "Tôn giả Ưu Lâu Tần Loa Ca Diếp.",
+    "choice3": "Tôn giả Già Da Ca Diếp.",
+    "choice4": "Tôn giả Na Đề Ca Diếp.",
+    "answer": "Tôn giả Ưu Lâu Tần Loa Ca Diếp.",
+    "explanation": "Sau khi thuyết pháp cho 60 vị đệ tử đầu tiên, Đức Phật đi ngang qua thôn Ưu Lâu Tần Loa và gặp Tôn giả Ưu Lâu Tần Loa Ca Diếp (một vị tổ sư rất có uy tín của đạo Thờ Lửa). Đức Phật đã cảm hóa được Tôn giả và 500 đệ tử của ngài xin xuất gia theo Phật."
+  },
+  {
+    "question": "Sự hóa độ của Đức Phật như thế nào?",
+    "choice1": "Theo thứ lớp căn cơ.",
+    "choice2": "Tùy phương tiện.",
+    "choice3": "Tinh thần bình đẳng.",
+    "choice4": "Tùy phương tiện, theo thứ lớp căn cơ và tinh thần bình đẳng.",
+    "answer": "Tùy phương tiện, theo thứ lớp căn cơ và tinh thần bình đẳng.",
+    "explanation": "Ba nguyên tắc mà Đức Phật đã dựa vào trong quá trình hóa độ chúng sinh:\n1. Hóa độ theo thứ lớp căn cơ: Đức Phật lựa chọn đối tượng để thuyết pháp dựa trên khả năng lĩnh hội giáo lý của họ. Ngài bắt đầu bằng việc thuyết giảng cho những người có căn cơ tốt, dễ hiểu đạo, như nhóm 5 anh em ông Kiều Trần Như, sau đó mở rộng dần đến những người khác. Việc Ngài thành lập Tăng đoàn trước, rồi sau đó mới cho phép nữ giới xuất gia thành lập Ni đoàn cũng thể hiện nguyên tắc này.\n2. Hóa độ tùy phương tiện: Đức Phật khéo léo sử dụng nhiều phương pháp khác nhau để cảm hóa chúng sinh, tùy theo hoàn cảnh và tâm lý của từng người. Ngài có thể dùng thần thông, kể chuyện, giảng giải giáo lý sâu xa, hay thậm chí đối mặt với những thử thách, nguy hiểm để cảm hóa những người chống đối, đưa họ quay về con đường chân chính.\n3. Hóa độ theo tinh thần bình đẳng: Đức Phật luôn đối xử bình đẳng với mọi người, bất kể xuất thân, địa vị, giàu nghèo, hay giới tính. Ngài khẳng định “Mỗi người sinh ra đều có Phật tánh và có thể thành Phật“, và sẵn sàng tiếp nhận những người thuộc tầng lớp thấp kém trong xã hội vào giáo hội. Kinh Đại Niết Bàn đã tán thán sự bình đẳng trong giáo pháp của Đức Phật, cho thấy Ngài đã thuyết pháp cho mọi tầng lớp, từ vua chúa đến thường dân, từ người giàu sang đến bần cùng, từ nam đến nữ."
+  },
+  {
+    "question": "Vị vua nào cúng dường vườn Ngự uyển cho Đức Phật và Tăng đoàn làm nơi trú ngụ?",
+    "choice1": "Vua Thiện Giác.",
+    "choice2": "Vua Tịnh Phạn.",
+    "choice3": "Vua Tần Bà Sa La.",
+    "choice4": "Vua A Xà Thế.",
+    "answer": "Vua Tần Bà Sa La.",
+    "explanation": "Sau khi Đức Phật thành đạo, Ngài đã giữ lời hứa với vua Tần Bà Sa La và trở lại nước Ma Kiệt Đà để thuyết pháp cho vua. Vua Tần Bà Sa La sau đó đã quy y Tam Bảo và trở thành một đệ tử tại gia của Đức Phật. Để thể hiện lòng thành kính và tạo điều kiện cho Đức Phật và Tăng đoàn có nơi tu tập, vua Tần Bà Sa La đã cúng dường vườn Ngự Uyển (vườn Trúc Lâm) để xây dựng Tinh xá Trúc Lâm."
+  },
+  {
+    "question": "Ngôi Tinh xá đầu tiên cúng dường cho Đức Phật và Tăng đoàn được đặt tên là gì?",
+    "choice1": "Tinh xá Trúc Lâm.",
+    "choice2": "Tinh xá Kỳ Viên.",
+    "choice3": "Giảng đường Trùng Các.",
+    "choice4": "Giảng đường Đông Các.",
+    "answer": "Tinh xá Trúc Lâm.",
+    "explanation": "Sau khi Đức Phật thành đạo, Ngài đã giữ lời hứa với vua Tần Bà Sa La và trở lại nước Ma Kiệt Đà để thuyết pháp cho vua. Vua Tần Bà Sa La sau đó đã quy y Tam Bảo và trở thành một đệ tử tại gia của Đức Phật. Để thể hiện lòng thành kính và tạo điều kiện cho Đức Phật và Tăng đoàn có nơi tu tập, vua Tần Bà Sa La đã cúng dường vườn Ngự Uyển (vườn Trúc Lâm) để xây dựng Tinh xá Trúc Lâm."
+  },
+  {
+    "question": "Tôn giả nào tác động, khiến Xá Lợi Phất phát tâm xuất gia theo Đức Phật tu học?",
+    "choice1": "Tôn giả Ác Bệ.",
+    "choice2": "Tôn giả Thập Lực Ca Diếp.",
+    "choice3": "Tôn giả Bạc Đề.",
+    "choice4": "Tôn giả Ma Ha Nam.",
+    "answer": "Tôn giả Ác Bệ.",
+    "explanation": "Sau khi Đức Phật dạy 60 vị tỳ kheo đầu tiên mang sứ mạng hoằng dương chánh pháp, Tôn giả Xá Lợi Phất và Tôn giả Mục Kiền Liên vẫn chưa hài lòng với pháp môn tu tập hiện tại và muốn tìm một vị thầy giỏi hơn. Hai vị chia nhau ra đi tìm thầy.\n Trên đường đi khất thực, Tôn giả Xá Lợi Phất gặp Tôn giả Ác Bệ. Thấy tướng mạo và oai nghi của Tôn giả Ác Bệ, Ngài Xá Lợi Phất liền hỏi thăm về vị thầy đã dạy cho Tôn giả Ác Bệ tu tập.\n Tôn giả Ác Bệ sau đó đã dẫn Ngài Xá Lợi Phất về gặp Đức Phật. Đức Phật thuyết pháp, Ngài Xá Lợi Phất nghe xong liền đắc quả và phát tâm xuất gia theo Phật."
+  },
+  {
+    "question": "Hai tôn giả nào hướng dẫn 250 vị ngoại đạo về làm đệ tử Đức Phật?",
+    "choice1": "Tôn giả Đại Ca Diếp và Xá Lợi Phất.",
+    "choice2": "Tôn giả Xá Lợi Phất và Mục Kiền Liên.",
+    "choice3": "Tôn giả Đại Ca Diếp và Mục Kiền Liên.",
+    "choice4": "Tôn giả Xá Lợi Phất và A Nan.",
+    "answer": "Tôn giả Xá Lợi Phất và Mục Kiền Liên.",
+    "explanation": "Sau khi Tôn giả Xá Lợi Phất được Tôn giả Ác Bệ giới thiệu và quy y theo Đức Phật, Ngài đã giữ lời hứa với Tôn giả Mục Kiền Liên là sẽ thông báo nếu tìm được bậc minh sư.\n Ngài Xá Lợi Phất sau đó đã tìm đến Tôn giả Mục Kiền Liên và kể về Đức Phật. Ngài Mục Kiền Liên nghe xong liền đến gặp Đức Phật và phát tâm xuất gia.\n 250 vị ngoại đạo vốn là bạn đồng tu với hai vị Tôn giả Xá Lợi Phất và Mục Kiền Liên cũng xin được xuất gia theo Phật."
+  },
+  {
+    "question": "Thí chủ nào đã trải vàng mua đất xây cất Tinh xá cúng dường Đức Phật và Tăng đoàn?",
+    "choice1": "Trưởng giả Cấp Cô Độc.",
+    "choice2": "Thái tử Kỳ Đà.",
+    "choice3": "Nữ thí chủ Tỳ Xá Khư.",
+    "choice4": "Ông Thuần Đà.",
+    "answer": "Trưởng giả Cấp Cô Độc.",
+    "explanation": "Ở thành [Xá-vệ] này, có một vị đại thần tên là Tu-Ðạt-Ða, giàu lòng bố thí cho những kẻ bần cùng côi cút, nên được gọi danh hiệu là Cấp-cô-độc Trưởng giả. Ông rất ngưỡng mộ đức Phật nên đã trút hết tất cả tiền của vàng bạc trong kho ra mua khu vườn rộng lớn của thái tử Kỳ-Ðà để làm tịnh xá cho Phật và đệ tử của Ngài ở, thuyết pháp độ sinh."
+  },
+  {
+    "question": "Ai cúng dường cây cho Đức Phật và Tăng đoàn ở tinh xá Kỳ Viên?",
+    "choice1": "Trưởng giả Cấp Cô Độc.",
+    "choice2": "Thái tử Kỳ Đà.",
+    "choice3": "Vua Ba Tư Nặc.",
+    "choice4": "Nữ đại thí chủ Tỳ Xá Khư.",
+    "answer": "Thái tử Kỳ Đà.",
+    "explanation": "Trưởng giả Cấp Cô Độc muốn mua khu vườn của thái tử Kỳ Đà để xây dựng Tinh xá. Ban đầu, thái tử Kỳ Đà không muốn bán vì ông không thiếu tiền.\n Sau đó, thái tử Kỳ Đà đùa rằng nếu trưởng giả Cấp Cô Độc có thể trải vàng ra khắp khu vườn thì ông sẽ bán.\n Trưởng giả Cấp Cô Độc suy nghĩ nghiêm túc về việc dùng vàng để mua đất, chứng tỏ lòng thành của ông đối với Đức Phật.\n Thái tử Kỳ Đà nhận thấy lòng thành của trưởng giả và hiểu được tầm ảnh hưởng của Đức Phật nên cuối cùng đã đồng ý bán đất. Tuy nhiên, ông chỉ nhận tiền vàng cho phần đất, còn cây cối trong vườn ông xin được cúng dường cho Đức Phật và Tăng đoàn.\n Tinh xá Kỳ Viên do đó có tên là “Kỳ thọ Cấp Cô Độc viên“ - ghép từ tên của thái tử Kỳ Đà (người cúng dường cây) và trưởng giả Cấp Cô Độc (người cúng dường đất)."
+  },
+  {
+    "question": "Đức Phật cử ai hướng dẫn Cấp Cô Độc xây dựng tinh xá Kỳ Viên?",
+    "choice1": "Tôn giả Xá Lợi Phất.",
+    "choice2": "Tôn giả Mục Kiền Liên.",
+    "choice3": "Tôn giả Đại Ca Diếp.",
+    "choice4": "Tôn giả A Nan.",
+    "answer": "Tôn giả Xá Lợi Phất.",
+    "explanation": "Sau khi trưởng giả Cấp Cô Độc mua được đất và thái tử Kỳ Đà cúng dường cây cối, Đức Phật đã cử Tôn giả Xá Lợi Phất hướng dẫn Cấp Cô Độc xây dựng Tinh xá Kỳ Viên."
+  },
+  {
+    "question": "Đệ tử nào của Đức Phật khi còn tại gia, sống bên cạnh mỹ nhân lòng không động tà niệm?",
+    "choice1": "Tôn giả Xá Lợi Phất.",
+    "choice2": "Tôn giả Đại Mục Kiền Liên.",
+    "choice3": "Tôn giả Đại Ca Diếp.",
+    "choice4": "Tôn giả Đại Ca Chiên Diên.",
+    "answer": "Tôn giả Đại Ca Diếp.",
+    "explanation": "Ca Diếp là người có tướng mạo khôi ngô tuấn tú, tài năng hơn người. Cha mẹ ông muốn tìm cho ông một người vợ xứng đáng nhưng ông một lòng muốn tu hành, giải thoát.\n Để thoái thác việc hôn nhân, Ca Diếp đúc một tượng mỹ nữ bằng vàng và nói với cha mẹ rằng chỉ cưới người con gái giống hệt như tượng.\n Tình cờ, cha mẹ Ca Diếp tìm được một cô gái có dung mạo giống hệt bức tượng, đó là Diệu Hiền. Hai gia đình đều môn đăng hộ đối nên nhanh chóng tiến hành hôn lễ.\n Về chung một nhà, Ca Diếp liền bày tỏ nguyện vọng sống đời thanh tịnh, chuyên tâm tu hành với Diệu Hiền. Hai người quy ước ngủ riêng giường, sau đó thay phiên nhau ngủ và đả tọa niệm Phật.\n Một lần, khi Diệu Hiền đang ngủ, Ca Diếp nhìn thấy rắn độc bò đến gần và đã cứu Diệu Hiền mà không hề có tà niệm.\n Sau khi cha mẹ qua đời, Ca Diếp quyết định xuất gia tìm minh sư và gặp được Đức Phật. Ông chứng đắc quả vị A La Hán sau khi nghe Đức Phật thuyết pháp.\n Diệu Hiền sau đó cũng xuất gia tu hành theo Phật và chứng đắc quả vị La Hán."
+  },
+  {
+    "question": "Khi về thăm Ca Tỳ La Vệ, vua Tịnh Phạn yêu cầu điều gì và Đức Phật đã chấp thuận?",
+    "choice1": "Giao gia tài cho La Hầu La.",
+    "choice2": "Không được đi khất thực trong thành.",
+    "choice3": "Sau này độ ai xuất gia thì phải được sự chấp thuận của cha mẹ.",
+    "choice4": "Đáp án a và b đều đúng.",
+    "answer": "Sau này độ ai xuất gia thì phải được sự chấp thuận của cha mẹ.",
+    "explanation": "Vua Tịnh Phạn rất đau buồn trước việc thái tử Tất-Đạt-Đa, Nan-Đà và La Hầu La đều xuất gia theo Phật. Ông lo lắng cho những bậc cha mẹ có con cái xuất gia sau này sẽ phải chịu nỗi đau khổ tương tự. Do đó, ông yêu cầu Đức Phật từ đó về sau, nếu độ ai xuất gia, cần phải có sự đồng thuận của cha mẹ. Đức Phật đã chấp thuận yêu cầu này."
+  },
+  {
+    "question": "Theo Phật học Phổ thông, khi vua Tịnh Phạn sắp băng hà, Đức Phật thuyết bài pháp gì cho đức vua?",
+    "choice1": "Vô thường, khổ, không, vô ngã.",
+    "choice2": "Chư hành vô thường, chư pháp vô ngã và Niết bàn tịch tịnh.",
+    "choice3": "Khổ, vô thường, vô ngã.",
+    "choice4": "Thân vô thường, tâm vô thường và hoàn cảnh vô thường.",
+    "answer": "Vô thường, khổ, không, vô ngã.",
+    "explanation": "Đức Phật đã giảng về vô thường, khổ, không, vô ngã cho vua Tịnh Phạn. Bài pháp này nhằm giúp vua Tịnh Phạn buông bỏ chấp trước, nhận ra bản chất thực sự của cuộc đời là vô thường, đầy khổ đau, vạn vật đều không có bản chất cố định (không) và bản ngã cũng chỉ là ảo tưởng (vô ngã). Nhờ hiểu được những giáo lý này, vua Tịnh Phạn có thể dứt bỏ phiền não, an nhiên ra đi."
+  },
+  {
+    "question": "Khi tôn giả A Nan gặp nạn Ma Đăng Già, Đức Phật thuyết kinh gì?",
+    "choice1": "Kinh Hoa Nghiêm.",
+    "choice2": "Kinh Lăng Nghiêm.",
+    "choice3": "Kinh Lăng Già.",
+    "choice4": "Kinh Pháp Hoa.",
+    "answer": "Kinh Lăng Nghiêm.",
+    "explanation": "Còn đối với ông A-Nan, người học rộng nghe nhiều, nhưng vì nghiệp duyên còn nặng, nên mắc nạn “Ma-đăng-già”, thì Phật lại đem giáo lý thâm sâu là kinh Lăng Nghiêm ra giảng dạy để cho ông A-Nan thấy rõ được cái quí giá của chân tâm mà lo tu luyện, chứ không giong ruổi theo giả cảnh nữa."
+  },
+  {
+    "question": "Tỳ kheo ni đầu tiên chứng quả A la hán là vị nào?",
+    "choice1": "Bà Ma Ha Ba Xà Ba Đề.",
+    "choice2": "Bà Da Du Đà La.",
+    "choice3": "Bà Khế Ma.",
+    "choice4": "Bà Mạt Lợi.",
+    "answer": "Bà Ma Ha Ba Xà Ba Đề.",
+    "explanation": "Tỳ kheo ni đầu tiên chứng quả A la hán là Bà Ma Ha Ba Xà Ba Đề."
+  },
+  {
+    "question": "Vị đệ tử nào của Đức Phật được tôn xưng là “Trí huệ đệ nhất”?",
+    "choice1": "Tôn giả Xá Lợi Phất.",
+    "choice2": "Tôn giả Mục Kiền Liên.",
+    "choice3": "Tôn giả Đại Ca Diếp.",
+    "choice4": "Tôn giả Phú Lâu Na.",
+    "answer": "Tôn giả Xá Lợi Phất.",
+    "explanation": "Tôn giả Xá Lợi Phất được tôn xưng là “Trí huệ đệ nhất“ trong hàng đệ tử của Đức Phật."
+  },
+  {
+    "question": "Vị thị giả nào theo hầu Đức Phật được tôn xưng là “Đa văn đệ nhất”?",
+    "choice1": "Tôn giả Kiều Trần Như.",
+    "choice2": "Tôn giả Nan Đà.",
+    "choice3": "Tôn giả A Nan.",
+    "choice4": "Tôn giả Phú Lâu Na.",
+    "answer": "Tôn giả A Nan.",
+    "explanation": "Tôn giả A Nan chính là vị thị giả theo hầu Đức Phật được tôn xưng là “Đa văn đệ nhất.“ Danh hiệu này có nghĩa là Ngài là người nghe nhiều, nhớ nhiều lời Phật dạy nhất."
+  },
+  {
+    "question": "Đại đệ tử nào của Đức Phật được tôn xưng là “Mật hạnh đệ nhất”?",
+    "choice1": "Tôn giả Đại Ca Diếp.",
+    "choice2": "Tôn giả La Hầu La.",
+    "choice3": "Tôn giả Ưu Ba Ly.",
+    "choice4": "Tôn giả A Nan.",
+    "answer": "Tôn giả La Hầu La.",
+    "explanation": "Tôn giả La Hầu La là con trai của Đức Phật, được tôn xưng là “Mật hạnh đệ nhất“."
+  },
+  {
+    "question": "Đại đệ tử nào của Đức Phật được tôn xưng là “Thuyết pháp đệ nhất”?",
+    "choice1": "Tôn giả Kiều Trần Như.",
+    "choice2": "Tôn giả Nan Đà.",
+    "choice3": "Tôn giả A Nan.",
+    "choice4": "Tôn giả Phú Lâu Na.",
+    "answer": "Tôn giả Phú Lâu Na.",
+    "explanation": "Tôn giả Phú Lâu Na được tôn xưng là “Thuyết pháp đệ nhất“ trong hàng đệ tử của Đức Phật."
+  },
+  {
+    "question": "Vị đại đệ tử nào của Đức Phật được tôn xưng là “Giới luật đệ nhất”?",
+    "choice1": "Tôn giả La Hầu La.",
+    "choice2": "Tôn giả A Nan.",
+    "choice3": "Tôn giả Ưu Ba Ly.",
+    "choice4": "Tôn giả A Na Luật.",
+    "answer": "Tôn giả Ưu Ba Ly.",
+    "explanation": "Tôn giả Ưu Ba Ly được tôn xưng là “Giới luật đệ nhất“, là người am hiểu và trì giữ giới luật tinh nghiêm nhất trong hàng đệ tử của Đức Phật."
+  },
+  {
+    "question": "Vị đại đệ tử nào của Đức Phật được tôn xưng là “Thiên nhãn đệ nhất”?",
+    "choice1": "Tôn giả Kiều Trần Như.",
+    "choice2": "Tôn giả A Nan Đà.",
+    "choice3": "Tôn giả A Na Luật.",
+    "choice4": "Tôn giả Phú Lâu Na.",
+    "answer": "Tôn giả A Na Luật.",
+    "explanation": "Tôn giả A Na Luật được tôn xưng là “Thiên nhãn đệ nhất“"
+  },
+  {
+    "question": "Đại đệ tử nào của Đức Phật được tôn xưng “Giải không đệ nhất”?",
+    "choice1": "Tôn giả Xá Lợi Phất.",
+    "choice2": "Tôn giả Mục Kiền Liên.",
+    "choice3": "Tôn giả Đại Ca Diếp.",
+    "choice4": "Tôn giả Tu Bồ Đề.",
+    "answer": "Tôn giả Tu Bồ Đề.",
+    "explanation": "Tôn giả Tu Bồ Đề được tôn xưng là “Giải Không Đệ Nhất“"
+  },
+  {
+    "question": "Năm thời thuyết pháp, Đức Phật nói những kinh gì?",
+    "choice1": "Hoa Nghiêm, A Hàm, Phương Đẳng, Bát Nhã, Pháp Hoa, Niết Bàn.",
+    "choice2": "Lăng Nghiêm A Hàm, Phương Đẳng, Bát Nhã, Pháp Hoa.",
+    "choice3": "Lăng Nghiêm, Di Giáo, Phương Đẳng, Bát Nhã, Pháp Hoa.",
+    "choice4": "Hoa Nghiêm, Di Giáo, Phương Đẳng, Bát Nhã, Pháp Hoa.",
+    "answer": "Hoa Nghiêm, A Hàm, Phương Đẳng, Bát Nhã, Pháp Hoa, Niết Bàn.",
+    "explanation": "“Hoa Nghiêm tối sơ tam thất nhựt.\nA Hàm thập nhị, Phương Đẳng bát,\nNhị thập nhị niên Bát Nhã đàm,\nPháp Hoa Niết, Bàn cộng bát niên.“\n“Trước nói Hoa Nghiêm hăm mốt ngày\nA-Hàm mười hai, Phương Đẳng tám\nHai mươi hai năm nói Kinh Bát Nhã\nPháp Hoa Niết Bàn cộng tám năm”.\n- Thời kỳ 1: Kinh Hoa Nghiêm (21 ngày). Thời kỳ này, Đức Phật giảng về bản chất chân thật của vạn vật, những giáo lý thâm sâu, chỉ có các vị Phật và Bồ Tát giác ngộ cao mới có thể hiểu được.\n- Thời kỳ 2: Kinh A Hàm (12 năm). Đức Phật dùng những ví dụ thực tế, dễ hiểu để giảng giải giáo lý, giúp cho các vị thuộc tiểu thừa dễ dàng tiếp nhận và tu tập.\n- Thời kỳ 3: Kinh Phương Đẳng (8 năm). Đức Phật hướng dẫn các vị thuộc tiểu thừa tiến lên đại thừa, giúp họ mở rộng tâm từ bi, không chỉ giải thoát cho bản thân mà còn hướng đến việc cứu độ tất cả chúng sinh.\n- Thời kỳ 4: Kinh Bát Nhã (22 năm). Đức Phật giảng giải về lý ”không” (tính không, vô ngã) - một trong những giáo lý trọng tâm của Phật giáo Đại thừa.\n- Thời kỳ 5: Kinh Pháp Hoa và Niết Bàn (8 năm). Đức Phật khẳng định mục đích của Ngài khi thị hiện ra đời là để khai thị cho chúng sinh ngộ nhập Phật tri kiến. Ngài cũng thọ ký cho các đệ tử rằng họ sẽ thành Phật trong tương lai."
+  },
+  {
+    "question": "Người đệ tử cuối cùng chứng thánh quả A La Hán của Đức Phật là ai?",
+    "choice1": "Tôn giả Ca Na Đề Bà.",
+    "choice2": "Tôn giả La Hầu La.",
+    "choice3": "Tôn giả Di Già Ca.",
+    "choice4": "Tôn giả Tu Bạt Đà La.",
+    "answer": "Tôn giả Tu Bạt Đà La.",
+    "explanation": "Nghe tin Ngài sắp nhập Niết-bàn, dân chúng quanh vùng đến kính viếng rất đông, trong số ấy có một ông già ngoài 80 tuổi, tên Tu-bạt-đà-la đến xin xuất gia thọ giới Sa di với Ngài, Ngài hoan hỷ nhận lời. Ðó là người đệ tử chót trong đời Ngài."
+  },
+  {
+    "question": "Ai là người cúng dường Đức Phật bữa cơm cuối cùng?",
+    "choice1": "Ông Cấp Cô Độc.",
+    "choice2": "Ông Tu Đạt Đa.",
+    "choice3": "Vua Ba Tư Nặc.",
+    "choice4": "Ông Thuần Đà.",
+    "answer": "Ông Thuần Đà.",
+    "explanation": "Trong thời gian ba tháng cuối cùng của Ngài, đức Phật vẫn không nghỉ ngơi, mà vẫn tiếp tục đi truyền đạo. Một hôm Ngài đi thuyết pháp ngang qua một khu rừng, gặp một người làm nghề đốt than, ông Thuần-Ðà, thỉnh Ngài về nhà để thọ trai. Ngài im lặng nhận lời cùng các đệ tử theo ông về. Ðến nhà ông Thuần-Ðà dọn ra cúng dường Ngài một bát cháo nấm, thường gọi là nấm heo rừng, vì giống nấm này rất được giống heo rừng ưa thích."
+  },
+  {
+    "question": "Trước khi nhập Niết bàn, Đức Phật di huấn điều gì cho các đệ tử?",
+    "choice1": "Phải tôn sư trọng đạo, nghe theo lời thầy chỉ dạy.",
+    "choice2": "Phải tôn kính Phật, Pháp, Tăng như khi Đức Phật còn tại thế.",
+    "choice3": "Phải tôn trọng giới luật, lấy giới luật làm thầy.",
+    "choice4": "Không có câu nào đúng trọn vẹn.",
+    "answer": "Phải tôn trọng giới luật, lấy giới luật làm thầy.",
+    "explanation": "Phật nói Kinh Di Giáo và những lời phú chúc\nLúc bấy giờ các đệ tử của Ngài đều có mặt đông đủ, chỉ trừ ông Ca-Diếp vì đi thuyết pháp xa, chưa về kịp. Ngài hội tất cả đệ tử và tín đồ đến quanh Ngài và dặn dò một lần cuối. Ngài phú chúc như sau:\n a) Y, bát của Ngài sẽ truyền cho ông Ma-ha Ca-Diếp.\n b) Các đệ tử phải lấy giới luật làm thầy.\n c) Ở đầu các kinh phải nêu 4 chữ: “Như thị ngã văn”.\n d) Xá lợi của Ngài sẽ chia làm ba phần:\n   – Một phần cho thiên cung,\n   – Một phần cho long cung,\n   – Một phần chia cho 8 vị quốc vương ở Ấn Độ."
+  },
+  {
+    "question": "Những lời dạy sau cùng của Đức Phật được ghi trong quyển kinh nào?",
+    "choice1": "Kinh Lăng Nghiêm.",
+    "choice2": "Kinh Hoa Nghiêm.",
+    "choice3": "Kinh Pháp Hoa.",
+    "choice4": "Kinh Di Giáo.",
+    "answer": "Kinh Di Giáo.",
+    "explanation": "Kinh Di Giáo: Là một bộ kinh ngắn, ghi lại những lời dạy cuối cùng của Đức Phật dành cho các đệ tử. Kinh tập trung vào những lời khuyên thiết thực, dễ áp dụng như: lấy giới luật làm thầy, tự thắp đuốc lên mà đi, tinh tấn tu tập để giải thoát..."
+  },
+  {
+    "question": "Theo Phật học Phổ thông, Đức Phật nhập Niết bàn ở đâu?",
+    "choice1": "Dưới cây Vô ưu.",
+    "choice2": "Dưới cội Bồ đề.",
+    "choice3": "Rừng cây Tất bát la.",
+    "choice4": "Rừng Sa la.",
+    "answer": "Rừng Sa la.",
+    "explanation": "Đức Phật đã nhập Niết Bàn tại rừng Sa-la thuộc xứ Câu-ly, cách thành Ba-la-nại 120 dặm."
+  },
+  {
+    "question": "Theo Phật giáo Bắc truyền, Đức Phật nhập Niết bàn ngày nào?",
+    "choice1": "Ngày 8/2 âm lịch.",
+    "choice2": "Ngày 15/2 âm lịch.",
+    "choice3": "Ngày 15/4 âm lịch.",
+    "choice4": "Ngày 8/12 âm lịch.",
+    "answer": "Ngày 15/2 âm lịch.",
+    "explanation": "Theo Phật giáo Bắc truyền, Đức Phật nhập Niết Bàn vào ngày 15/2 âm lịch."
+  },
+  {
+    "question": "Theo lịch sử Phật giáo Bắc truyền, Đức Phật Niết bàn khi bao nhiêu tuổi?",
+    "choice1": "75 tuổi.",
+    "choice2": "80 tuổi",
+    "choice3": "90 tuổi",
+    "choice4": "100 tuổi",
+    "answer": "80 tuổi",
+    "explanation": "Theo lịch sử Phật giáo Bắc truyền, Đức Phật Niết bàn khi bao nhiêu 80 tuổi."
+  },
+  {
+    "question": "Sau khi Phật nhập Niết bàn, ai kế thừa Đức Phật lãnh đạo giáo đoàn?",
+    "choice1": "Tôn giả Xá Lợi Phất.",
+    "choice2": "Tôn giả Đại Ca Diếp.",
+    "choice3": "Tôn giả A Nan.",
+    "choice4": "Tập thể lãnh đạo.",
+    "answer": "Tôn giả Đại Ca Diếp.",
+    "explanation": "Tôn giả Đại Ca Diếp là người kế thừa Đức Phật lãnh đạo giáo đoàn sau khi Ngài nhập Niết Bàn."
   }
 ]
   

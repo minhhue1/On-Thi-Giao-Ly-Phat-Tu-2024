@@ -68,43 +68,45 @@ getNewQuestion = () => {
             window.location.assign('end.html');
         }, 100);
     }
-    questionCounter++;
-    progressText.innerText = `Câu ${questionCounter}/${MAX_QUESTIONS}`;
-    //Update the progress bar
-    progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;
-
-    const questionIndex = Math.floor(Math.random() * availableQuesions.length);
-    currentQuestion = availableQuesions[questionIndex];
-    question.innerText = currentQuestion.question;
-
-    // choices.forEach((choice) => {
-    //     const number = choice.dataset['number'];
-    //     choice.innerText = currentQuestion['choice' + number];
-    // });
-
-    // Hàm trộn mảng (shuffle array)
-    function shuffle(array) {
-        for (let i = array.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [array[i], array[j]] = [array[j], array[i]];  // Hoán đổi vị trí
+    else{
+        questionCounter++;
+        progressText.innerText = `Câu ${questionCounter}/${MAX_QUESTIONS}`;
+        //Update the progress bar
+        progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;
+    
+        const questionIndex = Math.floor(Math.random() * availableQuesions.length);
+        currentQuestion = availableQuesions[questionIndex];
+        question.innerText = currentQuestion.question;
+    
+        // choices.forEach((choice) => {
+        //     const number = choice.dataset['number'];
+        //     choice.innerText = currentQuestion['choice' + number];
+        // });
+    
+        // Hàm trộn mảng (shuffle array)
+        function shuffle(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];  // Hoán đổi vị trí
+            }
+            return array;
         }
-        return array;
+    
+        // Tạo mảng chứa các số từ 1 đến 4
+        let numbers = [1, 2, 3, 4];
+    
+        // // Trộn mảng để đảm bảo các số ngẫu nhiên và không trùng lặp
+        // numbers = shuffle(numbers);
+    
+        // Đặt nội dung cho các lựa chọn dựa trên số ngẫu nhiên
+        choices.forEach((choice, index) => {
+            const number = numbers[index];  // Lấy số ngẫu nhiên từ mảng đã trộn
+            choice.innerText = currentQuestion['choice' + number];  // Đặt nội dung cho lựa chọn
+        });
+    
+        availableQuesions.splice(questionIndex, 1);
+        acceptingAnswers = true;    
     }
-
-    // Tạo mảng chứa các số từ 1 đến 4
-    let numbers = [1, 2, 3, 4];
-
-    // // Trộn mảng để đảm bảo các số ngẫu nhiên và không trùng lặp
-    // numbers = shuffle(numbers);
-
-    // Đặt nội dung cho các lựa chọn dựa trên số ngẫu nhiên
-    choices.forEach((choice, index) => {
-        const number = numbers[index];  // Lấy số ngẫu nhiên từ mảng đã trộn
-        choice.innerText = currentQuestion['choice' + number];  // Đặt nội dung cho lựa chọn
-    });
-
-    availableQuesions.splice(questionIndex, 1);
-    acceptingAnswers = true;
 };
 
 function scrollToBottom() {
