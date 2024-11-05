@@ -1,20 +1,155 @@
 [
   {
-    "question": "",
-    "choice1": "",
-    "choice2": "",
-    "choice3": "",
-    "choice4": "",
-    "answer": "",
+    "question": "Theo Phật học Phổ thông, Phật tử tại gia quy y và thọ trì bao nhiêu giới?",
+    "choice1": "5 giới.",
+    "choice2": "8 giới.",
+    "choice3": "10 giới.",
+    "choice4": "48 giới.",
+    "answer": "5 giới.",
+    "explanation": "Sau khi quy y Tam Bảo rồi, người Phật tử tại gia phải sống đúng theo quy luật mà Ðức Phật đã chế ra, để tiến bước trên đường đạo. Quy luật ấy là Ngũ giới. (5 giới)"
+  },
+  {
+    "question": "Ngũ giới gồm những giới nào?",
+    "choice1": "Không sát sanh, không trộm cắp, không tà dâm, không nói dối, bán uống rượu.",
+    "choice2": "Không giết hại, không trộm cướp, không dâm, không nói sai, không uống rượu.",
+    "choice3": "Không sát nhân, không trộm cắp, không tà dâm, không nói dối, không uống rượu.",
+    "choice4": "Không sát sanh, không trộm cắp, không tà dâm, không nói dối, không uống rượu.",
+    "answer": "Không sát sanh, không trộm cắp, không tà dâm, không nói dối, không uống rượu.",
+    "explanation": "Ngũ giới gồm:\n- Không sát sanh.\n- Không trộm cắp.\n- Không tà dâm.\n- Không nói dối.\n- Không uống rượu."
+  },
+  {
+    "question": "Trong ngũ thừa, ngũ giới thuộc thừa nào?",
+    "choice1": "Nhân thừa.",
+    "choice2": "Thiên thừa.",
+    "choice3": "Thanh văn thừa",
+    "choice4": "Duyên giác thừa",
+    "answer": "Nhân thừa.",
+    "explanation": "Trong ngũ thừa, ngũ giới thuộc về nhân thừa. Chúng ta thọ Tam quy Trì ngũ giới, gieo tạo những cái nhân để chúng ta là trở lại làm người hưởng phước báo giàu sang danh vọng địa vị thì cái đó nó thuộc về là nhân thừa"
+  },
+  {
+    "question": "Người thọ trì ngũ giới được lợi ích gì?",
+    "choice1": "Ngăn ngừa chúng ta làm điều sai trái.",
+    "choice2": "Đem lại an vui, hạnh phúc cho gia đình.",
+    "choice3": "Đem lại thanh bình thịnh vượng cho quốc gia.",
+    "choice4": "Lợi ích thiết thực cho bản thân, gia đình và xã hội.",
+    "answer": "Lợi ích thiết thực cho bản thân, gia đình và xã hội.",
+    "explanation": "Thọ trì Ngũ Giới mang lại lợi ích thiết thực cho bản thân, gia đình, và xã hội. Việc thực hành Ngũ Giới không chỉ giúp cá nhân tu tập, hoàn thiện bản thân mà còn góp phần xây dựng gia đình hạnh phúc, xã hội an vui, văn minh."
+  },
+  {
+    "question": "Vì sao Phật tử phải giữ giới không sát sanh?",
+    "choice1": "Vì thương yêu mạng sống muôn loài.",
+    "choice2": "Vì chúng ta và chúng sanh đều là quyến thuộc.",
+    "choice3": "Vì mọi sinh vật đều tham sống sợ chết.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Đáp án a, b và c đều đúng.",
+    "explanation": "Phật tử phải giữ giới không sát sanh vì:\n- Vì thương yêu mạng sống muôn loài.\n- Vì chúng ta và chúng sanh đều là quyến thuộc.\n- Vì mọi sinh vật đều tham sống sợ chết."
+  },
+  {
+    "question": "Hình thức tích cực giữ giới không sát sinh là gì?",
+    "choice1": "Ăn chay.",
+    "choice2": "Phóng sinh.",
+    "choice3": "Giữ gìn môi sinh.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Đáp án a, b và c đều đúng.",
+    "explanation": "Ăn chay, phóng sinh và giữ gìn môi sinh là ba hình thức tích cực để giữ gìn giới không sát sanh. Những hành động này không chỉ thể hiện lòng từ bi mà còn góp phần xây dựng một thế giới hòa bình, an lạc cho cả con người và muôn loài."
+  },
+  {
+    "question": "Nguyên nhân Đức Phật chế giới không sát sinh?",
+    "choice1": "Tôn trọng sự công bằng.",
+    "choice2": "Tôn trọng Phật tánh bình đẳng.",
+    "choice3": "Nuôi dưỡng lòng từ bi và tránh nhân quả báo ứng oán thù.",
+    "choice4": "Gồm đáp án a, b và c.",
+    "answer": "Gồm đáp án a, b và c.",
+    "explanation": "Đức Phật chế giới không sát sinh dựa trên nhiều nguyên nhân, bao gồm tôn trọng sự công bằng, tôn trọng Phật tánh bình đẳng, nuôi dưỡng lòng từ bi và tránh nhân quả báo ứng oán thù. "
+  },
+  {
+    "question": "Lợi ích của việc giữ giới không sát sinh là gì?",
+    "choice1": "Tăng trưởng lòng từ bi.",
+    "choice2": "Tránh được nhân quả báo ứng, oán thù.",
+    "choice3": "Không ảnh hưởng xấu đến sức khoẻ và tuổi thọ.",
+    "choice4": "Gồm đáp án a, b và c.",
+    "answer": "Gồm đáp án a, b và c.",
+    "explanation": "Lợi ích của việc giữ giới không sát sinh là: Tăng trưởng lòng từ bi; Tránh được nhân quả báo ứng, oán thù; Không ảnh hưởng xấu đến sức khoẻ và tuổi thọ."
+  },
+  {
+    "question": "Vì lý do gì Đức Phật cấm trộm cướp?",
+    "choice1": "Tôn trọng sự công bằng.",
+    "choice2": "Tôn trọng sự bình đẳng.",
+    "choice3": "Nuôi dưỡng lòng từ và tránh nghiệp báo oán thù.",
+    "choice4": "Gồm đáp án a, b và c.",
+    "answer": "Gồm đáp án a, b và c.",
+    "explanation": "Đức Phật cấm trộm cướp vì: Tôn trọng sự công bằng, tôn trọng sự bình đẳng, nuôi dưỡng lòng từ và tránh nghiệp báo oán thù."
+  },
+  {
+    "question": "Thế nào gọi là trộm cướp?",
+    "choice1": "Tài vật của người không cho mà cướp lấy, cưỡng ép, lừa gạt và chiếm đoạt.",
+    "choice2": "Từ vật quý giá đến cây kim, ngọn cỏ người ta không cho mà lấy.",
+    "choice3": "Trốn thuế, tham nhũng, biến của công thành của riêng.",
+    "choice4": "Gồm đáp án a, b và c.",
+    "answer": "Gồm đáp án a, b và c.",
     "explanation": ""
   },
   {
-    "question": "",
-    "choice1": "",
-    "choice2": "",
-    "choice3": "",
-    "choice4": "",
-    "answer": "",
+    "question": "Lợi ích của việc giữ giới không trộm cướp là gì?",
+    "choice1": "Được phước báu giàu sang sung sướng.",
+    "choice2": "Không bị mất tài sản của mình.",
+    "choice3": "Không bị luật pháp truy tố, trừng phạt và các hậu quả xấu khác.",
+    "choice4": "Gồm đáp án a, b và c.",
+    "answer": "Gồm đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "Vì sao Đức Phật cấm không tà dâm?",
+    "choice1": "Tôn trọng sự công bình, tránh oán thù và quả báo xấu xa.",
+    "choice2": "Tránh oán thù và quả báo xấu xa.",
+    "choice3": "Tôn trọng sự công bình, bảo vệ hạnh phúc gia đình; tránh oán thù và quả báo xấu xa.",
+    "choice4": "Tôn trọng sự công bình, tránh oán thù và quả báo xấu xa.",
+    "answer": "Tôn trọng sự công bình, bảo vệ hạnh phúc gia đình; tránh oán thù và quả báo xấu xa.",
+    "explanation": "Đức Phật cấm không tà dâm vì:\n- Tôn trọng sự công bình.\n- bảo vệ hạnh phúc gia đình\n- Tránh oán thù và quả báo xấu xa."
+  },
+  {
+    "question": "Lợi ích của việc giữ giới không tà dâm là gì?",
+    "choice1": "Bảo vệ hạnh phúc gia đình của mình và của người.",
+    "choice2": "Tránh được các hình thức thù oán và quả báo xấu.",
+    "choice3": "Tránh được những chứng bệnh lây nhiễm.",
+    "choice4": "Gồm đáp án a, b và c.",
+    "answer": "Gồm đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "Giới thứ 4 trong ngũ giới, nói sai sự thật gồm các cách nói nào?",
+    "choice1": "Nói dối, nói lưỡi hai chiều, nói lời hung ác.",
+    "choice2": "Nói dối, nói thêu dệt, nói lưỡi hai chiều, nói lời hung ác.",
+    "choice3": "Nói thêu dệt, nói lưỡi hai chiều, nói lời hung ác.",
+    "choice4": "Nói dối, nói thêu dệt, nói tục, nói lời hung ác.",
+    "answer": "Nói dối, nói thêu dệt, nói lưỡi hai chiều, nói lời hung ác.",
+    "explanation": "Nói sai sự thật gồm: Nói dối, nói thêu dệt, nói lưỡi hai chiều, nói lời hung ác."
+  },
+  {
+    "question": "Vì sao Đức Phật cấm không được nói sai sự thật?",
+    "choice1": "Tôn trọng sự thật, bảo tồn sự trung tín trong xã hội, nuôi dưỡng long từ bi và tránh nghiệp báo khổ đau.",
+    "choice2": "Tôn trọng Phật tánh, lòng từ bi và tránh nghiệp báo khổ đau.",
+    "choice3": "Tôn trọng sự thật, tôn trọng Phật tánh và tránh nghiệp báo khổ đau.",
+    "choice4": "Tôn trọng sự thật, tôn trọng sự công bằng, tôn trọng lòng từ bi.",
+    "answer": "Tôn trọng sự thật, bảo tồn sự trung tín trong xã hội, nuôi dưỡng long từ bi và tránh nghiệp báo khổ đau.",
+    "explanation": "Đức Phật cấm không được nói sai sự thật vì: Tôn trọng sự thật, bảo tồn sự trung tín trong xã hội, nuôi dưỡng long từ bi và tránh nghiệp báo khổ đau."
+  },
+  {
+    "question": "Lợi ích của việc giữ giới không nói dối là gì?",
+    "choice1": "Tăng uy tín, tránh được các hậu quả xấu ác.",
+    "choice2": "Miệng thường thơm sạch.",
+    "choice3": "Không bị dư luận đàm tiếu, xã hội cô lập.",
+    "choice4": "Gồm đáp án a, b và c.",
+    "answer": "Gồm đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "Lợi ích của giữ giới không uống rượu là gì?",
+    "choice1": "Bảo toàn hạt giống trí huệ, ngăn ngừa tội lỗi.",
+    "choice2": "Không bị quở trách, chê cười.",
+    "choice3": "Có sức khoẻ, tư cách và sống có trách nhiệm.",
+    "choice4": "Gồm đáp án a, b và c.",
+    "answer": "Gồm đáp án a, b và c.",
     "explanation": ""
   }
 ]
