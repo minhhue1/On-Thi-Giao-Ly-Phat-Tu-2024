@@ -11,7 +11,12 @@ let currentQuestion = {};
 let acceptingAnswers = false;
 let score = 0;
 let questionCounter = 0;
-let availableQuesions = [];
+let availableQuestions = [];
+
+let questions = [];
+const TOTAL_QUESTIONS = 90;
+const NUM_LESSONS = 20;  // Tổng số bài học
+const CORRECT_BONUS = 1;
 
 // Hàm lấy giá trị của tham số URL
 function getParameterByName(name) {
@@ -19,95 +24,113 @@ function getParameterByName(name) {
     return urlParams.get(name);
 }
 
-let currentLesson = getParameterByName('lesson'); // Lấy chương từ URL
+let currentLesson = getParameterByName('lesson');
 if (!currentLesson) {
-    currentLesson = 1;  // Nếu không có chương nào, mặc định là chương 1
+    currentLesson = 1;  // Nếu không có bài học nào, mặc định là bài học 1
 }
 
-let questions = [];
 let MAX_QUESTIONS;
 
-// Hàm tải câu hỏi theo chương
-function loadQuestions(lesson) {
-    const jsonFile = `lesson${lesson}.json`;  // Tải file JSON tương ứng
-    fetch(jsonFile)
-        .then((res) => res.json())
-        .then((loadedQuestions) => {
-            questions = loadedQuestions;
-            MAX_QUESTIONS = questions.length;
-            startGame();  // Bắt đầu trò chơi khi đã tải xong câu hỏi
-        })
-        .catch((err) => console.error(err));
+async function loadQuestions() {
+    if (currentLesson === 'test') {
+        await loadQuestionsByLesson();  // Tải câu hỏi từ tất cả các bài học
+    } else {
+        await loadQuestionsFromFile(currentLesson);  // Tải câu hỏi từ bài học cụ thể
+    }
+    startGame();  // Bắt đầu trò chơi khi đã tải xong câu hỏi
 }
 
-// Gọi hàm tải câu hỏi khi bắt đầu game
-loadQuestions(currentLesson);
+// Hàm trộn mảng
+function shuffle(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];  // Hoán đổi vị trí
+    }
+    return array;
+}
 
-//CONSTANTS
-const CORRECT_BONUS = 1;
+// Hàm tải câu hỏi từ một bài học cụ thể
+async function loadQuestionsFromFile(lesson) {
+    const jsonFile = `lesson${lesson}.json`;
+    try {
+        const res = await fetch(jsonFile);
+        const loadedQuestions = await res.json();
+        questions = loadedQuestions;
+        MAX_QUESTIONS = questions.length;
+    } catch (err) {
+        console.error(`Error loading questions from ${jsonFile}:`, err);
+    }
+}
 
-startGame = () => {
+// Hàm tải câu hỏi từ tất cả bài học và chọn ngẫu nhiên 90 câu theo tỷ lệ
+async function loadQuestionsByLesson() {
+    questions = [];
+    let totalQuestionsInLessons = 0;
+    let lessonData = [];
+
+    for (let lesson = 1; lesson <= NUM_LESSONS; lesson++) {
+        const jsonFile = `lesson${lesson}.json`;
+        try {
+            const res = await fetch(jsonFile);
+            const lessonQuestions = await res.json();
+            lessonData.push({ lessonQuestions, count: lessonQuestions.length });
+            totalQuestionsInLessons += lessonQuestions.length;
+        } catch (err) {
+            console.error(`Error loading questions from ${jsonFile}:`, err);
+        }
+    }
+
+    lessonData.forEach(({ lessonQuestions, count }) => {
+        const questionsToTake = Math.round((count / totalQuestionsInLessons) * TOTAL_QUESTIONS);
+        shuffle(lessonQuestions);  // Trộn ngẫu nhiên câu hỏi của mỗi bài học
+        questions.push(...lessonQuestions.slice(0, questionsToTake));  // Lấy số câu theo tỷ lệ
+    });
+
+    shuffle(questions);  // Trộn ngẫu nhiên tất cả câu hỏi đã chọn
+    questions = questions.slice(0, TOTAL_QUESTIONS);  // Đảm bảo chỉ lấy đúng 90 câu
+    MAX_QUESTIONS = questions.length;
+}
+
+// Bắt đầu trò chơi
+function startGame() {
     questionCounter = 0;
     score = 0;
-    availableQuesions = [...questions];
+    availableQuestions = [...questions];
     getNewQuestion();
     game.classList.remove('hidden');
     loader.classList.add('hidden');
-};
+}
 
-let userAnswers = [];
-
-getNewQuestion = () => {
-    if (availableQuesions.length === 0 || questionCounter >= MAX_QUESTIONS) {
+function getNewQuestion() {
+    if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
         localStorage.setItem('mostRecentScore', score);
         localStorage.setItem('currentLesson', currentLesson);
         localStorage.setItem('max_questions', MAX_QUESTIONS);
-        //go to the end page
         setTimeout(() => {
-            // Chuyển đến trang end.html
             window.location.assign('end.html');
         }, 100);
+        return;
     }
-    else{
-        questionCounter++;
-        progressText.innerText = `Câu ${questionCounter}/${MAX_QUESTIONS}`;
-        //Update the progress bar
-        progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;
-    
-        const questionIndex = Math.floor(Math.random() * availableQuesions.length);
-        currentQuestion = availableQuesions[questionIndex];
-        question.innerText = currentQuestion.question;
-    
-        // choices.forEach((choice) => {
-        //     const number = choice.dataset['number'];
-        //     choice.innerText = currentQuestion['choice' + number];
-        // });
-    
-        // Hàm trộn mảng (shuffle array)
-        function shuffle(array) {
-            for (let i = array.length - 1; i > 0; i--) {
-                const j = Math.floor(Math.random() * (i + 1));
-                [array[i], array[j]] = [array[j], array[i]];  // Hoán đổi vị trí
-            }
-            return array;
-        }
-    
-        // Tạo mảng chứa các số từ 1 đến 4
-        let numbers = [1, 2, 3, 4];
-    
-        // // Trộn mảng để đảm bảo các số ngẫu nhiên và không trùng lặp
-        // numbers = shuffle(numbers);
-    
-        // Đặt nội dung cho các lựa chọn dựa trên số ngẫu nhiên
-        choices.forEach((choice, index) => {
-            const number = numbers[index];  // Lấy số ngẫu nhiên từ mảng đã trộn
-            choice.innerText = currentQuestion['choice' + number];  // Đặt nội dung cho lựa chọn
-        });
-    
-        availableQuesions.splice(questionIndex, 1);
-        acceptingAnswers = true;    
-    }
-};
+
+    questionCounter++;
+    progressText.innerText = `Câu ${questionCounter}/${MAX_QUESTIONS}`;
+    progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;
+
+    const questionIndex = Math.floor(Math.random() * availableQuestions.length);
+    currentQuestion = availableQuestions[questionIndex];
+    question.innerText = currentQuestion.question;
+
+    let numbers = [1, 2, 3, 4];
+    // shuffle(numbers);  // Trộn thứ tự lựa chọn
+
+    choices.forEach((choice, index) => {
+        const number = numbers[index];
+        choice.innerText = currentQuestion['choice' + number];
+    });
+
+    availableQuestions.splice(questionIndex, 1);
+    acceptingAnswers = true;
+}
 
 function scrollToBottom() {
     window.scrollTo({
@@ -151,12 +174,12 @@ choices.forEach((choice) => {
             selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect';
 
         // Lưu câu hỏi và câu trả lời người dùng
-        userAnswers.push({
-            question: currentQuestion.question,
-            selectedAnswer: selectedAnswer,
-            correctAnswer: currentQuestion.answer,
-            explanation: currentQuestion.explanation,
-        });
+        // userAnswers.push({
+        //     question: currentQuestion.question,
+        //     selectedAnswer: selectedAnswer,
+        //     correctAnswer: currentQuestion.answer,
+        //     explanation: currentQuestion.explanation,
+        // });
 
         if (globalClassToApply === 'correct') {
             incrementScore(CORRECT_BONUS);
@@ -178,7 +201,11 @@ choices.forEach((choice) => {
     });
 });
 
-incrementScore = (num) => {
+
+function incrementScore(num) {
     score += num;
     scoreText.innerText = score;
-};
+}
+
+// Gọi hàm loadQuestions khi bắt đầu game
+loadQuestions();
