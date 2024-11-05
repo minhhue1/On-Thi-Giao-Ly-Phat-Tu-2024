@@ -1,20 +1,56 @@
 [
   {
-    "question": "",
-    "choice1": "",
-    "choice2": "",
-    "choice3": "",
-    "choice4": "",
-    "answer": "",
-    "explanation": ""
+    "question": "Sám hối nghĩa là gì?",
+    "choice1": "Ăn năn lỗi trước và chừa bỏ lỗi sau.",
+    "choice2": "Xưng tội để chư Phật tha thứ.",
+    "choice3": "Hứa không tạo thêm tội nữa.",
+    "choice4": "Hối hận những lỗi lầm được tạo ra.",
+    "answer": "Ăn năn lỗi trước và chừa bỏ lỗi sau.",
+    "explanation": "Chữ “Sám”, tiếng Phạn gọi là Samma; Tàu dịch là “Hối quá”. Kinh nói: “Sám gỉả sám kỳ tiền khiên, Hối giả hối kỳ hậu quá”. Nghĩa là, Sám là ăn năn lỗi trước, còn Hối là chừa bỏ lỗi sau. Nếu dùng một chữ Sám hay một chữ Hối không thì chưa đủ ý nghĩa, nên các tổ xưa ghép hai chữ lại thành danh từ “Sám hối”, dịch theo tiếng Việt là “ăn năn chừa lỗi”. Như thế trong chữ sám hối có hàm nghĩa ăn năn, hối hận vì những lỗi lầm trong quá khứ, bất luận là lâu mau, và bây giờ cho đến về sau, mình nguyện là không tái phạm nữa. Nếu biết lỗi cũ là bậy, bây giờ mình xin chuộc lỗi, mà sau nầy vẫn còn làm lại, thì không phải là đúng nghĩa sám hối trong đạo Phật."
   },
   {
-    "question": "",
-    "choice1": "",
-    "choice2": "",
-    "choice3": "",
-    "choice4": "",
-    "answer": "",
+    "question": "Thế nào là tác pháp sám hối?",
+    "choice1": "Đối trước tượng Phật bày tỏ lỗi lầm.",
+    "choice2": "Lập đàn tràng sám hối.",
+    "choice3": "Thỉnh chư Tăng thành khẩn bày tỏ lỗi lầm lỡ gây tạo.",
+    "choice4": "Phải thiết tha thỉnh chư Tăng chứng minh và thành khẩn bày tỏ lỗi lầm, nguyện về sau không tái phạm.",
+    "answer": "Phải thiết tha thỉnh chư Tăng chứng minh và thành khẩn bày tỏ lỗi lầm, nguyện về sau không tái phạm.",
+    "explanation": "Tác pháp sám hối: Pháp sám hối này thuộc về sự, phải lập giới đàn và thỉnh thanh tịnh Tăng chứng minh, nên gọi là tác pháp. Khi vào giới tràng, mình phải thành thật tỏ bày tội lỗi một cách thành khẩn, chí tâm ăn năn và nguyện về sau không tái phạm nữa. Một lòng thành kính sám hối như vậy, khi giới thể được thanh tịnh, tức là hết tội."
+  },
+  {
+    "question": "Như thế nào là sám hối chân chính?",
+    "choice1": "Tự mình tạo tội thì tự mình ăn năn, chừa bỏ.",
+    "choice2": "Tội lỗi từ tâm tạo ra thì cũng phải từ tâm mà sám hối.",
+    "choice3": "Đối trước bậc thanh tịnh để sám hối tội lỗi.",
+    "choice4": "Gồm đáp án a và b.",
+    "answer": "Gồm đáp án a và b.",
+    "explanation": "Sám hối chân chính là:\n- Tự mình tạo tội thì tự mình ăn năn, chừa bỏ.\n- Tội lỗi từ tâm tạo ra thì cũng phải từ tâm mà sám hối."
+  },
+  {
+    "question": "Pháp sám hối có mang lại hạnh phúc, an vui cho con người không?",
+    "choice1": "Có, vì sám hối có thể cải hóa lòng mình, làm cho mình mau chứng quả.",
+    "choice2": "Có, vì sám hối có thể cải hóa lòng mình, làm cho đời sống cá nhân và xã hội tốt đẹp hơn.",
+    "choice3": "Không, vì hạnh phúc chỉ có khi có nhiều tiền của.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Có, vì sám hối có thể cải hóa lòng mình, làm cho đời sống cá nhân và xã hội tốt đẹp hơn.",
+    "explanation": "Pháp sám hối có mang lại hạnh phúc, an vui cho con người, vì sám hối có thể cải hóa lòng mình, làm cho đời sống cá nhân và xã hội tốt đẹp hơn."
+  },
+  {
+    "question": "Lợi ích của việc sám hối như thế nào?",
+    "choice1": "Được Phật tha tội, ban phước",
+    "choice2": "Tiêu trừ nghiệp chướng và phát triển hạnh lành.",
+    "choice3": "Tâm hồn an vui.",
+    "choice4": "Được tăng trưởng phước đức.",
+    "answer": "Tiêu trừ nghiệp chướng và phát triển hạnh lành.",
+    "explanation": "Lợi ích của việc sám hối là tiêu trừ nghiệp chướng và phát triển hạnh lành."
+  },
+  {
+    "question": "Tại sao phải phát triển hạnh lành?",
+    "choice1": "Vì hạnh lành là cội nguồn của mọi công đức.",
+    "choice2": "Vì hạnh lành có thể đưa chúng sanh đến bờ giải thoát giác ngộ.",
+    "choice3": "Vì hạnh lành có thể giúp chúng sanh tiến lên bậc thánh hiền.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Đáp án a, b và c đều đúng.",
     "explanation": ""
   }
 ]
