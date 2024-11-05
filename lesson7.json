@@ -1,20 +1,65 @@
 [
-    {
-      "question": "",
-      "choice1": "",
-      "choice2": "",
-      "choice3": "",
-      "choice4": "",
-      "answer": "",
-      "explanation": ""
-    },
-    {
-      "question": "",
-      "choice1": "",
-      "choice2": "",
-      "choice3": "",
-      "choice4": "",
-      "answer": "",
-      "explanation": ""
-    }
-  ]
+  {
+    "question": "Mục đích của việc thờ Phật là gì?",
+    "choice1": "Thắp hương tụng niệm mỗi ngày sáu thời giống như các tự viện.",
+    "choice2": "Tỏ lòng tôn kính, tri ân và noi theo gương hạnh của đức Phật.",
+    "choice3": "Tôn trí bàn thờ trang nghiêm, đốt hương cầu nguyện mỗi ngày.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Tỏ lòng tôn kính, tri ân và noi theo gương hạnh của đức Phật.",
+    "explanation": "Tỏ lòng tôn kính, tri ân và noi theo gương hạnh của đức Phật."
+  },
+  {
+    "question": "Vì sao Đức Phật được nhân loại tôn thờ?",
+    "choice1": "Vì Ngài là người có đầy đủ phước đức và trí tuệ.",
+    "choice2": "Vì Ngài hy sinh hạnh phúc cá nhân, từ bỏ hưởng thụ cao sang ở thế gian, xuất gia tầm chân lý.",
+    "choice3": "Vì Ngài đã khéo vận dụng trí tuệ phương tiện để dẫn dắt chúng sanh ra khỏi sanh tử luân hồi.",
+    "choice4": "Gồm đáp án a, b và c.",
+    "answer": "Gồm đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "Thờ Phật như thế nào cho đúng?",
+    "choice1": "Có bàn thờ độc lập, cúng hoa quả, lễ bái, tụng niệm và hành trì lời Phật dạy.",
+    "choice2": "Có thể thờ chung một bàn thờ, Phật ở trên, gia tiên ở dưới.",
+    "choice3": "Thờ Phật để tạo góc tâm linh trong nhà, thể hiện tôn kính, thọ trì và thực tập.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Đáp án a, b và c đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "Người Phật tử tu pháp môn Tịnh độ, thờ Phật Thích Ca có được không?",
+    "choice1": "Không được, tu Tịnh độ thì phải thờ Phật Di Đà.",
+    "choice2": "Được. Nên thờ Phật Thích Ca vì ngài hiện là giáo chủ cõi Ta bà.",
+    "choice3": "Tịnh độ chỉ là phương pháp tu, không nhất thiết là chỉ thờ Phật Di Đà.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Được. Nên thờ Phật Thích Ca vì ngài hiện là giáo chủ cõi Ta bà.",
+    "explanation": "Hiện nay, chúng ta ở vào thời kỳ giáo hóa của đức Phật Thích Ca Mâu Ni, thì lẽ cố nhiên, chúng ta phải thờ Ngài trước hết.\nMặc dù người tu theo pháp môn Tịnh độ thường tập trung vào việc niệm danh hiệu Phật A Di Đà để cầu vãng sinh Tây Phương Cực Lạc, điều này không có nghĩa là họ không được thờ Phật Thích Ca.\n- Chính Đức Phật Thích Ca Mâu Ni là người đã giới thiệu pháp môn Tịnh Độ và giảng về công hạnh của Phật A Di Đà.\n- Phật tử Tịnh Độ vẫn đang sống trong cõi Ta Bà, do Đức Phật Thích Ca Mâu Ni giáo hóa."
+  },
+  {
+    "question": "Năm thứ hương cúng dường đức Phật về lý gồm những gì?",
+    "choice1": "Trầm hương, đàn hương, giáng hương, mộc hương, xạ hương.",
+    "choice2": "Tín hương, tấn hương, niệm hương, định hương, tuệ hương.",
+    "choice3": "Giới hương, định hương, huệ hương, giải thoát hương, giải thoát tri kiến hương.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Giới hương, định hương, huệ hương, giải thoát hương, giải thoát tri kiến hương.",
+    "explanation": "Năm thứ hương cúng dường đức Phật về lý gồm:\n- Giới hương: Về mặt lý, giới hương tượng trưng cho việc giữ gìn giới luật, thanh tịnh thân tâm để cúng dường Đức Phật.\n- Định hương: Định hương thể hiện sự nỗ lực tu tập thiền định, làm lắng dịu tâm hồn, đạt đến trạng thái an định, thanh tịnh.\n- Huệ hương: Huệ hương tượng trưng cho trí tuệ, sự giác ngộ. Ba món huệ cần được trau dồi là Văn huệ (lắng nghe giáo pháp), Tư huệ (suy ngẫm giáo lý), và Tu huệ (thực hành giáo pháp).\n- Giải thoát hương: Giải thoát hương tượng trưng cho sự giải thoát khỏi mọi ràng buộc của ngã chấp, tức là không còn xem bản ngã là thực hữu, là trung tâm của vạn vật.\n- Giải thoát tri kiến hương: Giải thoát tri kiến hương là sự giác ngộ viên mãn, không còn vướng mắc bởi bất kỳ khái niệm nào."
+  },
+  {
+    "question": "Ý nghĩa của việc lạy Phật là gì?",
+    "choice1": "Thể hiện sự cung kính đối với đức Phật.",
+    "choice2": "Thể hiện đời sống tôn giáo, tâm linh.",
+    "choice3": "Lạy Phật để Phật ban phước sống lâu, giàu có và quyền lực.",
+    "choice4": "Đáp án a và b đều đúng.",
+    "answer": "Thể hiện sự cung kính đối với đức Phật.",
+    "explanation": "Ngày xưa, khi đức Phật còn tại thế, các đệ tử từ vua quan, đến dân chúng, mỗi lần được may mắn gặp đức Phật Thích-Ca, đều cúi xuống ôm chân Phật và đặt trán mình lên chân Ngài để tỏ lòng ngưỡng mộ, tôn thờ một bậc tối thượng: Bi, Trí siêu phàm. Cử chỉ ấy là một cử chỉ vô cùng khiêm tốn, nhu thuận và hoàn toàn tin cậy đối với đức Phật.\n\nSau khi Phật nhập diệt, toàn thể tín đồ vẫn xem Ngài như còn tại thế, và cái cử chỉ cúi xuống ôm chân Phật vẫn còn tiếp nối tồn tại cho đến ngày nay và muôn ngàn năm sau. Cái cử chỉ ấy chỉ có cái công dụng làm cho tín đồ bao giờ cũng hình dung như Ðức Phật còn ngồi trước mặt mình để chứng giám cho tấm lòng thành kính thiết tha của mình."
+  },
+  {
+    "question": "Lạy Phật như thế nào mới đúng?",
+    "choice1": "Khi lạy Phật hai bàn tay để ngửa hoặc úp và đặt trán ở khoảng giữa hai bàn tay.",
+    "choice2": "Khi lạy Phật, năm vóc sát đất, tâm nghĩ đến đức hạnh của ngài để học hỏi.",
+    "choice3": "Trước khi lễ Phật phải súc miệng, rửa mặt, thân thể sạch sẽ, y phục trang nghiêm.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Đáp án a, b và c đều đúng.",
+    "explanation": ""
+  }
+]
