@@ -1,11 +1,182 @@
 [
-    {
-      "question": "",
-      "choice1": "",
-      "choice2": "",
-      "choice3": "",
-      "choice4": "",
-      "answer": "",
-      "explanation": ""
-    }
+  {
+    "question": "Quy y nghĩa là gì?",
+    "choice1": "Đến chùa tụng kinh.",
+    "choice2": "Đến chùa làm công quả.",
+    "choice3": "Xuất gia tu học.",
+    "choice4": "Trở về nương tựa Tam bảo.",
+    "answer": "Trở về nương tựa Tam bảo.",
+    "explanation": "Quy là trở về; Y là nương tựa; Quy Y là trở về nương tựa nơi mà mình đã vì si mê, phóng lãng đã lìa bỏ ra đi, như đứa trẻ khờ dại đã rời bỏ cha mẹ để ra đi hoang phá, bây giờ biết sự dại khờ do kinh nghiệm khổ đau, quay trở về nương tựa dưới bóng hạnh phúc và yêu thương của cha mẹ."
+  },
+  {
+    "question": "Tam bảo gồm những gì?",
+    "choice1": "Giới, định, tuệ.",
+    "choice2": "Vô thường, vô ngã, Niết bàn.",
+    "choice3": "Chỉ ba ngôi quý báu: Phật, Pháp, Tăng.",
+    "choice4": "Văn, tư, tu.",
+    "answer": "Chỉ ba ngôi quý báu: Phật, Pháp, Tăng.",
+    "explanation": "Tam Bảo là ba ngôi quý báu: Phật, Pháp, Tăng.\n\nỞ thế gian, vàng bạc, ngọc ngà và danh vọng là quý báu. Nhưng sự thật, vàng bạc và danh vọng đâu có cứu được con người khỏi khổ, sống, già, bệnh, chết, mà lắm khi lại làm cho con người thêm khổ nữa! Còn Phật, Pháp, Tăng thì có đủ năng lực dắt dẫn con người ra khỏi những cái khổ nói trên. Bởi thế, người đời mới tôn sùng Phật, Pháp, Tăng là ba ngôi quý báu (Tam Bảo)."
+  },
+  {
+    "question": "Ba bậc Tam bảo gồm những gì?",
+    "choice1": "Thế gian trụ trì Phật bảo, xuất thế gian Pháp bảo, đồng thể Tăng bảo.",
+    "choice2": "Đồng thể Phật bảo, xuất thế gian Pháp bảo, thế gian trụ trì Tăng bảo.",
+    "choice3": "Xuất thế gian Phật bảo, xuất thế gian Pháp bảo, xuất thế gian Tăng bảo.",
+    "choice4": "Đồng thể Tam bảo, xuất thế gian Tam bảo, thế gian trụ trì Tam bảo.",
+    "answer": "Đồng thể Tam bảo, xuất thế gian Tam bảo, thế gian trụ trì Tam bảo.",
+    "explanation": "Tam Bảo có ba bực:\n- Đồng thể Tam Bảo.\n- Xuất thế gian Tam Bảo.\n- Thế gian trụ trì Tam Bảo."
+  },
+  {
+    "question": "Đồng thể Tam bảo gồm những gì?",
+    "choice1": "Đồng thể Phật bảo, xuất thế gian Pháp bảo, đồng thể Tăng bảo.",
+    "choice2": "Đồng thể Phật bảo, đồng thể Pháp bảo, đồng thể Tăng bảo.",
+    "choice3": "Xuất thế gian Phật bảo, thế gian trụ trì Pháp bảo, đồng thể Tăng bảo.",
+    "choice4": "Xuất thế gian Phật bảo, xuất thế gian Pháp bảo, xuất thế gian Tăng bảo.",
+    "answer": "Đồng thể Phật bảo, đồng thể Pháp bảo, đồng thể Tăng bảo.",
+    "explanation": "Đồng thể Tam bảo gồm:\n- Đồng thể Phật bảo.\n- Đồng thể Pháp bảo.\n- Đồng thể Tăng bảo."
+  },
+  {
+    "question": "Đồng thể Phật bảo là gì?",
+    "choice1": "Tất cả chúng sanh đều cùng một thể tánh.",
+    "choice2": "Tất cả chúng sanh đều có Phật tánh.",
+    "choice3": "Tất cả chúng sanh cùng chư Phật đồng một tánh sáng suốt.",
+    "choice4": "Chư Phật cùng chúng sanh đồng một thể tánh hòa hợp.",
+    "answer": "Tất cả chúng sanh cùng chư Phật đồng một tánh sáng suốt.",
+    "explanation": "Đồng thể Phật bảo, tức là nói tất cả chúng sanh cùng chư Phật đồng một thể tánh sáng suốt."
+  },
+  {
+    "question": "Đồng thể Pháp bảo là gì?",
+    "choice1": "Chư Phật cùng chúng sanh đồng một thể tánh sáng suốt.",
+    "choice2": "Tất cả chúng sanh đồng pháp tánh bình đẳng.",
+    "choice3": "Chư Phật cùng chúng sanh đồng một pháp tánh từ bi, bình đẳng.",
+    "choice4": "Chư Phật cùng chúng sanh đồng một thể tánh hòa hợp.",
+    "answer": "Chư Phật cùng chúng sanh đồng một pháp tánh từ bi, bình đẳng.",
+    "explanation": "Đồng thể Pháp bảo, tức là nói tất cả chúng sanh cùng chư Phật đồng một pháp tánh từ bi, bình đẳng."
+  },
+  {
+    "question": "Đồng thể Tăng bảo là gì?",
+    "choice1": "Tất cả chúng sanh đồng một thể tánh hòa hợp.",
+    "choice2": "Chư Phật và chúng sanh đồng một thể tánh hòa hợp.",
+    "choice3": "Chư Phật và chúng sanh đồng một thể tánh thanh tịnh.",
+    "choice4": "Chư Phật và chúng sanh đồng một thể tánh thanh tịnh, sự lý hòa hợp.",
+    "answer": "Chư Phật và chúng sanh đồng một thể tánh thanh tịnh, sự lý hòa hợp.",
+    "explanation": "Đồng thể Tăng bảo, tức là nói tất cả chúng sinh cùng chư Phật đồng một thể tánh thanh tịnh; sự, lý hòa hợp."
+  },
+  {
+    "question": "Xuất thế gian Tam bảo gồm những gì?",
+    "choice1": "Xuất thế gian Phật bảo, xuất thế gian Pháp bảo, thế gian Tăng bảo.",
+    "choice2": "Đồng thể Phật bảo, xuất thế gian Pháp bảo, đồng thể Tăng bảo.",
+    "choice3": "Xuất thế gian Phật bảo, thế gian trụ trì Pháp bảo, đồng thể Tăng bảo.",
+    "choice4": "Xuất thế gian Phật bảo, xuất thế gian Pháp bảo, xuất thế gian Tăng bảo.",
+    "answer": "Xuất thế gian Phật bảo, xuất thế gian Pháp bảo, xuất thế gian Tăng bảo.",
+    "explanation": "Xuất thế gian Tam bảo gồm:\n- Xuất thế gian Phật bảo.\n- Xuất thế gian Pháp bảo.\n- Xuất thế gian Tăng bảo."
+  },
+  {
+    "question": "Xuất thế gian Phật bảo nhằm chỉ cho ai?",
+    "choice1": "Bậc có trách nhiệm đối với bản thân và gia đình.",
+    "choice2": "Bậc có trách nhiệm xã hội và nhân loại.",
+    "choice3": "Bậc đã tự giải thoát ra khỏi sự ràng buộc của thế gian.",
+    "choice4": "Bậc có trách nhiệm đối với Phật pháp.",
+    "answer": "Bậc đã tự giải thoát ra khỏi sự ràng buộc của thế gian.",
+    "explanation": "Xuất thế gian Phật bảo, là chỉ cho đức Phật Thích-Ca Mâu-Ni, đức A-Di-Đà, chư Phật trong mười phương ba đời, đã tự giải thoát ra khỏi sự ràng buộc của thế gian."
+  },
+  {
+    "question": "Xuất thế gian Pháp bảo là chỉ cho gì?",
+    "choice1": "Chánh pháp của Phật có công năng thoát khỏi ràng buộc thế gian.",
+    "choice2": "Giáo lý Tứ diệu đế, Thập nhị nhân duyên,...",
+    "choice3": "Lời dạy của bậc Thánh xuất thế.",
+    "choice4": "Bao gồm đáp án a và b.",
+    "answer": "Bao gồm đáp án a và b.",
+    "explanation": "Xuất thế gian Pháp bảo, là chỉ cho chánh pháp của Phật, có công năng làm cho chúng sinh thoát khỏi sự ràng buộc của thế gian, như Tứ đế, Thập nhị nhân duyên, Lục độ v.v…"
+  },
+  {
+    "question": "Thế gian trụ trì Tam bảo gồm những gì?",
+    "choice1": "Thế gian trụ trì Phật bảo, thế gian trụ trì Pháp bảo, thế gian trụ trì Tăng bảo.",
+    "choice2": "Thế gian trụ trì Phật bảo, xuất thế gian Pháp bảo, thế gian trụ trì Tăng bảo.",
+    "choice3": "Xuất thế gian Phật bảo, thế gian trụ trì Pháp bảo, đồng thể Tăng bảo.",
+    "choice4": "Thế gian trụ trì Phật bảo, xuất thế gian Pháp bảo, xuất thế gian Tăng bảo.",
+    "answer": "Thế gian trụ trì Phật bảo, thế gian trụ trì Pháp bảo, thế gian trụ trì Tăng bảo.",
+    "explanation": "Thế gian trụ trì Tam bảo:\n- Thế gian trụ trì Phật bảo.\n- Thế gian trụ trì Pháp bảo.\n- Thế gian trụ trì Tăng bảo."
+  },
+  {
+    "question": "Thế gian trụ trì Phật bảo là chỉ cho những gì?",
+    "choice1": "Xá lợi đức Phật, tranh tượng Phật.",
+    "choice2": "Ba tạng giáo điển của Phật.",
+    "choice3": "Giới luật đức Phật chế định.",
+    "choice4": "Thầy trụ trì thay thế Đức Phật hoằng truyền chánh pháp.",
+    "answer": "Xá lợi đức Phật, tranh tượng Phật.",
+    "explanation": "Thế gian trụ trì Phật bảo, là chỉ cho xá lợi của Phật, tượng Phật đúc bằng kim khí chạm trổ bằng danh mộc, tô bằng đất, đắp bằng xi măng, thêu bằng vải, hay vẽ trên giấy."
+  },
+  {
+    "question": "Quy y Tam bảo có nghĩa là gì?",
+    "choice1": "Trở về nương tựa với ba ngôi báu tự tâm.",
+    "choice2": "Đến chùa đăng ký quy y Tam bảo.",
+    "choice3": "Phật, Pháp, Tăng là ba ngôi báu ở thế gian.",
+    "choice4": "Trở về nương tựa ba ngôi báu: Phật bảo, Pháp bảo, Tăng bảo.",
+    "answer": "Trở về nương tựa ba ngôi báu: Phật bảo, Pháp bảo, Tăng bảo.",
+    "explanation": "Quy y Tam Bảo có nghĩa là trở về nương tựa ba ngôi báu: Phật bảo, Pháp bảo, Tăng bảo."
+  },
+  {
+    "question": "Lợi ích của việc Quy y Tam bảo là gì?",
+    "choice1": "Sống tốt hơn, mạnh khỏe và bình an.",
+    "choice2": "Khỏi đọa vào địa ngục, ngạ quỷ, súc sinh.",
+    "choice3": "Kiếp sau được làm người hay sanh lên cõi trời.",
+    "choice4": "Bao gồm đáp án a và b.",
+    "answer": "Bao gồm đáp án a và b.",
+    "explanation": "- Sống tốt hơn, mạnh khỏe và bình an\n- Khỏi đọa vào địa ngục, ngạ quỷ, súc sinh"
+  },
+  {
+    "question": "Sau khi được thọ Tam quy Ngũ giới, Phật tử nên làm gì?",
+    "choice1": "Thường đi chùa học giáo lý và tham gia các khóa tu.",
+    "choice2": "Tham gia các Phật sự và chương trình từ thiện xã hội.",
+    "choice3": "Thiết lập bàn thờ Phật tại nhà và thường tụng kinh để mở mang trí tuệ.",
+    "choice4": "Gồm đáp án a, b và c.",
+    "answer": "Gồm đáp án a, b và c.",
+    "explanation": "Sau khi được thọ Tam quy Ngũ giới, Phật tử nên:\n- Thường đi chùa học giáo lý và tham gia các khóa tu.\n- Tham gia các Phật sự và chương trình từ thiện xã hội.\n- Thiết lập bàn thờ Phật tại nhà và thường tụng kinh để mở mang trí tuệ."
+  },
+  {
+    "question": "Quy y Phật bảo khỏi đọa vào đâu?",
+    "choice1": "A tu la.",
+    "choice2": "Địa ngục.",
+    "choice3": "Ngạ quỷ.",
+    "choice4": "Súc sinh.",
+    "answer": "Địa ngục.",
+    "explanation": "“Đệ tử quy y Phật rồi, khỏi đọa địa ngục.“\n“Đệ tử quy y Pháp rồi, khỏi đọa ngạ quỷ.“\n“Đệ tử quy y Tăng rồi, khỏi đọa súc sinh.“"
+  },
+  {
+    "question": "Quy y Pháp bảo khỏi đọa vào đâu?",
+    "choice1": "A tu la.",
+    "choice2": "Địa ngục.",
+    "choice3": "Ngạ quỷ.",
+    "choice4": "Súc sinh.",
+    "answer": "Ngạ quỷ.",
+    "explanation": "“Đệ tử quy y Phật rồi, khỏi đọa địa ngục.“\n“Đệ tử quy y Pháp rồi, khỏi đọa ngạ quỷ.“\n“Đệ tử quy y Tăng rồi, khỏi đọa súc sinh.“"
+  },
+  {
+    "question": "Phật tử quy y Phật thì không quy y gì?",
+    "choice1": "Không được đi đình, miếu.",
+    "choice2": "Thiên, thần, quỷ, vật.",
+    "choice3": "Ngoại đạo tà giáo.",
+    "choice4": "Thầy tà, bạn dữ.",
+    "answer": "Thiên, thần, quỷ, vật.",
+    "explanation": "“Đệ tử quy y Phật, nguyện trọn đời không quy y thiên, thần, quỷ, vật.“"
+  },
+  {
+    "question": "Phật tử quy y Pháp thì không quy y gì?",
+    "choice1": "Thiên, thần.",
+    "choice2": "Quỷ, vật.",
+    "choice3": "Ngoại đạo tà giáo.",
+    "choice4": "Thầy tà, bạn dữ.",
+    "answer": "Ngoại đạo tà giáo.",
+    "explanation": "“Đệ tử quy y Pháp, nguyện trọn đời không quy y ngoại đạo, tà giáo.“"
+  },
+  {
+    "question": "Phật tử quy y Tăng thì không quy y gì?",
+    "choice1": "Thiên, thần, quỷ, vật.",
+    "choice2": "Ngoại đạo.",
+    "choice3": "Tà giáo.",
+    "choice4": "Thầy tà, bạn dữ.",
+    "answer": "Thầy tà, bạn dữ.",
+    "explanation": "“Đệ tử quy y Tăng, nguyện trọn đời không quy y tổn hữu, ác đảng“"
+  }
 ]
