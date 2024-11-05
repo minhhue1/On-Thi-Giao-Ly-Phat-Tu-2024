@@ -1,38 +1,38 @@
 [
   {
-    "question": "",
-    "choice1": "",
-    "choice2": "",
-    "choice3": "",
-    "choice4": "",
-    "answer": "",
-    "explanation": ""
+    "question": "Vì sao Đức Phật dạy ăn chay?",
+    "choice1": "Vì tăng cường sức khỏe, tránh nghiệp sát sanh.",
+    "choice2": "Vì ngon miệng, dễ tiêu hóa, tăng sức khoẻ và thêm tuổi thọ.",
+    "choice3": "Vì nuôi lòng từ bi, thương mạng sống, tránh quả báo xấu.",
+    "choice4": "Vì tiết kiệm tiền bạc và thời gian nấu nướng.",
+    "answer": "Vì nuôi lòng từ bi, thương mạng sống, tránh quả báo xấu.",
+    "explanation": "- Nuôi dưỡng lòng từ bi: Theo lời Phật dạy, ăn chay là để tránh nghiệp sát sinh, dù trực tiếp hay gián tiếp. Phật tử là người theo đạo từ bi, nên cần thể hiện lòng thương xót đối với tất cả chúng sinh, không thể nhẫn tâm sát hại động vật để thỏa mãn khẩu vị. Việc ăn chay giúp nuôi dưỡng hạt giống từ bi, là nền tảng cho sự tu tập và giác ngộ.\n\n- Thương mạng sống: Ăn chay thể hiện sự tôn trọng và yêu thương đối với mạng sống của muôn loài. Quan niệm “vật dưỡng nhân“ là sai lầm, ích kỷ và ngạo mạn, dẫn đến sự bất bình đẳng và chiến tranh.\n\n- Tránh quả báo xấu: Phật dạy sát sinh là nghiệp ác, gây quả báo luân hồi trong sáu đường. Ăn chay giúp tránh nợ oan giải oán giết, thoát khỏi vòng luân hồi, hướng đến giải thoát."
   },
   {
-    "question": "",
-    "choice1": "",
-    "choice2": "",
-    "choice3": "",
-    "choice4": "",
-    "answer": "",
-    "explanation": ""
+    "question": "Theo đạo Phật, ăn chay có lợi ích gì?",
+    "choice1": "Dễ tiêu hóa, tăng sức khoẻ, thêm tuổi thọ.",
+    "choice2": "Phòng ngừa các chứng bệnh nan y, duy trì tuổi thọ.",
+    "choice3": "Tăng trưởng lòng từ bi, bình đẳng, tránh nghiệp sát sanh, phòng ngừa bệnh tật.",
+    "choice4": "Tránh quả báo luân hồi đền mạng.",
+    "answer": "Tăng trưởng lòng từ bi, bình đẳng, tránh nghiệp sát sanh, phòng ngừa bệnh tật.",
+    "explanation": "Ăn chay là một phương pháp tu hành quan trọng trong đạo Phật, mang lại nhiều lợi ích về cả tinh thần lẫn thể chất. Hành động này thể hiện lòng từ bi đối với muôn loài, tránh nghiệp sát sanh, đồng thời giúp cơ thể khỏe mạnh, tinh thần thanh tịnh."
   },
   {
-    "question": "",
-    "choice1": "",
-    "choice2": "",
-    "choice3": "",
-    "choice4": "",
-    "answer": "",
-    "explanation": ""
+    "question": "Cổ nhân nói: “Vật dưỡng nhơn”, theo đạo Phật câu này hợp lý không? Vì sao?",
+    "choice1": "Hợp lý, vì nếu không có động vật con người bị suy dinh dưỡng.",
+    "choice2": "Không hợp lý, vì mỗi chúng sanh đều có Phật tánh bình đẳng, không phải do mạnh hiếp yếu.",
+    "choice3": "Hợp lý, vì đó là lời nói được truyền lại.",
+    "choice4": "Cần nghiên cứu cứu thêm.",
+    "answer": "Không hợp lý, vì mỗi chúng sanh đều có Phật tánh bình đẳng, không phải do mạnh hiếp yếu.",
+    "explanation": "Đạo Phật là đạo từ bi mà cũng là đạo bình đẳng. Phật dạy: “Tất cả chúng sinh đều có Phật tánh như nhau”. Vậy thì người Phật tử dưới tầm con mắt của mình, không nên thấy người và vật khác nhau, mà chỉ thấy đồng một tri giác bình đẳng, ẩn trong thân hình sai biệt. Nói rằng: “Vật dưỡng nhơn” là một quan niệm rất sai lầm, do sự ích kỷ và ngạo mạn của người sinh ra. Quan niệm ấy dung túng cho người ta thẳng tay giết hại sinh vật, và tạo ra một tình trạng bất bình đẳng, thì không bao giờ cõi đời có thể yên ổn, hòa bình được."
   },
   {
-    "question": "",
-    "choice1": "",
-    "choice2": "",
-    "choice3": "",
-    "choice4": "",
-    "answer": "",
-    "explanation": ""
+    "question": "Theo Phật học Phổ Thông, Lục trai là ăn chay vào 6 ngày nào trong tháng âm lịch?",
+    "choice1": "Mùng 1, 8, 14, 15, 19, 23.",
+    "choice2": "Mùng 8, 14, 15, 23, 29, 30 (tháng thiếu ngày 28, 29).",
+    "choice3": "Mùng 1, 8, 14, 15, 23, 30 (tháng thiếu ngày 29).",
+    "choice4": "Mùng 1, 8, 14, 15, 29, 30 (tháng thiếu ngày 28, 29).",
+    "answer": "Mùng 1, 8, 14, 15, 23, 30 (tháng thiếu ngày 29).",
+    "explanation": "Theo Phật học Phổ Thông, sáu ngày ăn chay trong tháng âm lịch là mùng 1, 8, 14, rằm, 23 và 30 (tháng thiếu ngày 29)."
   }
 ]

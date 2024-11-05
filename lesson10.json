@@ -1,83 +1,83 @@
 [
   {
-    "question": "",
-    "choice1": "",
-    "choice2": "",
-    "choice3": "",
-    "choice4": "",
-    "answer": "",
+    "question": "Bát quan trai giới là pháp tu dành cho đối tượng nào?",
+    "choice1": "Người tại gia áp dụng trong một ngày một đêm.",
+    "choice2": "Người cư sĩ tu xuất gia gieo duyên.",
+    "choice3": "Người cư sĩ vào chùa tập sự xuất gia.",
+    "choice4": "Người tại gia dõng mãnh tinh tấn.",
+    "answer": "Người tại gia áp dụng trong một ngày một đêm.",
+    "explanation": "Bát quan trai giới là một phép tu hành của người tại gia áp dụng trong một ngày một đêm (24 giờ)."
+  },
+  {
+    "question": "Mục đích của việc tu Bát quan trai giới là gì?",
+    "choice1": "Tu gieo duyên xuất gia.",
+    "choice2": "Lập hạnh giải thoát ngắn hạn.",
+    "choice3": "Để thực hành theo hạnh xuất gia.",
+    "choice4": "Gồm đáp án a, b và c.",
+    "answer": "Gồm đáp án a, b và c.",
+    "explanation": "Bát quan trai giới là pháp tu mang ý nghĩa quan trọng, giúp Phật tử tại gia gieo duyên xuất gia, lập hạnh giải thoát và thực hành theo hạnh xuất gia trong một khoảng thời gian ngắn. Việc tu tập này góp phần nâng cao đời sống tinh thần, hướng đến sự an lạc và giải thoát cho hành giả."
+  },
+  {
+    "question": "Bát quan trai giới dành cho Phật tử áp dụng thời gian như thế nào?",
+    "choice1": "Là pháp tu của người tại gia, áp dụng trong 1 ngày 1 đêm.",
+    "choice2": "Là pháp tu tập sự xuất gia dành cho người cư sĩ trong 24 giờ.",
+    "choice3": "Là pháp tu giảm bớt sự dục vọng áp dụng trong 7 ngày.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Đáp án a và b.",
+    "explanation": "Bát quan trai giới là một pháp tu ngắn hạn (một ngày một đêm) dành cho Phật tử tại gia, giúp họ có cơ hội trải nghiệm đời sống giản dị, thanh tịnh, tập trung tu học như người xuất gia (tập sự xuất gia) trong thời gian ngắn."
+  },
+  {
+    "question": "Lợi ích của việc tu Bát quan trai giới là gì?",
+    "choice1": "Tập sự tu hạnh xuất gia.",
+    "choice2": "Thanh tịnh thân, khẩu, ý.",
+    "choice3": "Phát triển các hạnh lành.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": "Bát quan trai giới là một pháp tu mang lại nhiều lợi ích to lớn cho Phật tử tại gia. Việc thực hành 8 giới trong 24 giờ giúp thanh lọc thân tâm, gieo trồng hạt giống giải thoát, tập sự tu hạnh xuất gia và phát triển các hạnh lành. Bát quan trai giới góp phần nâng cao đời sống tinh thần, hướng đến sự an lạc và giải thoát cho hành giả."
+  },
+  {
+    "question": "Giới thứ 3 trong Bát quan trai giới là gì?",
+    "choice1": "Không tà dâm.",
+    "choice2": "Không dâm dục.",
+    "choice3": "Không tà hạnh.",
+    "choice4": "Đáp án a và c đều đúng.",
+    "answer": "Không dâm dục.",
+    "explanation": "BA LÀ NGUYỆN GIỮ GIỚI KHÔNG DÂM DỤC. Ðệ tử thề trọn một ngày đêm nay, nguyện giữ giới không phá phạm hạnh (không dâm dục). Tự mình không phá phạm hạnh, không bảo người phá phạm hạnh, hoặc thấy người khác phá phạm hạnh cũng không sanh tâm vui mừng."
+  },
+  {
+    "question": "Giới thứ 6 trong Bát quan trai giới là gì?",
+    "choice1": "Không đeo chuỗi anh lạc tràng hoa thơm.",
+    "choice2": "Không xoa ướp dầu thơm vào mình.",
+    "choice3": "Không đeo chuỗi anh lạc tràng hoa thơm, không xoa ướp dầu thơm vào mình.",
+    "choice4": "Không trang điểm và cất giữ tiền.",
+    "answer": "Không đeo chuỗi anh lạc tràng hoa thơm, không xoa ướp dầu thơm vào mình.",
+    "explanation": "SÁU LÀ NGUYỆN GIỮ GIỚI KHÔNG TRANG ÐIỂM VÀ CA HÁT. Ðệ tử thề trọn một ngày đêm nay, nguyện giữ giới không đeo bông, xoa hương, ca xướng, múa hát. Tự mình không trang điểm ca hát, không bảo người trang điểm ca hát, hoặc thấy người khác trang điểm ca hát, cũng không sanh tâm vui mừng."
+  },
+  {
+    "question": "Giới thứ 7 trong Bát quan trai giới là gì?",
+    "choice1": "Không ngồi trên giường cao tốt đẹp.",
+    "choice2": "Không ca múa hát xướng.",
+    "choice3": "Không được cố đi xem nghe.",
+    "choice4": "Không ngồi trên giường cao tốt đẹp, không làm trò nhạc, ca múa và cố đi xem nghe.",
+    "answer": "Không ngồi trên giường cao tốt đẹp, không làm trò nhạc, ca múa và cố đi xem nghe.",
+    "explanation": "BẢY LÀ NGUYỆN GIỮ GIỚI KHÔNG NẰM NGỒI GIƯỜNG CAO TỐT. Ðệ tử thề trọn một ngày đêm nay, nguyện giữ giới không nằm ngồi giường cao tốt. Tự mình không nằm ngồi giường cao tốt, không bảo người nằm ngồi giường cao tốt, hoặc thấy người khác nằm ngồi giường cao tốt, cũng không sanh tâm vui mừng."
+  },
+  {
+    "question": "Vì sao Phật tử không nên nằm ngồi giường cao đẹp, rộng lớn trong thời gian tu tập Bát quan trai giới?",
+    "choice1": "Kiệm phước và ngăn ngừa thân xác không cho buông lung.",
+    "choice2": "Để tránh mọi cảm nghĩ khoái lạc của giường cao rộng lớn.",
+    "choice3": "Để tránh cảm giác có thể kích thích lòng ham muốn bất chính của xác thân.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Đáp án a, b và c đều đúng.",
     "explanation": ""
   },
   {
-    "question": "",
-    "choice1": "",
-    "choice2": "",
-    "choice3": "",
-    "choice4": "",
-    "answer": "",
-    "explanation": ""
-  },
-  {
-    "question": "",
-    "choice1": "",
-    "choice2": "",
-    "choice3": "",
-    "choice4": "",
-    "answer": "",
-    "explanation": ""
-  },
-  {
-    "question": "",
-    "choice1": "",
-    "choice2": "",
-    "choice3": "",
-    "choice4": "",
-    "answer": "",
-    "explanation": ""
-  },
-  {
-    "question": "",
-    "choice1": "",
-    "choice2": "",
-    "choice3": "",
-    "choice4": "",
-    "answer": "",
-    "explanation": ""
-  },
-  {
-    "question": "",
-    "choice1": "",
-    "choice2": "",
-    "choice3": "",
-    "choice4": "",
-    "answer": "",
-    "explanation": ""
-  },
-  {
-    "question": "",
-    "choice1": "",
-    "choice2": "",
-    "choice3": "",
-    "choice4": "",
-    "answer": "",
-    "explanation": ""
-  },
-  {
-    "question": "",
-    "choice1": "",
-    "choice2": "",
-    "choice3": "",
-    "choice4": "",
-    "answer": "",
-    "explanation": ""
-  },
-  {
-    "question": "",
-    "choice1": "",
-    "choice2": "",
-    "choice3": "",
-    "choice4": "",
-    "answer": "",
-    "explanation": ""
+    "question": "Vì sao tu Bát quan trai giới không được ca múa hát xướng và cố đi xem nghe?",
+    "choice1": "Tránh vào ác đạo.",
+    "choice2": "Tránh bệnh tật.",
+    "choice3": "Tránh tâm tham đắm.",
+    "choice4": "Tránh loạn tâm thức.",
+    "answer": "Tránh loạn tâm thức.",
+    "explanation": "Việc kiêng ca múa hát xướng và xem nghe trong thời gian tu Bát quan trai giới là để tránh loạn tâm thức, giúp hành giả tập trung tu tập, hướng tâm về sự thanh tịnh và giải thoát."
   }
 ]
