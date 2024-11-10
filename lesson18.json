@@ -1,3 +1,56 @@
 [
-
+  {
+    "question": "Tứ nhiếp pháp gồm những gì?",
+    "choice1": "Bố thí, trì giới, niệm Phật, ăn chay.",
+    "choice2": "Ái ngữ, lợi hành, tụng kinh, nghe pháp.",
+    "choice3": "Bố thí, ái ngữ, lợi hành, đồng sự.",
+    "choice4": "Ngồi thiền, tụng kinh, niệm Phật, trì chú.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Bố thí có ba cách gồm những gì?",
+    "choice1": "Nội tài thí, ngoại tài thí, vô uý thí.",
+    "choice2": "Tài thí, pháp thí, bình đẳng bố thí.",
+    "choice3": "Tài thí, pháp thí, vô uý thí.",
+    "choice4": "Quá khứ thí, hiện tại thí, vị lai thí.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Thế nào là Bố thí ba la mật?",
+    "choice1": "Bố thí để cầu phước báu nhân thiên.",
+    "choice2": "Bố thí để được mọi người biết là mình cũng có tấm lòng nhân hậu.",
+    "choice3": "Bố thí không chấp mình là người cho, kia là người nhận và có vật để bố thí.",
+    "choice4": "Bố thí không kể công, cúng dường không ỷ lại.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Ái ngữ nhiếp liên quan giới thứ mấy trong năm giới?",
+    "choice1": "Giới thứ nhất.",
+    "choice2": "Giới thứ hai.",
+    "choice3": "Giới thứ ba.",
+    "choice4": "Giới thứ tư.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Ái ngữ là lời nói như thế nào?",
+    "choice1": "Thẳng thắn, bộc trực.",
+    "choice2": "Nhẹ nhàng, khôn khéo.",
+    "choice3": "Thu phục lòng người.",
+    "choice4": "Nhẹ nhàng, khôn khéo và thu phục lòng người.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Lợi hành nhiếp là những việc làm nào?",
+    "choice1": "Làm lợi ích cho mình.",
+    "choice2": "Làm người khác có tiền của.",
+    "choice3": "Làm lợi ích cho người bằng ý nghĩ, lời nói, hành động.",
+    "choice4": "Làm cho người khác được lợi ích, hưởng thụ.",
+    "answer": "",
+    "explanation": ""
+  }
 ]

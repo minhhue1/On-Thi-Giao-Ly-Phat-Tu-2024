@@ -1,3 +1,173 @@
 [
-
+  {
+    "question": "Cảnh giới của Đức Phật A Di Đà gọi là gì?",
+    "choice1": "Cõi Tây Phương thế giới.",
+    "choice2": "Cõi Cực Lạc thế giới.",
+    "choice3": "Cõi Tịnh Độ thế giới.",
+    "choice4": "Đáp a, b và c đều đúng.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Tây phương tam thánh là những vị nào?",
+    "choice1": "Phật quá khứ, Phật hiện tại, Phật vị lai.",
+    "choice2": "Phật A Di Đà, Bồ tát Quan Âm, Bồ tát Thế Chí.",
+    "choice3": "Phật Thích Ca, Phật A Di Đà, Phật Di Lặc.",
+    "choice4": "Phật Thích Ca, Bồ tát Văn Thù, Bồ tát Thế Chí.",
+    "answer": "",
+    "explanation": ""
+  },  
+  {
+    "question": "Danh hiệu Phật A Di Đà, được vị Phật nào giới thiệu?",
+    "choice1": "Phật Đa Bảo.",
+    "choice2": "Phật Nhiên Đăng.",
+    "choice3": "Phật Thích Ca Mâu Ni.",
+    "choice4": "Phật Dược Sư.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Cõi Tây phương Cực Lạc được miêu tả đầy đủ như thế nào?",
+    "choice1": "Có hàng cây, mành lưới, lan can, toàn bằng trân bảo.",
+    "choice2": "Có đất bằng vàng ròng, ao thất bảo, hoa sen báu.",
+    "choice3": "Có chim thuyết pháp, nước bát công đức, thanh tịnh trang nghiêm.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Những điều kiện nào để vãng sanh về cõi Cực Lạc?",
+    "choice1": "Nguyện vững vàng, không thối chuyển.",
+    "choice2": "Niệm Phật liên tục, không dừng nghỉ.",
+    "choice3": "Tin sâu, hạnh bền bỉ, nguyện vững vàng.",
+    "choice4": "Tin theo Phật, làm việc thiện.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Trì danh niệm Phật là gì?",
+    "choice1": "Là vâng giữ danh hiệu Phật.",
+    "choice2": "Là niệm Phật liên tục, khi đi, đứng nằm, ngồi.",
+    "choice3": "Là vừa lạy, vừa niệm Phật suốt không nghỉ.",
+    "choice4": "Là vừa niệm Phật, vừa làm việc thiện.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Quán tưởng niệm Phật là gì?",
+    "choice1": "Quán tưởng hình dung Đức Phật A Di Đà ở trước mặt ta.",
+    "choice2": "Quán thân ta ngồi trên hoa sen chắp tay hầu Phật.",
+    "choice3": "Quán Phật thấy ta, ta thấy Phật, lâu ngày thuần thục.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Thật tướng niệm Phật là gì?",
+    "choice1": "Niệm Phật hợp nhất với chân tâm.",
+    "choice2": "Niệm Phật đạt đến lý tánh tuyệt đối.",
+    "choice3": "Niệm Phật đến vô niệm, nhứt tâm bất loạn.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Như thế nào là niệm Phật trừ được niệm chúng sanh?",
+    "choice1": "Niệm Phật diệt được tâm tham, sân, si.",
+    "choice2": "Niệm Phật không còn phiền não, hỷ, nộ, ái, ố.",
+    "choice3": "Niệm Phật diệt trừ ngũ dục: Tài, sắc, danh, thực, thuỳ.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Danh hiệu A Di Đà có ý nghĩa đầy đủ là gì?",
+    "choice1": "Vô Lượng Thọ.",
+    "choice2": "Vô Lượng Quang.",
+    "choice3": "Vô Lượng Công Đức.",
+    "choice4": "Gồm đáp án a, b và c.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Trong Kinh Bi Hoa, tiền thân Phật A Di Đà, khi còn làm vua tên là gì?",
+    "choice1": "Tần Bà Sa La.",
+    "choice2": "Vô Tránh Niệm.",
+    "choice3": "Ba Tư Nặc.",
+    "choice4": "A Xà Thế.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Theo Kinh Vô Lượng Thọ, tiền thân của Đức Phật A Di Đà, khi xuất gia pháp danh là gì?",
+    "choice1": "Pháp Minh.",
+    "choice2": "Pháp Tạng.",
+    "choice3": "Pháp Đạt.",
+    "choice4": "Bảo Hải.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Khi đang tu hành, tỳ kheo Pháp Tạng phát ra bao nhiêu lời nguyện?",
+    "choice1": "12 lời nguyện.",
+    "choice2": "21 lời nguyện.",
+    "choice3": "48 lời nguyện.",
+    "choice4": "49 lời nguyện.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Khi tỳ kheo Pháp Tạng tu hành thành Phật với danh hiệu là gì?",
+    "choice1": "Đức Phật Thích Ca Mâu Ni.",
+    "choice2": "Đức Phật Dược Sư Lưu Ly.",
+    "choice3": "Đức Phật A Di Đà.",
+    "choice4": "Đức Phật Di Lặc.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Câu “Chớ đợi đến già mới niệm Phật, mồ hoang lắm kẻ tuổi thiếu niên” muốn khuyên Phật tử nên làm gì?",
+    "choice1": "Nên học theo sách Thánh hiền.",
+    "choice2": "Nên hành trì một cách nghiêm mật.",
+    "choice3": "Nên kiên tâm chớ chối bỏ trách nhiệm.",
+    "choice4": "Nên biết vô thường không hẹn trước, sớm nên chuyên cần niệm Phật.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Sơ Tổ tông Tịnh độ là vị nào?",
+    "choice1": "Tổ Huệ Viễn.",
+    "choice2": "Tổ Liên Trì.",
+    "choice3": "Tổ Ấn Quang.",
+    "choice4": "Tổ Thiện Đạo.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Lợi ích của việc niệm Phật là gì?",
+    "choice1": "Chư Phật gia hộ.",
+    "choice2": "Công đức tăng trưởng.",
+    "choice3": "Tăng phước, tăng thọ.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Ba đức tin vãng sanh về Tịnh độ gồm những gì?",
+    "choice1": "Tin Phật, tin Pháp, tin Tăng.",
+    "choice2": "Tin Phật, tin Pháp, tin người.",
+    "choice3": "Tin Phật, tin Pháp, tin mình.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Phật A Di Đà phát bao nhiêu lời nguyện?",
+    "choice1": "10 lời nguyện.",
+    "choice2": "48 lời nguyện.",
+    "choice3": "49 lời nguyện.",
+    "choice4": "108 lời nguyện.",
+    "answer": "",
+    "explanation": ""
+  }
 ]

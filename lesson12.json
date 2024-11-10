@@ -1,3 +1,110 @@
 [
-
+  {
+    "question": "Vu Lan Bồn là phiên âm theo tiếng Phạn, Trung Hoa dịch là “Giải đảo huyền” có nghĩa là gì?",
+    "choice1": "Cởi trói cho người bị treo ngược.",
+    "choice2": "Cứu sự đau khổ nặng nề như đang bị treo ngược.",
+    "choice3": "Xá tội vong nhân.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Cứu sự đau khổ nặng nề như đang bị treo ngược.",
+    "explanation": "Vu Lan Bồn là phiên âm theo tiếng Phạn. Người Trung Hoa dịch là: “Giải đảo huyền”, nghĩa đen là cởi trói người bị treo ngược; nghĩa bóng là cứu vớt những kẻ đau khổ nặng nề như đang bị treo ngược."
+  },
+  {
+    "question": "Mẹ ngài Mục Kiền Liên tên là gì?",
+    "choice1": "Bà Thanh Đề.",
+    "choice2": "Bà Duyệt Đế Lợi.",
+    "choice3": "Bà Am Ba Pa Li.",
+    "choice4": "Bà Vi Đề Hy.",
+    "answer": "Bà Thanh Đề.",
+    "explanation": "Mẹ ngài Mục Kiền Liên tên là Bà Thanh Đề."
+  },
+  {
+    "question": "Ngài Mục Kiền Liên đã chứng lục thông, sao không tự cứu mẹ, mà phải nhờ sức chú nguyện của chư Tăng?",
+    "choice1": "Do thần thông bất lực trước quả xấu quá nặng.",
+    "choice2": "Sức chú nguyện của chư Tăng mạnh hơn thần thông.",
+    "choice3": "Nhờ sức chú nguyện của chư Tăng, bà Thanh Đề sanh tâm hối hận nên được giải thoát.",
+    "choice4": "Nhờ sức chú nguyện của chư Tăng, bà Thanh Đề xả bỏ lòng bỏn xẻn nên được giải thoát.",
+    "answer": "Nhờ sức chú nguyện của chư Tăng, bà Thanh Đề xả bỏ lòng bỏn xẻn nên được giải thoát.",
+    "explanation": "Có người hỏi: Ngài Mục Kiền Liên thần thông đệ nhất, tự mình có thể cứu vớt cha mẹ được, cần gì phải nhờ đến chư Tăng. Cũng như các ông quan lớn trong xứ, đủ thế lực, có thể cứu bà con có tội được rồi, cần gì phải nhờ đến các quan khác?\n\nÐáp: Bà Thanh Ðề bị tội khổ, do trước kia tâm bà gây nên. Hôm nay nhờ Ngài Mục Kiền Liên là con hiếu thảo, sắm các lễ vật cúng dường Phật, Tăng, lúc ấy bà sanh lòng hoan hỷ cũng muốn cúng dường Phật, Tăng. Do đổi niệm bỏn sẻn, trở lại tâm rộng rãi, mà bà được giải thoát. Nếu như chỉ nhờ đức chúng Tăng mà tâm bà không hoan hỷ mở rộng, thì cũng khó mà cứu vớt được."
+  },
+  {
+    "question": "Mục đích Đức Phật nói kinh Vu Lan để làm gì?",
+    "choice1": "Để cứu bà Thanh Đề do lời thỉnh cầu của tôn giả Mục Kiền Liên.",
+    "choice2": "Để mọi người báo hiếu cha mẹ hiện tiền, hoặc khi đã qua đời.",
+    "choice3": "Để thể hiện niềm tôn kính cha mẹ.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Để mọi người báo hiếu cha mẹ hiện tiền, hoặc khi đã qua đời.",
+    "explanation": "Phật dạy rằng:\n“Quý lắm! Nầy Mục Kiền Liên! Ðời sau, nếu có được các thầy Tỳ kheo và Tỳ kheo ni, vua, thái tử, các quan tể tướng, những hàng tam công cho đến thứ dân, vì lòng hiếu thảo muốn đền đáp công ơn cha mẹ hiện tại hay quá khứ, thì cứ ngày Rằm tháng 7 là ngày “Phật hoan hỷ“, làm lễ Vu Lan nầy, để cúng dường trai Tăng. Nhờ công đức của chư Tăng chú nguyện, cha mẹ hiện tại được tăng long phước thọ, khỏi những điều tai hoạn, khổ não, còn cha mẹ bảy đời trước thì khỏi bị khổ ngạ quỷ, được sanh trong cõi nhơn thiên, hưởng phước vui vẻ không cùng”.\n\nNhư vậy, Đức Phật đã khẳng định mục đích của lễ Vu Lan là để mọi người báo hiếu cha mẹ, cả khi cha mẹ còn sống lẫn khi đã qua đời."
+  },
+  {
+    "question": "Vì sao trong kinh Phụ Mẫu Báo Ân, Đức Phật lạy đống xương khô?",
+    "choice1": "Vì cứu bà Thanh Đề.",
+    "choice2": "Vì trong đó có ông bà cha mẹ nhiều đời.",
+    "choice3": "Vì tôn kính cha mẹ.",
+    "choice4": "Gồm đáp án a và b.",
+    "answer": "Vì trong đó có ông bà cha mẹ nhiều đời.",
+    "explanation": "Đức Phật dạy rằng: Này An Nan con! Đống xương khô ấy, hoặc là ông bà hay là mẹ cha, của Ta thân trước, ngàn muôn ức kiếp, đời đã cách xa, bởi thế nay Ta chí thành kính lễ. Con đem xương này, chia làm hai phần, một là đàn ông, hai là đàn bà, phân biệt cho Ta."
+  },
+  {
+    "question": "Duyên khởi lễ Vu Lan bắt nguồn từ vị nào?",
+    "choice1": "Tôn giả Xá Lợi Phất.",
+    "choice2": "Tôn giả Mục Kiền Liên.",
+    "choice3": "Tôn giả A Nan.",
+    "choice4": "Tôn giả Tu Bồ Đề.",
+    "answer": "Tôn giả Mục Kiền Liên.",
+    "explanation": "Duyên khởi lễ Vu Lan bắt nguồn từ vị Tôn giả Mục Kiền Liên."
+  },
+  {
+    "question": "Tại sao đức Phật chọn ngày rằm tháng bảy (âm lịch) để thiết lễ Vu Lan?",
+    "choice1": "Vì đó là ngày xá tội vong nhân.",
+    "choice2": "Vì đó là ngày chư Tăng Tự tứ.",
+    "choice3": "Vì đó là ngày chư Phật mười phương hoan hỷ.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Đáp án a, b và c đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "Phật tử phải báo hiếu cha mẹ như thế nào mới đúng pháp?",
+    "choice1": "Chiều lòng và làm bất kỳ việc gì cha mẹ muốn.",
+    "choice2": "Tổ chức lễ tang linh đình khi cha mẹ qua đời.",
+    "choice3": "Chăm sóc và hướng cha mẹ theo đường lành, cầu siêu, tạo phước khi cha mẹ qua đời.",
+    "choice4": "Cúng tế quỷ thần để khỏi bắt hồn cha mẹ.",
+    "answer": "Chăm sóc và hướng cha mẹ theo đường lành, cầu siêu, tạo phước khi cha mẹ qua đời.",
+    "explanation": ""
+  },
+  {
+    "question": "Phật tử nên báo hiếu cha mẹ lúc nào?",
+    "choice1": "Báo hiếu khi cha mẹ bệnh đau.",
+    "choice2": "Báo hiếu sau khi cha mẹ đã qua đời.",
+    "choice3": "Báo hiếu vào dịp lễ Vu Lan.",
+    "choice4": "Báo hiếu hằng ngày và bất kỳ lúc nào có thể.",
+    "answer": "Báo hiếu hằng ngày và bất kỳ lúc nào có thể.",
+    "explanation": ""
+  },
+  {
+    "question": "Tôn giả Mục Kiền Liên thành tựu đệ nhất gì?",
+    "choice1": "Trí tuệ đệ nhất.",
+    "choice2": "Thần thông đệ nhất.",
+    "choice3": "Đa văn đệ nhất.",
+    "choice4": "Thuyết pháp đệ nhất.",
+    "answer": "Thần thông đệ nhất.",
+    "explanation": ""
+  },
+  {
+    "question": "Vì sao bà Thanh Đề không ăn được bát cơm do tôn giả Mục Kiền Liên dâng?",
+    "choice1": "Bị quỷ đốt cháy.",
+    "choice2": "Bị quỷ giành ăn.",
+    "choice3": "Bát cơm bốc cháy do nghiệp lực của bà nặng.",
+    "choice4": "Do chịu tội nên không được ăn.",
+    "answer": "Bát cơm bốc cháy do nghiệp lực của bà nặng.",
+    "explanation": "... Bà mẹ khát khao, nên khi được cơm, lòng tham nổi lên, sợ người cướp giựt, lấy tay trái che giấu bát cơm, tay mặt bốc ăn. Bởi lòng tham lam độc ác trong tiền kiếp nổi bừng lên, nên cơm mới đưa vào miệng, thì hóa thành ra lửa, bà chẳng ăn được."
+  },
+  {
+    "question": "Theo âm lịch, lễ Vu Lan nhằm ngày, tháng nào?",
+    "choice1": "Rằm tháng hai.",
+    "choice2": "Rằm tháng tư.",
+    "choice3": "Rằm tháng bảy.",
+    "choice4": "Rằm tháng mười.",
+    "answer": "Rằm tháng bảy.",
+    "explanation": "Theo âm lịch, lễ Vu Lan nhằm ngày Rằm tháng bảy."
+  }
 ]

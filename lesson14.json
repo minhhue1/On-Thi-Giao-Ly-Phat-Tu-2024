@@ -1,3 +1,101 @@
 [
-
+  {
+    "question": "Thiểu dục nghĩa là gì?",
+    "choice1": "Ít ham muốn.",
+    "choice2": "Không ham muốn.",
+    "choice3": "Ham muốn không ngừng.",
+    "choice4": "Chỉ người không có dục vọng.",
+    "answer": "Ít ham muốn.",
+    "explanation": "Thiểu dục: Muốn ít, biết đủ với những gì mình có."
+  },
+  {
+    "question": "Năm món dục người đời ham muốn là những gì?",
+    "choice1": "Tài, sắc, danh, thực, thùy.",
+    "choice2": "Sắc, thanh, hương, vị, xúc.",
+    "choice3": "Sắc, thọ, tưởng, hành, thức.",
+    "choice4": "Đáp án a và b đều đúng.",
+    "answer": "Đáp án a và b đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "Tác hại của tham dục trong đời sống hiện tại như thế nào?",
+    "choice1": "Khiến con người mất lý trí.",
+    "choice2": "Khiến con người sống bất an.",
+    "choice3": "Khiến con người sống không thật lòng với nhau.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Đáp án a, b và c đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "Tri túc nghĩa là gì?",
+    "choice1": "Chỉ người có vật chất đầy đủ.",
+    "choice2": "Chỉ người sống biết hài lòng với những gì đang có.",
+    "choice3": "Chỉ người không biết phấn đấu.",
+    "choice4": "Chỉ người có đầy đủ tri thức.",
+    "answer": "Chỉ người sống biết hài lòng với những gì đang có.",
+    "explanation": "Tri túc: Hài lòng với hiện tại, không thèm muốn những thứ vượt quá khả năng."
+  },
+  {
+    "question": "Phật dạy tu hạnh thiểu dục và tri túc để làm gì?",
+    "choice1": "Khuyên người an phận thủ thường.",
+    "choice2": "Hạn chế lòng tham lam ích kỷ và tránh nô lệ vật chất.",
+    "choice3": "Khuyên người đừng chạy theo danh lợi.",
+    "choice4": "Giúp người hài lòng với những gì đang có, không khổ đau khi chưa được như ý và tiết chế mọi ham muốn.",
+    "answer": "Giúp người hài lòng với những gì đang có, không khổ đau khi chưa được như ý và tiết chế mọi ham muốn.",
+    "explanation": ""
+  },
+  {
+    "question": "Hạnh thiểu dục tri túc đối trị tâm gì?",
+    "choice1": "Tâm sân hận.",
+    "choice2": "Tâm si mê.",
+    "choice3": "Tâm tham.",
+    "choice4": "Tâm ganh tỵ.",
+    "answer": "Tâm tham.",
+    "explanation": "Hạnh thiểu dục tri túc là phương pháp hữu hiệu để đối trị tâm tham"
+  },
+  {
+    "question": "Tu hạnh thiểu dục tri túc có ảnh hưởng đến việc làm kinh tế không?",
+    "choice1": "Không được làm kinh tế.",
+    "choice2": "Vẫn làm kinh tế trong phạm vi cho phép của pháp luật.",
+    "choice3": "Vẫn hưởng lợi nhuận hợp pháp và không gây tác hại cho người khác.",
+    "choice4": "Đáp án b và c đều đúng.",
+    "answer": "Đáp án b và c đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "Ai là người nên thực hành hạnh thiểu dục tri túc?",
+    "choice1": "Những người làm kinh tế.",
+    "choice2": "Người Phật tử tại gia.",
+    "choice3": "Người xuất gia.",
+    "choice4": "Tất cả mọi người, mọi thành phần trong xã hội.",
+    "answer": "Tất cả mọi người, mọi thành phần trong xã hội.",
+    "explanation": ""
+  },
+  {
+    "question": "Người thiểu dục tri túc có biểu hiện như thế nào?",
+    "choice1": "Sống kham khổ.",
+    "choice2": "Sống tiết kiệm và tích lũy tiền của.",
+    "choice3": "Sống tự tại trước mọi hoàn cảnh.",
+    "choice4": "Rời xa phố thị, về quê sống an nhàn.",
+    "answer": "Sống tự tại trước mọi hoàn cảnh.",
+    "explanation": ""
+  },
+  {
+    "question": "Lợi ích của hạnh thiểu dục và tri túc là gì?",
+    "choice1": "Làm chủ được lòng tham.",
+    "choice2": "Không còn nô lệ vật chất.",
+    "choice3": "Xã hội được bình an.",
+    "choice4": "Gồm đáp án a, b và c.",
+    "answer": "Gồm đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "Để có được đời sống thiểu dục tri túc, Phật tử phải thực hành như thế nào?",
+    "choice1": "Giữ giới không trộm cướp.",
+    "choice2": "Thực hành hạnh bố thí, cúng dường.",
+    "choice3": "Lánh xa trần tục.",
+    "choice4": "Gồm đáp án a và b.",
+    "answer": "Gồm đáp án a và b.",
+    "explanation": ""
+  }
 ]

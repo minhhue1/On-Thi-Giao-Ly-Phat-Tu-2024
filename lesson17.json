@@ -1,3 +1,101 @@
 [
-
+  {
+    "question": "Nghiệp có nghĩa là gì?",
+    "choice1": "Hành động tạo tác, hoặc lành hoặc dữ.",
+    "choice2": "Những hành vi, ngôn ngữ và tư tưởng thấp hèn tội lỗi.",
+    "choice3": "Những hành vi, lời nói và suy nghĩ cao thượng tốt đẹp.",
+    "choice4": "Các hành vi, lời nói và suy nghĩ có chủ ý.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Duyên khởi Phật nói kinh Thập Thiện cho ai? Ở đâu?",
+    "choice1": "Cho ngài Xá Lợi Phất, ở tịnh xá Trúc Lâm.",
+    "choice2": "Cho Long Vương, ở tại cung rồng Ta Kiệt La.",
+    "choice3": "Cho A Nan, ở tịnh xá Kỳ Viên.",
+    "choice4": "Cho chúng hội, ở núi Linh Thứu.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Pháp tu thập thiện thuộc về thừa nào?",
+    "choice1": "Nhân thừa.",
+    "choice2": "Thiên thừa.",
+    "choice3": "Phật thừa.",
+    "choice4": "Bồ tát thừa.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Thế nào gọi là thiện?",
+    "choice1": "Thiện có nghĩa là lành, tốt, lợi ích cho gia đình và xã hội.",
+    "choice2": "Thiện có nghĩa là lành, tốt, lợi ích nhưng không xác định thời gian.",
+    "choice3": "Thiện có nghĩa là lành, tốt, lợi ích cho mình và người trong hiện tại cũng như tương lai.",
+    "choice4": "Cả ba câu trên chưa đủ ý nghĩa.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Nghiệp thiện của thân là gì?",
+    "choice1": "Không trộm cắp, không nói dối, không sân hận.",
+    "choice2": "Không dâm dục, không nói thêu dệt, không si mê.",
+    "choice3": "Không sát sanh, không trộm cắp, không tà hạnh.",
+    "choice4": "Không tham lam, không dâm dục, không ác khẩu.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Nghiệp thiện của miệng là gì?",
+    "choice1": "Không dâm dục, không nói lưỡi đôi chiều, không tham lam.",
+    "choice2": "Không nói dối, không nói thêu dệt, không nói lưỡi đôi chiều, không nói lời hung ác.",
+    "choice3": "Không trộm cắp, không sân hận, không nói lời hung ác.",
+    "choice4": "Không si mê, không sát sanh, không nói dối.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Nghiệp thiện của ý là gì?",
+    "choice1": "Không trộm cắp, không nói dối, không si mê.",
+    "choice2": "Không dâm dục, không nói lời hung ác, không tham lam.",
+    "choice3": "Không tham lam, không sân hận, không si mê.",
+    "choice4": "Không sát sanh, không nói thêu dệt, không si mê.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Không tham muốn ngũ dục, lục trần có lợi ích gì?",
+    "choice1": "Ba nghiệp tự tại.",
+    "choice2": "Của cải không bị tổn thất.",
+    "choice3": "Những điều tốt đẹp sẽ đến.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Không sân hận được lợi ích gì?",
+    "choice1": "Xa lìa khổ não, giận hờn, tranh cãi.",
+    "choice2": "Tâm nhu hòa ngay thẳng.",
+    "choice3": "Thân tướng trang nghiêm, chúng sanh đều tôn kính.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Không si mê vọng chấp được lợi ích gì?",
+    "choice1": "Được an vui.",
+    "choice2": "Được chánh kiến.",
+    "choice3": "Không chấp ngã và xa lìa ác nghiệp.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Tu Thập thiện được thành quả gì?",
+    "choice1": "Sức khỏe và tuổi thọ.",
+    "choice2": "Giàu sang và phú quý.",
+    "choice3": "Sanh lên cõi trời hưởng phước.",
+    "choice4": "Đáp án a và b đều đúng.",
+    "answer": "",
+    "explanation": ""
+  }
 ]

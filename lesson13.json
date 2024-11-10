@@ -1,3 +1,92 @@
 [
-
+  {
+    "question": "Vô thường biểu hiện qua những phương diện nào?",
+    "choice1": "Thân vô thường, tâm vô thường, hoàn cảnh vô thường.",
+    "choice2": "Thân vô thường, khẩu vô thường, hoàn cảnh vô thường.",
+    "choice3": "Thân vô thường, khẩu vô thường, ý vô thường.",
+    "choice4": "Núi sông vô thường, nhà cửa vô thường, mạng người vô thường.",
+    "answer": "Thân vô thường, tâm vô thường, hoàn cảnh vô thường.",
+    "explanation": "- Thân vô thường: Thân thể con người luôn thay đổi, từ trẻ đến già, từ sống đến chết. Các tế bào trong cơ thể liên tục sinh diệt, thay đổi theo thời gian.\n- Tâm vô thường: Tâm niệm cũng biến đổi không ngừng, theo từng phút giây, theo ngoại cảnh tác động. Tâm trạng con người lúc vui, lúc buồn, lúc thương, lúc giận, thay đổi thất thường.\n- Hoàn cảnh vô thường: Mọi thứ xung quanh, từ núi sông, đất cát đến của cải, địa vị, tất cả đều không tồn tại vĩnh viễn, luôn biến đổi theo thời gian."
+  },
+  {
+    "question": "Vì sao Phật nói pháp vô thường?",
+    "choice1": "Cảnh tỉnh người đời trước những thú vui, giả tạm.",
+    "choice2": "Đối trị tâm mê mờ, tham ái, chấp thủ của chúng sanh.",
+    "choice3": "Đối trị đắm nhiễm dục lạc.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Đáp án a, b và c đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "Bốn giai đoạn thay đổi của sự vật là gì?",
+    "choice1": "Thành, trụ, hoại, không.",
+    "choice2": "Sanh, trụ, dị, diệt.",
+    "choice3": "Thành, trụ, hoại, tận.",
+    "choice4": "Đáp án a và b đều đúng.",
+    "answer": "Đáp án a và b đều đúng.",
+    "explanation": "Bốn giai đoạn thay đổi của sự vật là: Thành (Sanh), trụ, hoại (dị), không (diệt)"
+  },
+  {
+    "question": "Khi biết thân này là vô thường, Phật tử phải làm gì?",
+    "choice1": "Sống bình thường, không quan tâm.",
+    "choice2": "Tranh thủ hưởng thụ lúc còn tài sản.",
+    "choice3": "Sống lành mạnh và bình thản trước bệnh tật.",
+    "choice4": "Thường xuyên chăm sóc thân thể.",
+    "answer": "Sống lành mạnh và bình thản trước bệnh tật.",
+    "explanation": ""
+  },
+  {
+    "question": "Bị luật vô thường chi phối và bị khổ não thuộc về khổ gì?",
+    "choice1": "Khổ thân xác.",
+    "choice2": "Ngũ ấm xí thạnh khổ.",
+    "choice3": "Khổ tinh thần.",
+    "choice4": "Khổ thân và khổ tâm.",
+    "answer": "Khổ thân và khổ tâm.",
+    "explanation": "- Khổ thân: Luật vô thường chi phối mọi sự vật, hiện tượng, bao gồm cả thân thể con người. Thân thể luôn thay đổi, trải qua sinh, lão, bệnh, tử. Những thay đổi này, như ốm đau, bệnh tật, gây ra khổ đau về thể xác, tức là “khổ thân“.\n\n- Khổ tâm: Khổ não là những cảm xúc tiêu cực như buồn phiền, lo lắng, sợ hãi, tức giận,... Những cảm xúc này gây ra đau khổ về tinh thần, tức là “khổ tâm“."
+  },
+  {
+    "question": "Theo Phật học Phổ thông, đạo Phật nói vô thường, vậy có cái gì thường còn không?",
+    "choice1": "Không có cái gì thường còn.",
+    "choice2": "Phật tính của chúng sanh là thường còn.",
+    "choice3": "Những gì thuộc chân lý là thường còn.",
+    "choice4": "Phật tánh của chúng sanh và chân lý là thường còn.",
+    "answer": "Phật tánh của chúng sanh và chân lý là thường còn.",
+    "explanation": "- Phật tánh: Bên trong lớp vỏ giả dối, tạm bợ, vô thường của cõi đời, vẫn tồn tại Phật tánh sáng suốt, bất biến của mỗi chúng sinh. Khi con người gạt bỏ được lớp vỏ giả dối ấy, Phật tánh sẽ hiển lộ.\n\n- Chân lý: Là những điều bất biến, không thay đổi theo thời gian, không gian, như luật nhân quả, sự tồn tại của khổ đau và con đường giải thoát."
+  },
+  {
+    "question": "Câu nào sau đây thuộc về vô thường?",
+    "choice1": "Sinh, lão, bệnh, tử.",
+    "choice2": "Tứ đại khổ không.",
+    "choice3": "Vạn pháp đều không.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Đáp án a, b và c đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "Người tu chứng đắc có bị vô thường chi phối không?",
+    "choice1": "Vẫn bị vô thường chi phối nhưng không khổ.",
+    "choice2": "Không còn bị vô thường vì đã ra khỏi sinh tử.",
+    "choice3": "Người chứng đắc có thần thông biến hóa nên không bị vô thường.",
+    "choice4": "Đáp án b và c.",
+    "answer": "Vẫn bị vô thường chi phối nhưng không khổ.",
+    "explanation": "Người tu chứng đắc vẫn bị vô thường chi phối, nhưng do đã giác ngộ, thấu hiểu nên không còn cảm thấy khổ đau trước sự thay đổi của vạn vật."
+  },
+  {
+    "question": "Tâm vô thường nghĩa là gì?",
+    "choice1": "Là tâm thay đổi theo thời gian, hoàn cảnh.",
+    "choice2": "Là tâm không ở yên một chỗ.",
+    "choice3": "Chỉ cho sự vận hành liên tục của tâm.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Đáp án a, b và c đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "Lợi ích khi hiểu rõ pháp vô thường là gì?",
+    "choice1": "Hạn chế sự khổ não trước những biến động của cuộc đời.",
+    "choice2": "Bớt đi lòng tham và sự cố chấp.",
+    "choice3": "Biết các tập tính trong mình đều có thể thay đổi, để hướng sự an lạc giải thoát.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Đáp án a, b và c đều đúng.",
+    "explanation": ""
+  }
 ]

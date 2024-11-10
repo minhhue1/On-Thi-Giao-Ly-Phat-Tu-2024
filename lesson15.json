@@ -1,3 +1,101 @@
 [
-
+  {
+    "question": "Câu nào sau đây thuộc về đặc tính của nhân quả?",
+    "choice1": "Nhân thế nào thì quả thế ấy.",
+    "choice2": "Một nhân không có thể thành quả.",
+    "choice3": "Trong nhân có quả, trong quả có nhân.",
+    "choice4": "Đáp án a và c đều đúng.",
+    "answer": "Đáp án a và c đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "Nói “Một nhân không thể sinh quả” nghĩa là gì?",
+    "choice1": "Một nhân thì quá ít nên không thành kết quả.",
+    "choice2": "Một nhân thì không thể tồn tại được.",
+    "choice3": "Một nhân không thể thành quả nếu không có sự tương tác của những nhân khác làm duyên.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Một nhân không thể thành quả nếu không có sự tương tác của những nhân khác làm duyên.",
+    "explanation": ""
+  },
+  {
+    "question": "Nói “Trong nhân có quả, trong quả có nhân” nghĩa là gì?",
+    "choice1": "Trong trái cây có chứa hạt.",
+    "choice2": "Quả hiện tại hàm chứa nhân quá khứ.",
+    "choice3": "Nhân hiện tại hàm chứa quả tương lai.",
+    "choice4": "Đáp án b và c đều đúng.",
+    "answer": "Đáp án b và c đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "Nhân quả đồng thời nghĩa là gì?",
+    "choice1": "Nhân nào quả nấy.",
+    "choice2": "Nhân và quả xuất hiện cùng lúc.",
+    "choice3": "Nhân và quả ngay trong kiếp này.",
+    "choice4": "Trong nhân có quả, trong quả có nhân.",
+    "answer": "Nhân và quả xuất hiện cùng lúc.",
+    "explanation": ""
+  },
+  {
+    "question": "Theo kinh Nhân Quả nói “Nhân nào quả nấy”, sao có người ở hiền lại gặp dữ, kẻ ác lại gặp lành?",
+    "choice1": "Luật nhân quả cũng chỉ ở mức tương đối.",
+    "choice2": "Người có phước thì sẽ thay đổi được nhân quả.",
+    "choice3": "Nhân quả liên hệ đến 3 đời quá khứ, hiện tại và vị lai.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Nhân quả liên hệ đến 3 đời quá khứ, hiện tại và vị lai.",
+    "explanation": ""
+  },
+  {
+    "question": "Do không hiểu luật nhân quả, nên dễ sanh ra điều gì?",
+    "choice1": "Tin tưởng vào thần quyền, nên lạc vào mê tín dị đoan.",
+    "choice2": "Thường sống trong lo sợ.",
+    "choice3": "Lệ thuộc thần linh, nên sống không hạnh phúc.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Đáp án a, b và c đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "Luật nhân quả do ai tạo nên?",
+    "choice1": "Do Thần linh.",
+    "choice2": "Do Ngẫu nhiên.",
+    "choice3": "Do Đấng tạo hóa.",
+    "choice4": "Do Định luật tự nhiên.",
+    "answer": "Do Định luật tự nhiên.",
+    "explanation": ""
+  },
+  {
+    "question": "Lợi ích của việc tin nhân quả là gì?",
+    "choice1": "Không tin vào thần quyền.",
+    "choice2": "Niềm tin chân chánh, không lạc vào mê tín.",
+    "choice3": "Không sợ hãi, không lệ thuộc thần linh, không an lạc.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Niềm tin chân chánh, không lạc vào mê tín.",
+    "explanation": ""
+  },
+  {
+    "question": "Câu nào sau đây thuộc về luật nhân quả?",
+    "choice1": "Đời cha ăn mặn đời con khát nước.",
+    "choice2": "Bụng làm dạ chịu.",
+    "choice3": "Gieo gió gặt bão.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Gieo gió gặt bão.",
+    "explanation": ""
+  },
+  {
+    "question": "Phật tử hiểu thế nào về câu “Bồ tát sợ nhân, chúng sanh sợ quả”?",
+    "choice1": "Bồ tát hiểu về nhân quả nên sợ lúc tạo nhân xấu.",
+    "choice2": "Chúng sanh không hiểu nhân quả nên khi quả đến mới lo sợ.",
+    "choice3": "Câu này không đúng vì ai cũng sợ nhân quả.",
+    "choice4": "Gồm đáp án a và b.",
+    "answer": "Gồm đáp án a và b.",
+    "explanation": ""
+  },
+  {
+    "question": "Câu nói “Đời cha ăn mặn đời con khát nước” có phải nhân quả không?",
+    "choice1": "Là nhân quả vì như cha mắc nợ thì con phải trả.",
+    "choice2": "Không phải nhân quả, vì ai làm nấy chịu, không thể chịu thay.",
+    "choice3": "Câu này chỉ mang tính nhắc nhở chớ không phải nhân quả.",
+    "choice4": "Đáp án a và c.",
+    "answer": "Không phải nhân quả, vì ai làm nấy chịu, không thể chịu thay.",
+    "explanation": ""
+  }
 ]

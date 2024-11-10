@@ -68,6 +68,7 @@ async function loadQuestionsByLesson() {
     let totalQuestionsInLessons = 0;
     let lessonData = [];
 
+    // Bước 1: Tính tổng số câu hỏi trong tất cả các bài học
     for (let lesson = 1; lesson <= NUM_LESSONS; lesson++) {
         const jsonFile = `lesson${lesson}.json`;
         try {
@@ -80,16 +81,44 @@ async function loadQuestionsByLesson() {
         }
     }
 
-    lessonData.forEach(({ lessonQuestions, count }) => {
+    const selectedQuestions = new Set(); // Sử dụng Set để tránh trùng lặp
+
+    // Bước 2: Lấy câu hỏi từ từng bài học theo tỷ lệ
+    lessonData.forEach(({ lessonQuestions, count }, lessonIndex) => {
         const questionsToTake = Math.round((count / totalQuestionsInLessons) * TOTAL_QUESTIONS);
+        console.log(`Lesson ${lessonIndex + 1}: Taking ${questionsToTake} questions out of ${count}`); // Log số câu đã lấy
+        
         shuffle(lessonQuestions);  // Trộn ngẫu nhiên câu hỏi của mỗi bài học
-        questions.push(...lessonQuestions.slice(0, questionsToTake));  // Lấy số câu theo tỷ lệ
+        
+        // Lấy câu hỏi không trùng từ từng bài học
+        let takenQuestions = 0;
+        lessonQuestions.forEach((question) => {
+            if (!selectedQuestions.has(question.question) && takenQuestions < questionsToTake) {
+                questions.push(question); // Thêm câu hỏi vào danh sách câu hỏi chính
+                selectedQuestions.add(question.question); // Đánh dấu câu hỏi đã chọn
+                takenQuestions++;
+            }
+        });
     });
+
+    // Bước 3: Nếu tổng số câu hỏi không đủ, lấy thêm câu hỏi từ các bài học đã chọn
+    if (questions.length < TOTAL_QUESTIONS) {
+        const remainingQuestions = TOTAL_QUESTIONS - questions.length;
+        lessonData.forEach(({ lessonQuestions }) => {
+            lessonQuestions.forEach((question) => {
+                if (!selectedQuestions.has(question.question) && questions.length < TOTAL_QUESTIONS) {
+                    questions.push(question);
+                    selectedQuestions.add(question.question);
+                }
+            });
+        });
+    }
 
     shuffle(questions);  // Trộn ngẫu nhiên tất cả câu hỏi đã chọn
     questions = questions.slice(0, TOTAL_QUESTIONS);  // Đảm bảo chỉ lấy đúng 90 câu
     MAX_QUESTIONS = questions.length;
 }
+
 
 // Bắt đầu trò chơi
 function startGame() {
@@ -144,7 +173,8 @@ function scrollToBottom() {
 function openPopup() {
     document.getElementById('explanation-popup').style.display = 'block';
     document.getElementById('explanation-content').style.display = 'flex';
-    explanationText.innerText = currentQuestion.explanation;
+    // explanationText.innerText = currentQuestion.explanation;
+    explanationText.innerText = ""
     scrollToBottom();
 }
 

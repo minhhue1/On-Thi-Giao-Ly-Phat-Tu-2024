@@ -1,3 +1,56 @@
 [
-
+  {
+    "question": "Luân hồi trong Phật giáo là gì?",
+    "choice1": "Là bánh xe.",
+    "choice2": "Là xoay tròn.",
+    "choice3": "Là xoay chuyển.",
+    "choice4": "Qua lại, luân chuyển trong lục đạo.",
+    "answer": "Qua lại, luân chuyển trong lục đạo.",
+    "explanation": ""
+  },
+  {
+    "question": "Lục đạo là gì?",
+    "choice1": "Trời, chư thiên, người, địa ngục, ngạ quỷ, súc sanh.",
+    "choice2": "Trời, người, a tu la, địa ngục, ngạ quỷ, súc sanh.",
+    "choice3": "Trời, a tu la, rồng, người, ngạ quỷ, súc sanh.",
+    "choice4": "Trời, người, a tu la, địa ngục, ngạ quỷ, bàn sanh.",
+    "answer": "Trời, người, a tu la, địa ngục, ngạ quỷ, súc sanh.",
+    "explanation": ""
+  },
+  {
+    "question": "Con người luân hồi trong ba cõi, sáu đường là do gì?",
+    "choice1": "Tham ái.",
+    "choice2": "Chấp thủ.",
+    "choice3": "Chấp ngã.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Tham ái.",
+    "explanation": ""
+  },
+  {
+    "question": "Sau khi mạng chung, nghiệp còn tồn tại hay không?",
+    "choice1": "Không xác định.",
+    "choice2": "Khi hết là hết nghiệp.",
+    "choice3": "Không tồn tại.",
+    "choice4": "Còn tồn tại.",
+    "answer": "Còn tồn tại.",
+    "explanation": ""
+  },
+  {
+    "question": "Nghiệp nào dẫn con người đi tái sanh và ảnh hưởng mạnh ở kiếp sau rất khó giải trừ?",
+    "choice1": "Cận tử nghiệp và cực trọng nghiệp.",
+    "choice2": "Tích lũy nghiệp và tập quán nghiệp.",
+    "choice3": "Cận tử nghiệp và tập quán nghiệp.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Cận tử nghiệp và cực trọng nghiệp.",
+    "explanation": ""
+  },
+  {
+    "question": "Theo giáo lý đạo Phật, sau khi chết con người sẽ ra sao?",
+    "choice1": "Chết rồi mất hẳn.",
+    "choice2": "Chờ thượng đế phán quyết.",
+    "choice3": "Chết rồi vẫn tái sinh làm người, không thể sinh làm thú vật.",
+    "choice4": "Tùy nghiệp đã tạo mà tái sinh làm người hoặc sinh vào các cõi khác.",
+    "answer": "Tùy nghiệp đã tạo mà tái sinh làm người hoặc sinh vào các cõi khác.",
+    "explanation": ""
+  }
 ]

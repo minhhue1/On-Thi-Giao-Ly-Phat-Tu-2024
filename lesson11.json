@@ -1,11 +1,118 @@
 [
   {
-    "question": "",
-    "choice1": "",
-    "choice2": "",
-    "choice3": "",
-    "choice4": "",
-    "answer": "",
+    "question": "Bổn phận của người Phật tử tại gia là gì?",
+    "choice1": "Có trách nhiệm đối với bản thân, gia đình, quyến thuộc.",
+    "choice2": "Có trách nhiệm đối với cá nhân, gia đình, xã hội và Phật pháp.",
+    "choice3": "Có trách nhiệm đối với bản thân, gia đình, xã hội, quốc gia và Tam bảo.",
+    "choice4": "Có trách nhiệm đối với gia đình, xã hội và Phật pháp.",
+    "answer": "Có trách nhiệm đối với bản thân, gia đình, xã hội, quốc gia và Tam bảo.",
+    "explanation": "Bổn phận của người Phật tử tại gia là: Có trách nhiệm đối với bản thân, gia đình, xã hội, quốc gia và Tam bảo."
+  },
+  {
+    "question": "Người Phật tử thuần thành nên làm gì?",
+    "choice1": "Nên nương tựa Phật, Pháp, Tăng và giữ năm giới.",
+    "choice2": "Nên thờ Phật, cúng Phật, tụng kinh, niệm Phật hằng ngày.",
+    "choice3": "Nên giữ giới hạnh, đi chùa, nghe pháp,...",
+    "choice4": "Gồm đáp án a, b và c.",
+    "answer": "Gồm đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "Sống có trách nhiệm với bản thân nghĩa là gì?",
+    "choice1": "Thực hành lối sống lành mạnh.",
+    "choice2": "Hoàn thiện bản thân là đủ, không cần quan tâm người khác.",
+    "choice3": "Tu tâm dưỡng tánh, trau dồi đức hạnh.",
+    "choice4": "Gồm đáp án a và c.",
+    "answer": "Gồm đáp án a và c.",
+    "explanation": ""
+  },{
+    "question": "Về cách xưng hô, Phật tử cùng gặp mặt nhau thì gọi thế nào cho đúng?",
+    "choice1": "Xưng hô theo tuổi tác như: ông, bà, cô, bác, anh, chị.",
+    "choice2": "Kêu Sư huynh, Sư tỷ, xưng pháp danh mình, v.v…",
+    "choice3": "Chắp tay xá chào và niệm “Mô Phật”, hay “A Di Đà Phật”.",
+    "choice4": "Gồm đáp án a và c.",
+    "answer": "Gồm đáp án a và c.",
+    "explanation": ""
+  }
+  ,{
+    "question": "Bổn phận của cha mẹ đối với con cái theo kinh Thiện Sanh là gì?",
+    "choice1": "Bắt buộc con giỏi hơn những đứa trẻ đồng trang lứa.",
+    "choice2": "Dạy con siêng năng học tập và thân cận người trí.",
+    "choice3": "Chu cấp cho con những gì con muốn.",
+    "choice4": "Không cho con làm việc nhà để có thời gian học hành.",
+    "answer": "Dạy con siêng năng học tập và thân cận người trí.",
+    "explanation": ""
+  },
+  {
+    "question": "Bổn phận của vợ đối với chồng theo kinh Thiện Sanh là gì?",
+    "choice1": "Kính yêu, hòa thuận, chia sẻ công việc với chồng.",
+    "choice2": "Quán xuyến công việc nhà.",
+    "choice3": "Giữ gìn tiết hạnh.",
+    "choice4": "Gồm đáp án a, b và c.",
+    "answer": "Gồm đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "Bổn phận của chồng đối với vợ trong kinh Thiện Sanh là gì?",
+    "choice1": "Chỉ lo kiếm tiền nuôi sống gia đình.",
+    "choice2": "Giao tất cả việc nội trợ cho vợ quán xuyến.",
+    "choice3": "Yêu thương, lắng nghe, chia sẻ, quan tâm gia đình và thủy chung với vợ.",
+    "choice4": "Chồng là trụ cột gia đình nên vợ con phải theo mọi quyết định từ chồng.",
+    "answer": "Yêu thương, lắng nghe, chia sẻ, quan tâm gia đình và thủy chung với vợ.",
+    "explanation": ""
+  },
+  {
+    "question": "Bổn phận đối với bà con thân thích trong kinh Thiện Sanh là gì?",
+    "choice1": "Chỉ biết lo gia đình mình, không xen vào chuyện người khác.",
+    "choice2": "Thăm hỏi khi người thân có bệnh, chia sẻ khi người thân gặp khó khăn.",
+    "choice3": "Khuyên can khi có người làm việc chẳng lành.",
+    "choice4": "Gồm đáp án b và c.",
+    "answer": "Gồm đáp án b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "Bổn phận của thầy đối với học trò trong kinh Thiện Sanh là gì?",
+    "choice1": "Làm tròn bổn phận của người thầy, hiểu hay không tùy học trò.",
+    "choice2": "Cần mẫn dạy dỗ, tìm cách làm cho học trò hiểu bài và trở nên giỏi hơn mình.",
+    "choice3": "Học trò phải cung kính và tuân thủ ý kiến thầy.",
+    "choice4": "Không để học trò giỏi hơn thầy.",
+    "answer": "Cần mẫn dạy dỗ, tìm cách làm cho học trò hiểu bài và trở nên giỏi hơn mình.",
+    "explanation": ""
+  },
+  {
+    "question": "Theo kinh Thiện Sanh, học trò phải có bổn phận với thầy như thế nào?",
+    "choice1": "Phải vâng lời và kính thầy như cha mẹ.",
+    "choice2": "Phải biết nhớ ơn thầy dù là không còn dạy mình nữa.",
+    "choice3": "Kính trọng khi thầy còn dạy.",
+    "choice4": "Gồm đáp án a và b.",
+    "answer": "Gồm đáp án a và b.",
+    "explanation": ""
+  },
+  {
+    "question": "Khi đang cầm kinh mà muốn xá chào người khác, Phật tử phải làm thế nào?",
+    "choice1": "Kẹp quyển kinh vào cánh tay và xá chào.",
+    "choice2": "Đặt kinh giữa hai tay và xá chào.",
+    "choice3": "Một tay cầm kinh một tay chào.",
+    "choice4": "Ôm kinh vào ngực và chào “Mô Phật” hoặc “A Di Đà Phật”.",
+    "answer": "Ôm kinh vào ngực và chào “Mô Phật” hoặc “A Di Đà Phật”.",
+    "explanation": "Nếu cầm kinh mà muốn chào người, thì phải để kinh trên bàn trước khi chào. Gặp trường hợp không có chỗ để kinh, thì ôm vào ngực mà chào: “A Di Ðà Phật ” là được. Kiêng nhất là cầm quyển kinh mà xá chào người."
+  },
+  {
+    "question": "Khi đến chùa gặp chư Tăng hoặc chư Ni, Phật tử nên chào như thế nào?",
+    "choice1": "Chắp tay xá, chào hiền huynh, hiền tỷ.",
+    "choice2": "Chắp tay xá chào và niệm “Mô Phật”, hay “A Di Đà Phật”.",
+    "choice3": "Chào hỏi thân mật và hỏi thăm sức khỏe.",
+    "choice4": "Thăm hỏi như người thân trong gia đình.",
+    "answer": "Chắp tay xá chào và niệm “Mô Phật”, hay “A Di Đà Phật”.",
+    "explanation": ""
+  },
+  {
+    "question": "Bổn phận của Phật tử đối với Tăng, Ni là gì?",
+    "choice1": "Chỉ tôn trọng thầy mình là đủ.",
+    "choice2": "Chỉ cung kính và nghe theo những vị mình ngưỡng mộ.",
+    "choice3": "Hết lòng cung kính, nương theo Tăng, Ni để học tập đạo lý và tu hành.",
+    "choice4": "Có quyền quy y nhiều Thầy và chỉ tôn trọng vị mình đang theo phụng sự.",
+    "answer": "Hết lòng cung kính, nương theo Tăng, Ni để học tập đạo lý và tu hành.",
     "explanation": ""
   }
 ]
