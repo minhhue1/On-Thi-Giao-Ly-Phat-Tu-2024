@@ -5,7 +5,7 @@
     "choice2": "Những hành vi, ngôn ngữ và tư tưởng thấp hèn tội lỗi.",
     "choice3": "Những hành vi, lời nói và suy nghĩ cao thượng tốt đẹp.",
     "choice4": "Các hành vi, lời nói và suy nghĩ có chủ ý.",
-    "answer": "",
+    "answer": "Các hành vi, lời nói và suy nghĩ có chủ ý.",
     "explanation": ""
   },
   {
@@ -14,7 +14,7 @@
     "choice2": "Cho Long Vương, ở tại cung rồng Ta Kiệt La.",
     "choice3": "Cho A Nan, ở tịnh xá Kỳ Viên.",
     "choice4": "Cho chúng hội, ở núi Linh Thứu.",
-    "answer": "",
+    "answer": "Cho Long Vương, ở tại cung rồng Ta Kiệt La.",
     "explanation": ""
   },
   {
@@ -23,7 +23,7 @@
     "choice2": "Thiên thừa.",
     "choice3": "Phật thừa.",
     "choice4": "Bồ tát thừa.",
-    "answer": "",
+    "answer": "Thiên thừa.",
     "explanation": ""
   },
   {
@@ -32,7 +32,7 @@
     "choice2": "Thiện có nghĩa là lành, tốt, lợi ích nhưng không xác định thời gian.",
     "choice3": "Thiện có nghĩa là lành, tốt, lợi ích cho mình và người trong hiện tại cũng như tương lai.",
     "choice4": "Cả ba câu trên chưa đủ ý nghĩa.",
-    "answer": "",
+    "answer": "Thiện có nghĩa là lành, tốt, lợi ích cho mình và người trong hiện tại cũng như tương lai.",
     "explanation": ""
   },
   {
@@ -41,7 +41,7 @@
     "choice2": "Không dâm dục, không nói thêu dệt, không si mê.",
     "choice3": "Không sát sanh, không trộm cắp, không tà hạnh.",
     "choice4": "Không tham lam, không dâm dục, không ác khẩu.",
-    "answer": "",
+    "answer": "Không sát sanh, không trộm cắp, không tà hạnh.",
     "explanation": ""
   },
   {
@@ -50,7 +50,7 @@
     "choice2": "Không nói dối, không nói thêu dệt, không nói lưỡi đôi chiều, không nói lời hung ác.",
     "choice3": "Không trộm cắp, không sân hận, không nói lời hung ác.",
     "choice4": "Không si mê, không sát sanh, không nói dối.",
-    "answer": "",
+    "answer": "Không nói dối, không nói thêu dệt, không nói lưỡi đôi chiều, không nói lời hung ác.",
     "explanation": ""
   },
   {
@@ -59,7 +59,7 @@
     "choice2": "Không dâm dục, không nói lời hung ác, không tham lam.",
     "choice3": "Không tham lam, không sân hận, không si mê.",
     "choice4": "Không sát sanh, không nói thêu dệt, không si mê.",
-    "answer": "",
+    "answer": "Không tham lam, không sân hận, không si mê.",
     "explanation": ""
   },
   {
@@ -68,7 +68,7 @@
     "choice2": "Của cải không bị tổn thất.",
     "choice3": "Những điều tốt đẹp sẽ đến.",
     "choice4": "Đáp án a, b và c.",
-    "answer": "",
+    "answer": "Đáp án a, b và c.",
     "explanation": ""
   },
   {
@@ -77,7 +77,7 @@
     "choice2": "Tâm nhu hòa ngay thẳng.",
     "choice3": "Thân tướng trang nghiêm, chúng sanh đều tôn kính.",
     "choice4": "Đáp án a, b và c đều đúng.",
-    "answer": "",
+    "answer": "Đáp án a, b và c đều đúng.",
     "explanation": ""
   },
   {
@@ -86,7 +86,7 @@
     "choice2": "Được chánh kiến.",
     "choice3": "Không chấp ngã và xa lìa ác nghiệp.",
     "choice4": "Đáp án a, b và c.",
-    "answer": "",
+    "answer": "Đáp án a, b và c.",
     "explanation": ""
   },
   {
@@ -95,7 +95,7 @@
     "choice2": "Giàu sang và phú quý.",
     "choice3": "Sanh lên cõi trời hưởng phước.",
     "choice4": "Đáp án a và b đều đúng.",
-    "answer": "",
+    "answer": "Sanh lên cõi trời hưởng phước.",
     "explanation": ""
   }
 ]

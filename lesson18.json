@@ -5,7 +5,7 @@
     "choice2": "Ái ngữ, lợi hành, tụng kinh, nghe pháp.",
     "choice3": "Bố thí, ái ngữ, lợi hành, đồng sự.",
     "choice4": "Ngồi thiền, tụng kinh, niệm Phật, trì chú.",
-    "answer": "",
+    "answer": "Bố thí, ái ngữ, lợi hành, đồng sự.",
     "explanation": ""
   },
   {
@@ -14,7 +14,7 @@
     "choice2": "Tài thí, pháp thí, bình đẳng bố thí.",
     "choice3": "Tài thí, pháp thí, vô uý thí.",
     "choice4": "Quá khứ thí, hiện tại thí, vị lai thí.",
-    "answer": "",
+    "answer": "Tài thí, pháp thí, vô uý thí.",
     "explanation": ""
   },
   {
@@ -23,7 +23,7 @@
     "choice2": "Bố thí để được mọi người biết là mình cũng có tấm lòng nhân hậu.",
     "choice3": "Bố thí không chấp mình là người cho, kia là người nhận và có vật để bố thí.",
     "choice4": "Bố thí không kể công, cúng dường không ỷ lại.",
-    "answer": "",
+    "answer": "Bố thí không chấp mình là người cho, kia là người nhận và có vật để bố thí.",
     "explanation": ""
   },
   {
@@ -41,7 +41,7 @@
     "choice2": "Nhẹ nhàng, khôn khéo.",
     "choice3": "Thu phục lòng người.",
     "choice4": "Nhẹ nhàng, khôn khéo và thu phục lòng người.",
-    "answer": "",
+    "answer": "Nhẹ nhàng, khôn khéo và thu phục lòng người.",
     "explanation": ""
   },
   {
@@ -50,7 +50,7 @@
     "choice2": "Làm người khác có tiền của.",
     "choice3": "Làm lợi ích cho người bằng ý nghĩ, lời nói, hành động.",
     "choice4": "Làm cho người khác được lợi ích, hưởng thụ.",
-    "answer": "",
+    "answer": "Làm lợi ích cho người bằng ý nghĩ, lời nói, hành động.",
     "explanation": ""
   }
 ]
