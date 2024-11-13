@@ -119,6 +119,8 @@ async function loadQuestionsByLesson() {
     MAX_QUESTIONS = questions.length;
 }
 
+// Thêm mảng để lưu câu trả lời của người dùng
+let userAnswers = [];
 
 // Bắt đầu trò chơi
 function startGame() {
@@ -135,6 +137,7 @@ function getNewQuestion() {
         localStorage.setItem('mostRecentScore', score);
         localStorage.setItem('currentLesson', currentLesson);
         localStorage.setItem('max_questions', MAX_QUESTIONS);
+        localStorage.setItem('userAnswers', JSON.stringify(userAnswers));  // Lưu câu trả lời người dùng
         setTimeout(() => {
             window.location.assign('end.html');
         }, 100);
@@ -204,12 +207,11 @@ choices.forEach((choice) => {
             selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect';
 
         // Lưu câu hỏi và câu trả lời người dùng
-        // userAnswers.push({
-        //     question: currentQuestion.question,
-        //     selectedAnswer: selectedAnswer,
-        //     correctAnswer: currentQuestion.answer,
-        //     explanation: currentQuestion.explanation,
-        // });
+        userAnswers.push({
+            question: currentQuestion.question,
+            selectedAnswer: selectedAnswer,
+            correctAnswer: currentQuestion.answer,
+        });
 
         if (globalClassToApply === 'correct') {
             incrementScore(CORRECT_BONUS);
