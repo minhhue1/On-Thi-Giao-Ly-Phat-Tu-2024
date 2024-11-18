@@ -4,6 +4,22 @@ const currentLesson = localStorage.getItem('currentLesson');
 const currentRegion = localStorage.getItem('currentRegion');
 const max_questions = localStorage.getItem('max_questions');
 
+if (currentRegion) {
+    const head = document.querySelector('head');
+    
+    // Tạo và thêm thẻ link cho app.css
+    const appStylesheet = document.createElement('link');
+    appStylesheet.rel = 'stylesheet';
+    appStylesheet.href = `region/${currentRegion}/app.css`;
+    head.appendChild(appStylesheet);
+
+    // Tạo và thêm thẻ link cho game.css
+    const endStylesheet = document.createElement('link');
+    endStylesheet.rel = 'stylesheet';
+    endStylesheet.href = `region/${currentRegion}/end.css`;
+    head.appendChild(endStylesheet);
+}
+
 // Hiển thị điểm số cuối cùng
 finalScore.innerText = mostRecentScore + "/" + max_questions;
 

@@ -29,6 +29,22 @@ if (!currentLesson) {
     currentLesson = 1;  // Nếu không có bài học nào, mặc định là bài học 1
 }
 let currentRegion = getParameterByName('region');
+// Kiểm tra nếu `region` tồn tại, thì cập nhật đường dẫn CSS
+if (currentRegion) {
+    const head = document.querySelector('head');
+    
+    // Tạo và thêm thẻ link cho app.css
+    const appStylesheet = document.createElement('link');
+    appStylesheet.rel = 'stylesheet';
+    appStylesheet.href = `region/${currentRegion}/app.css`;
+    head.appendChild(appStylesheet);
+
+    // Tạo và thêm thẻ link cho game.css
+    const gameStylesheet = document.createElement('link');
+    gameStylesheet.rel = 'stylesheet';
+    gameStylesheet.href = `region/${currentRegion}/game.css`;
+    head.appendChild(gameStylesheet);
+}
 
 if (currentRegion === 'duchoa') {
     TOTAL_QUESTIONS = 200;
@@ -65,7 +81,7 @@ function shuffle(array) {
 
 // Hàm tải câu hỏi từ một bài học cụ thể
 async function loadQuestionsFromFile(region, lesson) {
-    const jsonFile = `question/${region}/lesson${lesson}.json`;
+    const jsonFile = `region/${region}/lesson${lesson}.json`;
     try {
         const res = await fetch(jsonFile);
         const loadedQuestions = await res.json();
@@ -84,7 +100,7 @@ async function loadQuestionsByLesson(region) {
 
     // Bước 1: Tính tổng số câu hỏi trong tất cả các bài học
     for (let lesson = 1; lesson <= NUM_LESSONS; lesson++) {
-        const jsonFile = `question/${region}/lesson${lesson}.json`;
+        const jsonFile = `region/${region}/lesson${lesson}.json`;
         try {
             const res = await fetch(jsonFile);
             const lessonQuestions = await res.json();
@@ -153,7 +169,7 @@ async function loadQuestionAll(region) {
 
     // Bước 1: Tính tổng số câu hỏi trong tất cả các bài học
     for (let lesson = 1; lesson <= NUM_LESSONS; lesson++) {
-        const jsonFile = `question/${region}/lesson${lesson}.json`;
+        const jsonFile = `region/${region}/lesson${lesson}.json`;
         try {
             const res = await fetch(jsonFile);
             const lessonQuestions = await res.json();
