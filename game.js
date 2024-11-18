@@ -217,6 +217,7 @@ function getNewQuestion() {
     progressText.innerText = `Câu ${questionCounter}/${MAX_QUESTIONS}`;
     progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;
 
+    
     if (currentLesson === 'all') {
         // Lấy câu hỏi theo thứ tự tuần tự
         currentQuestion = availableQuestions[0];
@@ -225,7 +226,10 @@ function getNewQuestion() {
         // Lấy câu hỏi trộn
         const questionIndex = Math.floor(Math.random() * availableQuestions.length);
         currentQuestion = availableQuestions[questionIndex];
+        availableQuestions.splice(questionIndex, 1); // Loại bỏ câu hỏi đã chọn khỏi danh sách
     }
+
+    console.log(availableQuestions)
 
     question.innerText = currentQuestion.question;
 
