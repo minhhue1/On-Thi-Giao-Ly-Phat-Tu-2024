@@ -1,0 +1,93 @@
+[
+    {
+        "question": "Ngũ giới (Năm giới) gồm những giới nào? (Câu 72)",
+        "choice1": "Không vụng trộm, không tà tâm, không nói dối, không thật thà, không uống rượu.",
+        "choice2": "Không trộm cắp, không dâm dục, không nói, không nói hai lời, không uống rượu.",
+        "choice3": "Không sát sanh, không trộm cắp, không tà dâm, không nói dối, không uống rượu.",
+        "choice4": "Không sát sanh, không cướp giật, không tà dâm, không nói dối, không sử dụng các chất gây nghiện.",
+        "answer": "Không sát sanh, không trộm cắp, không tà dâm, không nói dối, không uống rượu.",
+        "explanation": ""
+    },
+    {
+        "question": "Vì sao Phật tử phải giữ giới không uống rượu? (Câu 76)",
+        "choice1": "Vì rượu làm say mê, tối tăm trí, giảm sức khoẻ, sống tiêu cực, có khả năng phạm pháp.",
+        "choice2": "Vì rượu là nguyên nhân gây nên nhiều tội lỗi, chết đi sanh lại, luân hồi nhiều kiếp trong tối tăm si ám.",
+        "choice3": "Vì rượu làm cho mất kiểm soát lời nói, hành vi và tư duy.",
+        "choice4": "Đáp án a, b và c.",
+        "answer": "Đáp án a, b và c.",
+        "explanation": ""
+    },
+    {
+        "question": "Lợi ích của sự giữ giới là gì? (Câu 79)",
+        "choice1": "Giới luật chính là bậc thang đầu của đạo quả giác ngộ, là nền tảng của thiền định, trí tuệ.",
+        "choice2": "Giới luật chính là ngọc anh lạc để trang nghiêm pháp thân, là thuyền bè để đưa người qua bể khổ sanh tử.",
+        "choice3": "Giới luật chính là kho tàng vô lượng công đức.",
+        "choice4": "Đáp án a, b và c.",
+        "answer": "Đáp án a, b và c.",
+        "explanation": ""
+    },
+    {
+        "question": "“Giới như vầng nhật sáng, quý báu như ngọc châu ma ni, các vị Bồ tát đều do trì giới thanh tịnh mà thành Chánh giác” được trích dẫn từ đâu? (Câu 80)",
+        "choice1": "Kinh Thập Thiện Nghiệp.",
+        "choice2": "Kinh Bát Đại Nhân Giác.",
+        "choice3": "Kinh Phạm Võng.",
+        "choice4": "Kinh Di giáo.",
+        "answer": "Kinh Phạm Võng.",
+        "explanation": ""
+    },
+    {
+        "question": "Vì sao Phật giáo cấm sát sinh? (Câu 81)",
+        "choice1": "Tôn trọng Phật tánh bình đẳng.",
+        "choice2": "Nuôi dưỡng lòng từ bi và tránh nhân quả oán thù.",
+        "choice3": "Tôn trọng mạng sống.",
+        "choice4": "Đáp án a, b và c.",
+        "answer": "Đáp án a, b và c.",
+        "explanation": ""
+    },
+    {
+        "question": "Giới thứ 4 trong ngũ giới, “Giới Không Nói Dối” gồm những cách nói nào? (Câu 82)",
+        "choice1": "Nói dối, nói lưỡi đôi chiều, nói lời hung ác.",
+        "choice2": "Không nói dối, không nói thêu dệt, không nói lưỡi hai chiều, không nói lời hung ác.",
+        "choice3": "Nói thêu dệt, nói lưỡi hai chiều, nói lời hung ác.",
+        "choice4": "Nói dối, nói thêu dệt, nói tục, nói lời hung ác.",
+        "answer": "Không nói dối, không nói thêu dệt, không nói lưỡi hai chiều, không nói lời hung ác.",
+        "explanation": ""
+    },
+    {
+        "question": "Thọ trì ngũ giới (Năm nguyên tắc đạo đức căn bản) được lợi ích gì? (Câu 83)",
+        "choice1": "Ngăn ngừa làm điều sai trái, đem lại an vui, hạnh phúc cho gia đình.",
+        "choice2": "Lợi ích thiết thực cho bản thân, gia đình và xã hội.",
+        "choice3": "Góp phần làm an sinh xã hội.",
+        "choice4": "Đáp án a, b và c.",
+        "answer": "Đáp án a, b và c.",
+        "explanation": ""
+    },
+    {
+        "question": "Bát quan trai giới là những giới nào? (Câu 74)",
+        "choice1": "Không sát sanh, không trộm cắp, không tà dâm, không nói dối, không ăn phi thời.",
+        "choice2": "Không nói dối, không uống rượu, không đeo tràng hoa, xoa hương thơm vào mình, không nằm giường cao tốt rộng đẹp, không ăn phi thời.",
+        "choice3": "Không sát sanh, không trộm cắp, không tà dâm, không nói dối, không uống rượu, không đeo tràng hoa.",
+        "choice4": "Không sát sanh; không trộm cắp; không tà dâm; không nói dối; không uống rượu; không tham gia múa hát và không trang điểm; không nằm ngồi nơi quá cao tốt đẹp; không ăn phi thời.",
+        "answer": "Không sát sanh; không trộm cắp; không tà dâm; không nói dối; không uống rượu; không tham gia múa hát và không trang điểm; không nằm ngồi nơi quá cao tốt đẹp; không ăn phi thời.",
+        "explanation": ""
+    },
+    {
+        "question": "Bát quan trai giới là pháp tu dành cho đối tượng nào? (Câu 75)",
+        "choice1": "Người tại gia học hạnh xuất gia áp dụng trong 1 ngày 1 đêm.",
+        "choice2": "Người cư sĩ tu hạnh xuất gia trong 24 giờ hoặc tu suốt đời.",
+        "choice3": "Người cư sĩ tu giảm bớt sự dục vọng thế gian.",
+        "choice4": "Người tại gia dõng mãnh tinh tấn.",
+        "answer": "Người tại gia học hạnh xuất gia áp dụng trong 1 ngày 1 đêm.",
+        "explanation": ""
+    },
+    {
+        "question": "Vì sao Phật tử không nên nằm ngồi giường cao đẹp, rộng lớn trong thời gian tu tập Bát quan trai giới? (Câu 77)",
+        "choice1": "Kiệm phước và ngăn ngừa thân xác không cho buông lung.",
+        "choice2": "Để tránh mọi cảm nghĩ khoái lạc của giường cao rộng lớn.",
+        "choice3": "Để tránh cảm giác có thể kích thích lòng ham muốn bất chính của xác thân.",
+        "choice4": "Đáp án a, b, và c.",
+        "answer": "Đáp án a, b, và c.",
+        "explanation": ""
+    }
+]
+

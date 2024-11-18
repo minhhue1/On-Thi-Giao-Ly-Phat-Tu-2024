@@ -1,0 +1,65 @@
+[
+    {
+        "question": "Tứ chánh cần là gì? (Câu 105)",
+        "choice1": "Tinh tấn dứt trừ những điều ác đã sanh, Tinh tấn dứt trừ những điều ác chưa phát sanh, Tinh tấn phát triển điều thiện chưa sanh, làm cho sanh thiện, Tinh tấn phát triển điều thiện đã sanh.",
+        "choice2": "Những điều ác chưa phát sanh, đừng cho nó sanh khởi.",
+        "choice3": "Điều thiện chưa sanh, làm cho sanh trưởng.",
+        "choice4": "Tinh tấn phát triển điều thiện đã sanh.",
+        "answer": "Tinh tấn dứt trừ những điều ác đã sanh, Tinh tấn dứt trừ những điều ác chưa phát sanh, Tinh tấn phát triển điều thiện chưa sanh, làm cho sanh thiện, Tinh tấn phát triển điều thiện đã sanh.",
+        "explanation": ""
+    },
+    {
+        "question": "Ngũ căn là gì? (Câu 110)",
+        "choice1": "Nhãn, nhĩ, tỷ, thiệt, thân.",
+        "choice2": "Mắt, tai, mũi, lưỡi, thân.",
+        "choice3": "Nhãn, ý, thân, tâm, nhĩ.",
+        "choice4": "Đáp án a và b.",
+        "answer": "Đáp án a và b.",
+        "explanation": ""
+    },
+    {
+        "question": "Tinh thần siêng năng tu tập không mệt mỏi được gọi là gì trong Ngũ căn? (Câu 111)",
+        "choice1": "Tín căn.",
+        "choice2": "Tấn căn.",
+        "choice3": "Định căn.",
+        "choice4": "Niệm căn.",
+        "answer": "Tấn căn.",
+        "explanation": ""
+    },
+    {
+        "question": "Tinh tấn là gì? (Câu 103)",
+        "choice1": "Siêng năng đi chùa lễ Phật, nghe giảng pháp.",
+        "choice2": "Siêng năng làm công quả.",
+        "choice3": "Siêng năng bỏ ác, làm lành, hướng đạo đức, không bỏ cuộc, giữ vững niềm tin.",
+        "choice4": "Siêng năng tu tập, dù gặp nghịch cảnh cũng không thối lui.",
+        "answer": "Siêng năng bỏ ác, làm lành, hướng đạo đức, không bỏ cuộc, giữ vững niềm tin.",
+        "explanation": ""
+    },
+    {
+        "question": "Người biết lựa chọn pháp lành để tu tập thuộc về phần nào trong Thất bồ đề phần? (Câu 106)",
+        "choice1": "Tinh Tấn.",
+        "choice2": "Khinh an.",
+        "choice3": "Trạch pháp.",
+        "choice4": "Niệm.",
+        "answer": "Trạch pháp.",
+        "explanation": ""
+    },
+    {
+        "question": "Bát Chánh Đạo là gồm những gì? (Câu 94)",
+        "choice1": "Gồm: chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm và chánh định.",
+        "choice2": "Gồm: Khổ, tập, diệt, đạo, từ, bi, hỷ, xả.",
+        "choice3": "Gồm: Tín, hạnh, nguyện, từ, bi, hỷ và xả.",
+        "choice4": "b và c.",
+        "answer": "Gồm: chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm và chánh định.",
+        "explanation": ""
+    },
+    {
+        "question": "Chánh mạng là gì? (Câu 96)",
+        "choice1": "Nghề nghiệp chân chánh.",
+        "choice2": "Quyền lợi chân chánh.",
+        "choice3": "Đạo nghiệp chân chánh.",
+        "choice4": "Việc làm chơn chánh.",
+        "answer": "Nghề nghiệp chân chánh.",
+        "explanation": ""
+    }
+]

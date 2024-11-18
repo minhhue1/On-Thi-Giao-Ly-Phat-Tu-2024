@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Ngã mạn có nghĩa là gì? (Câu 95)",
+        "choice1": "Tự cho mình là giỏi hơn người.",
+        "choice2": "Hơn người ít mà nghĩ mình hơn nhiều.",
+        "choice3": "Ỷ mình hay giỏi mà lấn lướt người.",
+        "choice4": "Đáp án a, b và c.",
+        "answer": "Ỷ mình hay giỏi mà lấn lướt người.",
+        "explanation": ""
+    },
+    {
+        "question": "Tà kiến nghĩa là gì? (Câu 97)",
+        "choice1": "Là lầm chấp sai lầm, trái với sự thật, trái với luật nhân quả, chạy theo giáo pháp.",
+        "choice2": "Là mê tín dị đoan, không phân biệt được đúng sai, chánh tà.",
+        "choice3": "Đáp án a và b.",
+        "choice4": "Là chấp chặt luôn làm theo ý mình.",
+        "answer": "Đáp án a và b.",
+        "explanation": ""
+    },
+    {
+        "question": "Căn bản phiền não gồm những phiền não nào? (Câu 112)",
+        "choice1": "Tham, sân, si, mạn, nghi, ác kiến.",
+        "choice2": "Sanh, lão, bệnh, tử, ái biệt ly, cầu bất đắc, oán tắng hội, ngũ ấm xí thạnh.",
+        "choice3": "Tham, sân, si, mạn, nghi, thân kiến, biên kiến, kiến thủ, giới cấm thủ, tà kiến.",
+        "choice4": "Đáp án a và c.",
+        "answer": "Tham, sân, si, mạn, nghi, ác kiến.",
+        "explanation": ""
+    },
+    {
+        "question": "Theo Phật giáo Bắc truyền, năm món lợi sử gồm những gì? (Câu 113)",
+        "choice1": "Thân kiến, biên kiến, kiến thủ, giới cấm thủ, tà kiến.",
+        "choice2": "Tham, sân, si, mạn, nghi, ác kiến.",
+        "choice3": "Đáp án a và b.",
+        "choice4": "Tham, sân, thùy miên, trạo cử, nghi.",
+        "answer": "Thân kiến, biên kiến, kiến thủ, giới cấm thủ, tà kiến.",
+        "explanation": ""
+    },
+    {
+        "question": "Theo Phật giáo Bắc truyền, năm món độn sử là gì? (Câu 114)",
+        "choice1": "Tham, sân, si, mạn, nghi.",
+        "choice2": "Thân kiến, biên kiến, kiến thủ, giới cấm thủ, tà kiến.",
+        "choice3": "Sắc, thanh, hương, vị, xúc.",
+        "choice4": "Nhãn, nhĩ, tỷ, thiệt, thân.",
+        "answer": "Tham, sân, si, mạn, nghi.",
+        "explanation": ""
+    },
+    {
+        "question": "Chưa chứng Thánh quả mà cho là chứng thuộc về loại kiêu mạn nào? (Câu 115)",
+        "choice1": "Ngã mạn.",
+        "choice2": "Tăng thượng mạn.",
+        "choice3": "Tà mạn.",
+        "choice4": "Mạn quá mạn.",
+        "answer": "Tăng thượng mạn.",
+        "explanation": ""
+    },
+    {
+        "question": "Không tin vào khả năng của mình thuộc về loại kiêu mạn nào? (Câu 116)",
+        "choice1": "Quá mạn.",
+        "choice2": "Ty liệt mạn.",
+        "choice3": "Kiêu mạn.",
+        "choice4": "Ngã mạn.",
+        "answer": "Ty liệt mạn.",
+        "explanation": ""
+    },
+    {
+        "question": "Biểu hiện của Tham là gì? (Câu 117)",
+        "choice1": "Dòm ngó, theo dõi những gì ưa thích.",
+        "choice2": "Lập mưu này, chước nọ để chiếm đoạt.",
+        "choice3": "Được bao nhiêu cũng không cảm thấy đủ.",
+        "choice4": "Đáp án a, b và c.",
+        "answer": "Đáp án a, b và c.",
+        "explanation": ""
+    },
+    {
+        "question": "“Nhất niệm sân tâm khởi, bách vạn chướng môn khai”. Câu này hàm ý điều gì? (Câu 118)",
+        "choice1": "Một niệm sân hận nổi lên thì trăm ngàn cửa nghiệp chướng đều mở.",
+        "choice2": "Một niệm sân hận là nguyên nhân tạo ra muôn vàn tội ác.",
+        "choice3": "Một niệm sân gia đình ly biệt, anh em trở thành kẻ thù.",
+        "choice4": "Đáp án a, b.",
+        "answer": "Đáp án a, b.",
+        "explanation": ""
+    },
+    {
+        "question": "“Nhất tinh chi hỏa, năng thiêu vạn khoảnh công đức chi lâm”. Câu này hàm ý điều gì? (Câu 119)",
+        "choice1": "Một đốm lửa giận có thể đốt hết muôn mẫu rừng công đức.",
+        "choice2": "Cơn giận là nguyên nhân làm tiêu tan cả núi công đức.",
+        "choice3": "Một ngọn lửa giận tan nhà nát cửa.",
+        "choice4": "Đáp án a và b.",
+        "answer": "Đáp án a và b.",
+        "explanation": ""
+    }
+]

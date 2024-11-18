@@ -1,0 +1,56 @@
+[
+    {
+        "question": "Tứ Vô Lượng Tâm là những pháp nào? (Câu 120)",
+        "choice1": "Từ, bi, hỷ, xả.",
+        "choice2": "Bố thí, từ, bi và hỷ.",
+        "choice3": "Bố thí, ái ngữ, lợi hành, đồng sự.",
+        "choice4": "Khổ, tập, diệt, đạo.",
+        "answer": "Từ, bi, hỷ, xả.",
+        "explanation": ""
+    },
+    {
+        "question": "Ngũ minh gồm những gì? (Câu 165)",
+        "choice1": "Công xảo minh, thanh minh, y phương minh, phát minh và nhân minh.",
+        "choice2": "Nội minh, nhân minh, thanh minh, công xảo minh và y phương minh.",
+        "choice3": "Nội minh, công minh, nhân minh, thanh minh và y phương minh.",
+        "choice4": "Công xảo minh, nhân minh, thanh minh, y phương minh và công minh.",
+        "answer": "Nội minh, nhân minh, thanh minh, công xảo minh và y phương minh.",
+        "explanation": ""
+    },
+    {
+        "question": "Nhân minh là gì? (Câu 166)",
+        "choice1": "Thông về giáo điển.",
+        "choice2": "Thông về biện luận.",
+        "choice3": "Thông về văn chương.",
+        "choice4": "Thông về kỷ xảo.",
+        "answer": "Thông về biện luận.",
+        "explanation": ""
+    },
+    {
+        "question": "Thanh minh có nghĩa là gì? (Câu 167)",
+        "choice1": "Liên quan đến vấn đề diễn giải, biện luận, giải thích.",
+        "choice2": "Hướng dẫn nghệ thuật diễn giảng.",
+        "choice3": "Liên quan đến ngôn ngữ văn tự, và văn học.",
+        "choice4": "Đáp án a và b.",
+        "answer": "Liên quan đến ngôn ngữ văn tự, và văn học.",
+        "explanation": ""
+    },
+    {
+        "question": "Thông qua ngũ minh, Phật giáo thể hiện được tinh thần gì nổi bật? (Câu 168)",
+        "choice1": "Bi quan yếm thế.",
+        "choice2": "Tích cực.",
+        "choice3": "Nhập thế.",
+        "choice4": "Đáp án b và c.",
+        "answer": "Đáp án b và c.",
+        "explanation": ""
+    },
+    {
+        "question": "Ngũ uẩn gồm những gì? (Câu 185)",
+        "choice1": "Sắc, thọ, tưởng, hành, thức.",
+        "choice2": "Sắc, thanh, hương, vị, xúc.",
+        "choice3": "Tài, sắc, danh, thực, thùy.",
+        "choice4": "Sắc, tài, danh, thực, thùy.",
+        "answer": "Sắc, thọ, tưởng, hành, thức.",
+        "explanation": ""
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "question": "“Tam bảo” gồm những gì? (Câu 68)",
+        "choice1": "Giới, định, tuệ.",
+        "choice2": "Vô thường, vô ngã, Niết bàn.",
+        "choice3": "Ba ngôi quý báu Phật, Pháp, Tăng.",
+        "choice4": "Văn, tư, tu.",
+        "answer": "Ba ngôi quý báu Phật, Pháp, Tăng.",
+        "explanation": ""
+    },
+    {
+        "question": "Quy y Tam bảo có nghĩa là gì? (Câu 69)",
+        "choice1": "Trở về nương tựa với ba ngôi báu tự tâm.",
+        "choice2": "Đến chùa đăng ký quy y Tam bảo.",
+        "choice3": "Phật, Pháp, Tăng là ba ngôi báu ở thế gian.",
+        "choice4": "Trở về nương tựa Phật, Pháp, Tăng.",
+        "answer": "Trở về nương tựa Phật, Pháp, Tăng.",
+        "explanation": ""
+    },
+    {
+        "question": "Định nghĩa Phật, Pháp, Tăng là gì? (Câu 70)",
+        "choice1": "Phật là bậc giác ngộ hoàn toàn; Pháp là lời dạy của Đức Phật; Tăng là Tăng đoàn hòa hợp của Đức Phật, sống cùng nhau trong nếp sống hòa kính.",
+        "choice2": "Là Tam pháp ấn.",
+        "choice3": "Là đấng tối cao.",
+        "choice4": "Đáp án b và c.",
+        "answer": "Phật là bậc giác ngộ hoàn toàn; Pháp là lời dạy của Đức Phật; Tăng là Tăng đoàn hòa hợp của Đức Phật, sống cùng nhau trong nếp sống hòa kính.",
+        "explanation": ""
+    },
+    {
+        "question": "Quy y Phật, quy y Pháp, quy y Tăng sẽ không bị đọa lạc vào đâu? (Câu 73)",
+        "choice1": "A-tu-la, địa ngục, ngạ quỷ.",
+        "choice2": "Địa ngục, ngạ quỷ, súc sanh.",
+        "choice3": "Ngạ quỷ, A-tu-la, súc sanh.",
+        "choice4": "Súc sanh, thần, A-tu-la.",
+        "answer": "Địa ngục, ngạ quỷ, súc sanh.",
+        "explanation": ""
+    },
+    {
+        "question": "Theo Phật học phổ thông, Phật tử tại gia cần quy y và thọ trì bao nhiêu giới? (Câu 84)",
+        "choice1": "Thọ tam quy và Bát quan trai giới.",
+        "choice2": "Thọ Tam quy và Thập giới.",
+        "choice3": "Thọ Ngũ giới và Tam giới.",
+        "choice4": "Tam quy và ngũ giới.",
+        "answer": "Tam quy và ngũ giới.",
+        "explanation": ""
+    }
+]

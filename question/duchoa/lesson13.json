@@ -1,0 +1,56 @@
+[
+    {
+        "question": "Tứ thánh đế hay gọi Tứ diệu đế gồm những gì? (Câu 88)",
+        "choice1": "Từ, bi, hỷ, xả.",
+        "choice2": "Thường, lạc, ngã, tịnh.",
+        "choice3": "Khổ, tập, diệt, đạo.",
+        "choice4": "Đáp án a, b và c.",
+        "answer": "Khổ, tập, diệt, đạo.",
+        "explanation": ""
+    },
+    {
+        "question": "Theo Phật học Phổ thông, khổ đế là gì? (Câu 89)",
+        "choice1": "Là những điều làm khó chịu, đau khổ.",
+        "choice2": "Là chân thật đúng đắn vững chắc, rõ ràng.",
+        "choice3": "Đáp án a và b.",
+        "choice4": "Là con đường diệt khổ.",
+        "answer": "Đáp án a và b.",
+        "explanation": ""
+    },
+    {
+        "question": "Tam khổ trong Khổ đế gồm những gì? (Câu 90)",
+        "choice1": "Khổ khổ, hoại khổ, hành khổ.",
+        "choice2": "Ái biệt ly khổ, cầu bất đắc khổ, oán tắng hội khổ.",
+        "choice3": "Già khổ, bệnh khổ, chết khổ.",
+        "choice4": "Thân khổ, tâm khổ, cảm xúc khổ.",
+        "answer": "Khổ khổ, hoại khổ, hành khổ.",
+        "explanation": ""
+    },
+    {
+        "question": "Bát khổ trong khổ đế gồm những gì? (Câu 91)",
+        "choice1": "Khổ khổ, hoại khổ, hành khổ, đau khổ, sanh khổ, lão khổ, bệnh khổ và tử khổ.",
+        "choice2": "Sanh khổ, lão khổ, bệnh khổ, tử khổ, ái biệt ly khổ, cầu bất đắc khổ, oán tắng hội khổ và ngũ ấm xí thạnh khổ.",
+        "choice3": "Đáp án a và b.",
+        "choice4": "Sanh khổ, lão khổ, già khổ, tử khổ, ái biệt ly khổ, cầu bất đắc khổ, oán tắng hội khổ và ngũ ấm xí thạnh khổ.",
+        "answer": "Sanh khổ, lão khổ, bệnh khổ, tử khổ, ái biệt ly khổ, cầu bất đắc khổ, oán tắng hội khổ và ngũ ấm xí thạnh khổ.",
+        "explanation": ""
+    },
+    {
+        "question": "“Thấy mặt kẻ thù như kim đâm vào mắt, ở chung với người nghịch như nếm mật nằm gai” câu thơ trên ví cho loại khổ nào? (Câu 92)",
+        "choice1": "Khổ do tình duyên ngang trái.",
+        "choice2": "Khổ do thù ghét nhau mà vẫn gặp nhau. (oán tắng hội khổ)",
+        "choice3": "Khổ về tình cảm.",
+        "choice4": "Đáp án a, b và c.",
+        "answer": "Khổ do thù ghét nhau mà vẫn gặp nhau. (oán tắng hội khổ)",
+        "explanation": ""
+    },
+    {
+        "question": "Thất vọng về tình duyên thuộc về phần nào trong tám khổ? (Câu 93)",
+        "choice1": "Cầu bất đắc khổ.",
+        "choice2": "Ái biệt ly khổ.",
+        "choice3": "Oán tắng hội khổ.",
+        "choice4": "Đáp án a, b và c.",
+        "answer": "Ái biệt ly khổ.",
+        "explanation": ""
+    }
+]

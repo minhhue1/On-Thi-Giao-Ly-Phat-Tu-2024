@@ -1,0 +1,65 @@
+[
+    {
+        "question": "Duyên khởi lễ Vu Lan bắt nguồn từ vị nào? (Câu 129)",
+        "choice1": "Tôn giả Xá Lợi Phất về thăm mẹ",
+        "choice2": "Tôn giả Mục Kiền Liên cứu mẹ.",
+        "choice3": "Tôn giả A Nan.",
+        "choice4": "Tôn giả Tu Bồ Đề.",
+        "answer": "Tôn giả Mục Kiền Liên cứu mẹ.",
+        "explanation": ""
+    },
+    {
+        "question": "Ngài Mục Kiền Liên đã chứng lục thông, sao không tự cứu mẹ, mà phải nhờ sức chú nguyện của chư Tăng? (Câu 130)",
+        "choice1": "Do thần thông bất lực trước quả xấu quá nặng.",
+        "choice2": "Sức chú nguyện và chuyển hoá nghiệp của chư Tăng mạnh hơn thần thông.",
+        "choice3": "Nhờ sức chuyển hoá của chư Tăng, bà Thanh Đề sanh tâm hối hận, được giải thoát.",
+        "choice4": "Do nghiệp lực quá xấu ác, cần phải nhờ sức chú nguyện của chư Tăng, chuyển hoá nghiệp, khiến bà Thanh Đề sinh tâm hối hận xả bỏ lòng bỏn xẻn mới thoát khỏi địa ngục khổ đau.",
+        "answer": "Do nghiệp lực quá xấu ác, cần phải nhờ sức chú nguyện của chư Tăng, chuyển hoá nghiệp, khiến bà Thanh Đề sinh tâm hối hận xả bỏ lòng bỏn xẻn mới thoát khỏi địa ngục khổ đau.",
+        "explanation": ""
+    },
+    {
+        "question": "Vì sao trong kinh Phụ Mẫu Báo Ân, Phật lạy đống xương khô? (Câu 131)",
+        "choice1": "Vì cứu bà Thanh Đề.",
+        "choice2": "Vì trong đó có ông bà cha mẹ nhiều đời.",
+        "choice3": "Vì tôn vinh ngày cha mẹ.",
+        "choice4": "Đáp án a và b.",
+        "answer": "Vì trong đó có ông bà cha mẹ nhiều đời.",
+        "explanation": ""
+    },
+    {
+        "question": "Tại sao đức Phật chọn ngày rằm tháng bảy (âm lịch) để thiết lễ Vu Lan? (Câu 132)",
+        "choice1": "Để cứu độ những vong hồn bị treo ngược ở địa ngục do tạo nhiều nghiệp xấu ác.",
+        "choice2": "Vì đó là ngày chư Tăng Tự tứ.",
+        "choice3": "Vì đó là ngày chư Phật mười phương hoan hỷ.",
+        "choice4": "Đáp án a, b và c.",
+        "answer": "Đáp án a, b và c.",
+        "explanation": ""
+    },
+    {
+        "question": "Phật tử nên báo hiếu cha mẹ lúc nào? (Câu 133)",
+        "choice1": "Báo hiếu vào dịp lễ Vu Lan.",
+        "choice2": "Báo hiếu sau khi cha mẹ đã qua đời.",
+        "choice3": "Báo hiếu hằng ngày và bất kỳ lúc nào có thể và khi cha mẹ bệnh đau ốm.",
+        "choice4": "Đáp án a, b và c.",
+        "answer": "Đáp án a, b và c.",
+        "explanation": ""
+    },
+    {
+        "question": "Vì sao bà Thanh Đề không ăn được bát cơm do tôn giả Mục Kiền Liên dâng? (Câu 134)",
+        "choice1": "Bị quỷ đốt cháy.",
+        "choice2": "Bị quỷ giành ăn.",
+        "choice3": "Bát cơm bốc cháy do nghiệp lực của bà quá nặng.",
+        "choice4": "Do chịu tội nên không được ăn.",
+        "answer": "Bát cơm bốc cháy do nghiệp lực của bà quá nặng.",
+        "explanation": ""
+    },
+    {
+        "question": "Tội ngũ nghịch là gồm những tội nào? (Câu 135)",
+        "choice1": "Tà kiến, mê tín, hủy hoại Tam bảo, phá hòa hợp tăng, giết cha mẹ.",
+        "choice2": "Giết cha mẹ, giết Thầy, Vu khống, phỉ báng tăng đoàn, Làm thân Phật chảy máu, chia rẽ tăng đoàn (phá hòa hợp tăng).",
+        "choice3": "Chấp điều không chơn chánh, trái với quy luật nhân quả.",
+        "choice4": "Giết cha, giết mẹ, giết A-la-hán, Làm thân Phật chảy máu, chia rẽ Tăng đoàn (phá hòa hợp Tăng).",
+        "answer": "Giết cha, giết mẹ, giết A-la-hán, Làm thân Phật chảy máu, chia rẽ Tăng đoàn (phá hòa hợp Tăng).",
+        "explanation": ""
+    }
+]

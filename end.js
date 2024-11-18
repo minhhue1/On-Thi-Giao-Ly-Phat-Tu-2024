@@ -1,6 +1,7 @@
 const finalScore = document.getElementById('finalScore');
 const mostRecentScore = localStorage.getItem('mostRecentScore');
 const currentLesson = localStorage.getItem('currentLesson');
+const currentRegion = localStorage.getItem('currentRegion');
 const max_questions = localStorage.getItem('max_questions');
 
 // Hiển thị điểm số cuối cùng
@@ -41,4 +42,8 @@ userAnswers.forEach((answer) => {
 
 // Cập nhật link "Làm lại" với lesson hiện tại
 const retryBtn = document.querySelector('a[href="game.html"]');
-retryBtn.href = `game.html?lesson=${currentLesson}`;
+retryBtn.href = `game.html?region=${currentRegion}&lesson=${currentLesson}`;
+
+// Cập nhật link "Trang chủ" với region hiện tại
+const homeBtn = document.querySelector('a[href="index.html"]');
+homeBtn.href = `${currentRegion}.html`;

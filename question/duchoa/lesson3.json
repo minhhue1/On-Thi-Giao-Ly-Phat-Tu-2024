@@ -1,0 +1,326 @@
+[
+    {
+      "question": "Phật lịch được tính từ lúc nào? (Câu 2)",
+      "choice1": "Từ năm Phật nhập Niết bàn.",
+      "choice2": "Từ năm Phật Đản sanh.",
+      "choice3": "Từ năm Phật Thành đạo.",
+      "choice4": "Từ năm Phật Chuyển pháp luân.",
+      "answer": "Từ năm Phật nhập Niết bàn.",
+      "explanation": ""
+    },
+    {
+      "question": "Theo Phật giáo Bắc truyền, đức Phật nhập Niết bàn ngày nào? (Câu 13)",
+      "choice1": "Ngày 8/2 âm lịch.",
+      "choice2": "Ngày 15/2 âm lịch.",
+      "choice3": "Ngày 15/4 âm lịch.",
+      "choice4": "Ngày 15/10 âm lịch.",
+      "answer": "Ngày 15/2 âm lịch.",
+      "explanation": ""
+    },
+    {
+      "question": "Đức Phật đã chứng Tam minh, gồm những gì? (Câu 21)",
+      "choice1": "Túc mạng thông, thiên nhãn minh, lậu tận diệt.",
+      "choice2": "Túc mạng minh, thiên nhãn minh, lậu tận minh.",
+      "choice3": "Túc mạng minh, thiên nhãn minh, lậu tận thông.",
+      "choice4": "Túc mạng thông, thiên nhãn thông, lậu tận thông.",
+      "answer": "Túc mạng minh, thiên nhãn minh, lậu tận minh.",
+      "explanation": ""
+    },
+    {
+      "question": "Đức Phật được tôn xưng với danh hiệu Đại hùng, Đại lực do Ngài có năng lực gì? (Câu 22)",
+      "choice1": "Võ nghệ cao cường và sức mạnh phi thường.",
+      "choice2": "Có tài cưỡi ngựa bắn cung, múa kiếm hơn người.",
+      "choice3": "Thắng được nội ma, ngoại chướng.",
+      "choice4": "Đáp án a, b và c.",
+      "answer": "Thắng được nội ma, ngoại chướng.",
+      "explanation": ""
+    },
+    {
+      "question": "Vị đại đệ tử nào của Đức Phật được tôn xưng là “Trì giới đệ nhất”? (Câu 23)",
+      "choice1": "Tôn giả La Hầu La",
+      "choice2": "Tôn giả Ưu Ba Ly",
+      "choice3": "Tôn giả A Na Luật",
+      "choice4": "Tôn giả Nan Đà.",
+      "answer": "Tôn giả Ưu Ba Ly",
+      "explanation": ""
+    },
+    {
+      "question": "Đức Phật thuyết pháp cho năm anh em Kiều Trần Như tại đâu? (Câu 25)",
+      "choice1": "Tại vườn Lộc Uyển",
+      "choice2": "Tại vườn Lâm Tỳ Ni.",
+      "choice3": "Tại rừng Sa-la",
+      "choice4": "Đáp án a và b.",
+      "answer": "Tại vườn Lộc Uyển",
+      "explanation": ""
+    },
+    {
+      "question": "Ai là vị thị giả hầu cận Đức Phật được các kinh điển nhắc đến nhiều lần? (Câu 26)",
+      "choice1": "Tôn giả A Nan",
+      "choice2": "Tôn giả Xá Lợi Phất.",
+      "choice3": "Tôn giả Mục Kiền Liên.",
+      "choice4": "Tôn giả Tu Bồ Đề.",
+      "answer": "Tôn giả A Nan",
+      "explanation": ""
+    },
+    {
+      "question": "Đệ tử “Trí tuệ đệ nhất” của Đức Phật là vị nào? (Câu 27)",
+      "choice1": "Ngài Xá Lợi Phất",
+      "choice2": "Ngài Dược Vương",
+      "choice3": "Ngài A Na Hòa Tu",
+      "choice4": "Ngài Mục Kiền Liên.",
+      "answer": "Ngài Xá Lợi Phất",
+      "explanation": ""
+    },
+    {
+      "question": "Ai là người cúng dường vườn cây cho Đức Phật làm tinh xá? (Câu 29)",
+      "choice1": "Trưởng giả Cấp Cô Độc",
+      "choice2": "Thái tử Kỳ Đà",
+      "choice3": "Vua Ba Tư Nặc",
+      "choice4": "Nữ đại thí chủ Tỳ Xá Khư.",
+      "answer": "Thái tử Kỳ Đà",
+      "explanation": ""
+    },
+    {
+      "question": "Mười hiệu của Như Lai là những hiệu cao quý nào? (Câu 30)",
+      "choice1": "Như Lai, Ứng Cúng, Chánh Biến Tri, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Điều Ngự, Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn",
+      "choice2": "Vô Thượng Sĩ, Quân Tử, Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn, Điều Ngự.",
+      "choice3": "Như Lai, Ứng Cúng, Bồ Tát, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ.",
+      "choice4": "Vô Lượng Phước, Điều Ngự, Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn.",
+      "answer": "Như Lai, Ứng Cúng, Chánh Biến Tri, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Điều Ngự, Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn",
+      "explanation": ""
+    },
+    {
+      "question": "Vì sao Đức Phật được trời người tôn kính? (Câu 31)",
+      "choice1": "Vì Ngài là người có đầy đủ phước đức và trí tuệ.",
+      "choice2": "Vì Ngài hy sinh hạnh phúc cá nhân, từ bỏ hưởng thụ cao sang ở thế gian, xuất gia tầm đạo, giải thoát khổ đau cho chúng sanh.",
+      "choice3": "Vì Ngài đã khéo léo vận dụng trí tuệ phương tiện để dẫn dắt chúng sanh ra khỏi sanh tử luân hồi.",
+      "choice4": "a, b và c đều đúng.",
+      "answer": "a, b và c đều đúng.",
+      "explanation": ""
+    },
+    {
+      "question": "Người ba lần âm mưu hại đức Phật bị đọa vào địa ngục là ai? (Câu 33)",
+      "choice1": "Ông Đề Bà Đạt Đa.",
+      "choice2": "Chàng Vô Não.",
+      "choice3": "Vua A Xà Thế.",
+      "choice4": "Vua Thiện Giác.",
+      "answer": "Ông Đề Bà Đạt Đa.",
+      "explanation": ""
+    },
+    {
+      "question": "Sau khi Phật nhập Niết bàn, ai kế thừa Phật lãnh đạo giáo đoàn? (Câu 34)",
+      "choice1": "Tôn giả A Nan.",
+      "choice2": "Tôn giả Ca Diếp.",
+      "choice3": "Tôn giả Xá Lợi Phất.",
+      "choice4": "Lãnh đạo tập thể.",
+      "answer": "Tôn giả Ca Diếp.",
+      "explanation": ""
+    },
+    {
+      "question": "Ai là người cúng dường tinh xá Kỳ Viên cho Đức Phật? (Câu 35)",
+      "choice1": "Trưởng giả Cấp Cô Độc.",
+      "choice2": "Trưởng giả Cấp Cô Độc và thái tử Kỳ Đà.",
+      "choice3": "Vua A Dục.",
+      "choice4": "Vua A Xà Thế.",
+      "answer": "Trưởng giả Cấp Cô Độc và thái tử Kỳ Đà.",
+      "explanation": ""
+    },
+    {
+      "question": "Ai cúng dường nhà ẩn sĩ Tất Đạt Đa bát cháo sữa? (Câu 36)",
+      "choice1": "Chú bé chăn trâu.",
+      "choice2": "Cô gái Sujata.",
+      "choice3": "Ông lão nông dân.",
+      "choice4": "Người hành khất.",
+      "answer": "Cô gái Sujata.",
+      "explanation": ""
+    },
+    {
+      "question": "Ai đã cúng dường cỏ Kusa cho nhà ẩn sĩ Tất Đạt Đa trước khi thiền định dưới cội Bồ Đề? (Câu 37)",
+      "choice1": "Ông lão nông dân.",
+      "choice2": "Cô gái chăn bò Sujata.",
+      "choice3": "Người hành khất.",
+      "choice4": "Chú bé chăn trâu.",
+      "answer": "Chú bé chăn trâu.",
+      "explanation": ""
+    },
+    {
+      "question": "Vị đệ tử xuất gia sau cùng của đức Phật là ai? (Câu 38)",
+      "choice1": "Tôn giả Ca Na Đề Bà.",
+      "choice2": "Tôn giả La Hầu La Đa.",
+      "choice3": "Tôn giả Tu Bạt Đà La.",
+      "choice4": "Tôn giả Di Già Ca.",
+      "answer": "Tôn giả Tu Bạt Đà La.",
+      "explanation": ""
+    },
+    {
+      "question": "Ai là người sinh tâm hại Phật, đã biết quay đầu sám hối, quy y hướng Phật? (Câu 39)",
+      "choice1": "Đề Bà Đạt Đa.",
+      "choice2": "Vô Não.",
+      "choice3": "Vua A Xà Thế.",
+      "choice4": "Đáp án b và c.",
+      "answer": "Vô Não.",
+      "explanation": ""
+    },
+    {
+      "question": "Vị vua nào cúng dường vườn Ngự Uyển cho đức Phật và Tăng đoàn làm nơi trú ngụ? (Câu 40)",
+      "choice1": "Vua Thiện Giác.",
+      "choice2": "Vua Tịnh Phạn.",
+      "choice3": "Vua A Xà Thế.",
+      "choice4": "Vua Tần Bà Sa La.",
+      "answer": "Vua Tần Bà Sa La.",
+      "explanation": ""
+    },
+    {
+      "question": "Hai tôn giả nào đã hướng dẫn 250 vị ngoại đạo quy y làm đệ tử Phật? (Câu 41)",
+      "choice1": "Tôn giả Ca Diếp và Xá Lợi Phất.",
+      "choice2": "Tôn giả Xá Lợi Phất và Mục Kiền Liên.",
+      "choice3": "Tôn giả Ca Diếp và Mục Kiền Liên.",
+      "choice4": "Tôn giả Xá Lợi Phất và A Nan.",
+      "answer": "Tôn giả Xá Lợi Phất và Mục Kiền Liên.",
+      "explanation": ""
+    },
+    {
+        "question": "Theo lịch sử Phật giáo Bắc tông, khi Thành đạo đức Phật bao nhiêu tuổi? (Câu 42)",
+        "choice1": "35 tuổi.",
+        "choice2": "30 tuổi.",
+        "choice3": "29 tuổi.",
+        "choice4": "36 tuổi.",
+        "answer": "30 tuổi.",
+        "explanation": ""
+    },
+    {
+        "question": "Sau khi Phật nhập Niết bàn, ai triệu tập hội nghị kiết tập kinh điển lần thứ I? (Câu 45)",
+        "choice1": "Tôn giả A Nan.",
+        "choice2": "Tôn giả Ca Diếp.",
+        "choice3": "Tôn giả Ca Chiên Diên.",
+        "choice4": "Tập thể giáo đoàn lãnh đạo.",
+        "answer": "Tôn giả Ca Diếp.",
+        "explanation": ""
+    },
+    {
+        "question": "Ai là người cúng dường đức Phật bữa cơm cuối cùng? (Câu 46)",
+        "choice1": "Ông Thuần Đà.",
+        "choice2": "Ông Cấp Cô Độc.",
+        "choice3": "Ông Tu Đạt Đa.",
+        "choice4": "Vua Ba Tư Nặc.",
+        "answer": "Ông Thuần Đà.",
+        "explanation": ""
+    },
+    {
+        "question": "Theo Phật học Phổ thông, đức Phật nhập Niết bàn ở đâu? (Câu 47)",
+        "choice1": "Dưới cây Vô ưu.",
+        "choice2": "Rừng cây Tất bát la.",
+        "choice3": "Dưới cội Bồ Đề.",
+        "choice4": "Rừng Sa La.",
+        "answer": "Rừng Sa La.",
+        "explanation": ""
+    },
+    {
+        "question": "Những lời dạy sau cùng của đức Phật được ghi trong quyển kinh nào? (Câu 48)",
+        "choice1": "Kinh Di Giáo.",
+        "choice2": "Kinh Lăng Nghiêm.",
+        "choice3": "Kinh Hoa Nghiêm.",
+        "choice4": "Kinh Pháp Hoa.",
+        "answer": "Kinh Di Giáo.",
+        "explanation": ""
+    },
+    {
+        "question": "Nhà ẩn sĩ Tất Đạt Đa thả bát vàng trôi ngược dòng sông ở đâu? (Câu 49)",
+        "choice1": "Sông Hằng.",
+        "choice2": "Sông Kshipra.",
+        "choice3": "Sông Ni Liên Thiền.",
+        "choice4": "Sông Kaveri.",
+        "answer": "Sông Ni Liên Thiền.",
+        "explanation": ""
+    },
+    {
+        "question": "Thí chủ nào đã trải vàng mua đất xây cất Tinh xá cúng dường đức Phật và Tăng đoàn? (Câu 50)",
+        "choice1": "Thái tử Kỳ Đà.",
+        "choice2": "Ông Thuần Đà.",
+        "choice3": "Trưởng giả Cấp Cô Độc.",
+        "choice4": "Nữ thí chủ Tỳ Xá Khư.",
+        "answer": "Trưởng giả Cấp Cô Độc.",
+        "explanation": ""
+    },
+    {
+        "question": "Ngôi Tinh xá đầu tiên cúng dường cho đức Phật và Tăng đoàn được đặt tên là gì? (Câu 51)",
+        "choice1": "Kỳ Viên Tinh Xá.",
+        "choice2": "Trúc Lâm Tinh Xá.",
+        "choice3": "Trùng Các Giảng Đường.",
+        "choice4": "Đông Các Giảng Đường.",
+        "answer": "Trúc Lâm Tinh Xá.",
+        "explanation": ""
+    },
+    {
+        "question": "Vị đệ tử nào của đức Phật được tôn xưng là “Thần thông đệ nhất”? (Câu 52)",
+        "choice1": "Tôn giả Ca Diếp.",
+        "choice2": "Tôn giả Xá Lợi Phất.",
+        "choice3": "Tôn giả Mục Kiền Liên.",
+        "choice4": "Tôn giả Phú Lâu Na.",
+        "answer": "Tôn giả Mục Kiền Liên.",
+        "explanation": ""
+    },
+    {
+        "question": "Tỳ kheo ni đầu tiên chứng quả A la hán là vị nào? (Câu 53)",
+        "choice1": "Bà Da Du Đà La.",
+        "choice2": "Bà Khế Ma.",
+        "choice3": "Bà Mạt Lợi.",
+        "choice4": "Bà Ma Ha Ba Xà Ba Đề.",
+        "answer": "Bà Ma Ha Ba Xà Ba Đề.",
+        "explanation": ""
+    },
+    {
+        "question": "Sau khi Thành đạo, đức Phật hóa độ những vị nào đầu tiên? (Câu 54)",
+        "choice1": "Phụ hoàng Tịnh Phạn.",
+        "choice2": "Nhóm anh em Da Xá.",
+        "choice3": "Nhóm anh em Kiều Trần Như.",
+        "choice4": "Vua Tần Bà Sa La.",
+        "answer": "Nhóm anh em Kiều Trần Như.",
+        "explanation": ""
+    },
+    {
+        "question": "Vì sao Đức Phật quyết định chuyển bánh xe chánh pháp giáo hóa chúng sinh? (Câu 55)",
+        "choice1": "Vì tất cả chúng sanh đều có Phật tánh.",
+        "choice2": "Vì bản tánh của chúng sanh vốn thanh tịnh như hoa sen.",
+        "choice3": "Vì tất cả chúng sinh cõi Ta bà đều có Phật tánh, nên có thể chứng được đạo giải thoát giống như Ngài.",
+        "choice4": "Đáp án a, b và c.",
+        "answer": "Đáp án a, b và c.",
+        "explanation": ""
+    },
+    {
+        "question": "Sơ Tổ của Ni giới Phật giáo là vị nào? (Câu 56)",
+        "choice1": "Nữ Tôn giả Khema",
+        "choice2": "Thánh tổ Ni Kiều Đàm Di ( Ma Ha Ba Xà Ba Đề)",
+        "choice3": "Nữ tôn giả Uppalavanna (Liên Hoa Lâm)",
+        "choice4": "Nữ tôn giả Patàcàrà (Chi-đà-la-da-đa)",
+        "answer": "Thánh tổ Ni Kiều Đàm Di ( Ma Ha Ba Xà Ba Đề)",
+        "explanation": ""
+    },
+    {
+        "question": "Theo Phật học Phổ thông, đức Phật chuyển pháp luân với bài pháp đầu tiên là gì? (Câu 87)",
+        "choice1": "Tứ Diệu Đế.",
+        "choice2": "Tứ Chánh Cần.",
+        "choice3": "Tứ Vô Lượng Tâm.",
+        "choice4": "Tứ Như Ý Túc.",
+        "answer": "Tứ Diệu Đế.",
+        "explanation": ""
+    },
+    {
+        "question": "Khi Tôn giả A Nan gặp nạn Ma Đăng Già, đức Phật thuyết kinh gì? (Câu 127)",
+        "choice1": "Kinh Lăng Già.",
+        "choice2": "Kinh Pháp Hoa.",
+        "choice3": "Kinh Hoa Nghiêm.",
+        "choice4": "Kinh Lăng Nghiêm.",
+        "answer": "Kinh Lăng Nghiêm.",
+        "explanation": ""
+    },
+    {
+        "question": "Trong bài tựa kinh Lăng Nghiêm, tôn giả A-Nan đã phát lời thề nguyện gì? (Câu 128)",
+        "choice1": "Như nhất chúng sinh vị thành Phật, chung bất ư thử thủ Nê hoàn.",
+        "choice2": "Nếu còn một chúng sinh chưa chứng quả, cảnh Niết Bàn con không dám tự an.",
+        "choice3": "Chúng sinh độ tận, phương chứng Bồ đề.",
+        "choice4": "Đáp án a và b.",
+        "answer": "Đáp án a và b.",
+        "explanation": ""
+    }
+]

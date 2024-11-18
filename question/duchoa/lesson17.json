@@ -1,0 +1,56 @@
+[
+    {
+        "question": "Phật dạy, thế nào gọi là “Vô minh”? (Câu 192)",
+        "choice1": "Không hiểu rõ Tứ đế.",
+        "choice2": "Không hiểu rõ Duyên khởi.",
+        "choice3": "Không hiểu rõ Vô ngã.",
+        "choice4": "Đáp án a, b và c.",
+        "answer": "Đáp án a, b và c.",
+        "explanation": ""
+    },
+    {
+        "question": "Người muốn thành tựu pháp quán bất tịnh cần phải làm gì? (Câu 193)",
+        "choice1": "Đối trị lòng tham dục, chớ chẳng phải chán đời, tự hủy diệt mình.",
+        "choice2": "Dứt trừ vọng niệm tham dục, giác ngộ Phật tánh.",
+        "choice3": "Đáp án a và b.",
+        "choice4": "Thường xuyên tắm rửa thật sạch sẽ.",
+        "answer": "Đáp án a và b.",
+        "explanation": ""
+    },
+    {
+        "question": "Lục độ (Lục độ Ba la mật) được sắp xếp theo thứ tự nào? (Câu 98)",
+        "choice1": "Bố thí, trì giới, nhẫn nhục, tinh tấn, thiền định, trí tuệ.",
+        "choice2": "Trì giới, tinh tấn, nhẫn nhục, thiền định, bố thí, trí tuệ.",
+        "choice3": "Trí tuệ, thiền định, bố thí, tinh tấn, trì giới, nhẫn nhục.",
+        "choice4": "Nhẫn nhục, bố thí, thiền định, trì giới, tinh tấn, trí huệ.",
+        "answer": "Bố thí, trì giới, nhẫn nhục, tinh tấn, thiền định, trí tuệ.",
+        "explanation": ""
+    },
+    {
+        "question": "Nhẫn nhục Ba la mật đúng nghĩa cần thực tập rốt ráo những gì? (Câu 99)",
+        "choice1": "Thân nhẫn, khẩu nhẫn, ý nhẫn.",
+        "choice2": "Kiềm lòng tham và xoá bỏ hận thù.",
+        "choice3": "Yêu thương mọi loại.",
+        "choice4": "Dẹp bỏ bản ngã.",
+        "answer": "Thân nhẫn, khẩu nhẫn, ý nhẫn.",
+        "explanation": ""
+    },
+    {
+        "question": "Vô uý thí nghĩa là gì? (Câu 102)",
+        "choice1": "Giúp người không sợ sệt.",
+        "choice2": "Giúp người không còn ngại ngùng.",
+        "choice3": "Giúp người không còn xấu hổ.",
+        "choice4": "Giúp người không còn tự ti.",
+        "answer": "Giúp người không sợ sệt.",
+        "explanation": ""
+    },
+    {
+        "question": "So sánh trí tuệ và tri thức thế gian? (Câu 191)",
+        "choice1": "Tri thức thế gian là nhờ sự học tập hay kinh nghiệm cuộc sống mà có được. Còn trí tuệ là thành quả có được nhờ vào công năng tu tập và thể nghiệm bản thân.",
+        "choice2": "Tri thức thế gian chỉ là yếu tố trợ duyên để có thể làm tăng trưởng trí tuệ. Trí tuệ thì soi sáng con đường đưa đến cuộc sống an lạc và giải thoát.",
+        "choice3": "Tri thức thế gian và trí tuệ là tương đồng.",
+        "choice4": "Đáp án a và b.",
+        "answer": "Đáp án a và b.",
+        "explanation": ""
+    }
+]

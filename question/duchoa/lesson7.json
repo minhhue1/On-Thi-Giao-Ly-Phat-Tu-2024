@@ -1,0 +1,83 @@
+[
+    {
+        "question": "Bổn phận của Phật tử đối với chư Tăng, chư Ni là gì? (Câu 71)",
+        "choice1": "Chỉ biết thầy mình.",
+        "choice2": "Chỉ cung kính và nghe theo những vị mình ngưỡng mộ.",
+        "choice3": "Bởi vì chư Tăng Ni là hình mẫu đại diện Tăng đoàn hòa hợp của Đức Phật, nên phải hết lòng cung kính, nương theo chư Tăng, chư Ni để học tập đạo lý và tu tập đúng chánh pháp.",
+        "choice4": "Có quyền quy y nhiều thầy Bổn sư một lúc, hoặc thay đổi theo ý muốn.",
+        "answer": "Bởi vì chư Tăng Ni là hình mẫu đại diện Tăng đoàn hòa hợp của Đức Phật, nên phải hết lòng cung kính, nương theo chư Tăng, chư Ni để học tập đạo lý và tu tập đúng chánh pháp.",
+        "explanation": ""
+    },
+    {
+        "question": "Khi đang cầm kinh mà muốn xá chào người khác, Phật tử phải làm thế nào? (Câu 78)",
+        "choice1": "Không kẹp kinh vào nách và xá chào.",
+        "choice2": "Đặt kinh giữa hai tay và xá chào.",
+        "choice3": "Một tay cầm kinh một tay chào.",
+        "choice4": "Ôm kinh vào ngực, bày tỏ lòng cung kính chắp tay cúi chào, miệng niệm “Mô Phật” hoặc “Nam Mô A Di Đà Phật”.",
+        "answer": "Ôm kinh vào ngực, bày tỏ lòng cung kính chắp tay cúi chào, miệng niệm “Mô Phật” hoặc “Nam Mô A Di Đà Phật”.",
+        "explanation": ""
+    },
+    {
+        "question": "Bổn phận của người Phật tử đối với Tam Bảo là gì? (Câu 85)",
+        "choice1": "Hộ trì Tam bảo; giữ vững niềm tin chánh tín đối với Tam Bảo; Không dễ bị lợi dụng, không gây mất niềm tin trong Tăng đoàn; Giữ gìn truyền thống Phật giáo; Bảo vệ đồ vật trong chùa; quý kính Phật, pháp, Tăng; Khuyến khích người hướng thiện và quy hướng về Tam bảo; thờ Phật và trì tụng kinh chú của Phật.",
+        "choice2": "Phụng sự Tam Bảo, xem Tam Bảo là ngôi nhà tâm linh đáng được trân trọng, là nơi bình yên.",
+        "choice3": "Trân quý phụng thờ Phật pháp Tăng.",
+        "choice4": "Quy kính Tam Bảo.",
+        "answer": "Hộ trì Tam bảo; giữ vững niềm tin chánh tín đối với Tam Bảo; Không dễ bị lợi dụng, không gây mất niềm tin trong Tăng đoàn; Giữ gìn truyền thống Phật giáo; Bảo vệ đồ vật trong chùa; quý kính Phật, pháp, Tăng; Khuyến khích người hướng thiện và quy hướng về Tam bảo; thờ Phật và trì tụng kinh chú của Phật.",
+        "explanation": ""
+    },
+    {
+        "question": "Người Phật tử thuần thành nên làm gì? (Câu 144)",
+        "choice1": "Nên nương tựa Phật, Pháp, Tăng và giữ năm điều đạo đức.",
+        "choice2": "Nên thờ Phật, cúng Phật, tụng kinh, niệm Phật hằng ngày.",
+        "choice3": "Nên giữ giới hạnh, đi chùa, nghe pháp, sống thiện lành, có thực tập chuyển hoá.",
+        "choice4": "Đáp án a, b, và c.",
+        "answer": "Đáp án a, b, và c.",
+        "explanation": ""
+    },
+    {
+        "question": "Sống có trách nhiệm với bản thân nghĩa là gì? (Câu 147)",
+        "choice1": "Thực hành lối sống lành mạnh, quý trọng bản thân do cha mẹ sinh ra.",
+        "choice2": "Chỉ biết đến lợi ích bản thân, không quan tâm người khác.",
+        "choice3": "Tu tâm dưỡng tánh, trau dồi đức hạnh, làm rạng danh dòng tộc.",
+        "choice4": "Đáp án a và c.",
+        "answer": "Đáp án a và c.",
+        "explanation": ""
+    },
+    {
+        "question": "Theo kinh Thiện Sanh trách nhiệm cha mẹ đối với con là gì? (Câu 148)",
+        "choice1": "Bắt buộc con giỏi hơn những đứa trẻ đồng trang lứa.",
+        "choice2": "Dạy con ngoan hiền, hiếu thuận, lễ phép, biết làm lành, lánh xa điều xấu, siêng năng học tập và thân cận người trí.",
+        "choice3": "Luôn chu cấp cho con bất cứ gì mà con muốn.",
+        "choice4": "Không cho con làm việc nhà để có thời gian học hành.",
+        "answer": "Dạy con ngoan hiền, hiếu thuận, lễ phép, biết làm lành, lánh xa điều xấu, siêng năng học tập và thân cận người trí.",
+        "explanation": ""
+    },
+    {
+        "question": "Bổn phận của vợ đối với chồng theo kinh Thiện Sanh là gì? (Câu 149)",
+        "choice1": "Kính yêu, hòa thuận, biết lắng nghe, thấu hiểu, chia sẻ công việc với chồng.",
+        "choice2": "Quán xuyến công việc nhà.",
+        "choice3": "Giữ gìn tiết hạnh, lễ phép, đoan trang.",
+        "choice4": "Đáp án a, b, và c.",
+        "answer": "Đáp án a, b, và c.",
+        "explanation": ""
+    },
+    {
+        "question": "Bổn phận của chồng đối với vợ trong kinh Thiện Sanh là gì? (Câu 150)",
+        "choice1": "Chỉ lo kiếm tiền nuôi sống gia đình.",
+        "choice2": "Giao tất cả việc nội trợ cho vợ quán xuyến.",
+        "choice3": "Biết phát triển gia nghiệp, chăm sóc, Yêu thương, lắng nghe, chia sẻ, quan tâm gia đình và thủy chung với vợ.",
+        "choice4": "Gia trưởng, bắt vợ con phải theo ý mình.",
+        "answer": "Biết phát triển gia nghiệp, chăm sóc, Yêu thương, lắng nghe, chia sẻ, quan tâm gia đình và thủy chung với vợ.",
+        "explanation": ""
+    },
+    {
+        "question": "Bổn phận của người con đối với cha mẹ là gì? (Câu 151)",
+        "choice1": "Hiếu thảo, chìu theo ý thích của cha mẹ, nuôi dưỡng cha mẹ, thừa kế sự nghiệp của cha mẹ để lại.",
+        "choice2": "Chăm sóc và hướng cha mẹ theo đường lành, Nuôi dưỡng cha mẹ; Thay thế cha mẹ gánh vác công việc nặng nhọc.",
+        "choice3": "Giữ gìn truyền thống gia phong; Bảo vệ tài sản được kế thừa từ cha mẹ; Khuyến khích cha mẹ hướng thiện và biết quy hướng về Tam bảo; cúng dường tạo phước khi cha mẹ qua đời.",
+        "choice4": "Đáp án b và c.",
+        "answer": "Đáp án b và c.",
+        "explanation": ""
+    }
+]

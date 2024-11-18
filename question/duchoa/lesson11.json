@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Duyên khởi Phật nói kinh Thập Thiện cho ai? Ở đâu? (Câu 145)",
+        "choice1": "Cho ngài Xá Lợi Phất, ở tịnh xá Trúc Lâm.",
+        "choice2": "Cho Long Vương, ở tại cung rồng Ta Kiệt La.",
+        "choice3": "Cho A Nan, ở tịnh xá Kỳ Viên.",
+        "choice4": "Cho tất cả chúng hội ở núi Linh Thứu.",
+        "answer": "Cho Long Vương, ở tại cung rồng Ta Kiệt La.",
+        "explanation": ""
+    },
+    {
+        "question": "Nghiệp có nghĩa là gì? (Câu 176)",
+        "choice1": "Những hành vi, lời nói và suy nghĩ cao thượng tốt đẹp.",
+        "choice2": "Hành động tạo tác, hoặc lành hoặc dữ.",
+        "choice3": "Những hành vi, ngôn ngữ và tư tưởng thấp hèn tội lỗi.",
+        "choice4": "Các hành vi, lời nói và suy nghĩ có chủ ý.",
+        "answer": "Các hành vi, lời nói và suy nghĩ có chủ ý.",
+        "explanation": ""
+    },
+    {
+        "question": "Nghiệp thiện của thân là gì? (Câu 179)",
+        "choice1": "Không trộm cắp, không nói dối, không sân hận.",
+        "choice2": "Không dâm dục, không nói thêu dệt, không si mê.",
+        "choice3": "Không sát sanh, không trộm cắp, không tà hạnh.",
+        "choice4": "Không tham lam, không dâm dục, không ác khẩu.",
+        "answer": "Không sát sanh, không trộm cắp, không tà hạnh.",
+        "explanation": ""
+    },
+    {
+        "question": "Không sân hận được lợi ích gì? (Câu 187)",
+        "choice1": "Xa lìa khổ não, giận hờn, tranh cãi.",
+        "choice2": "Tâm nhu hòa ngay thẳng.",
+        "choice3": "Thân tướng trang nghiêm, chúng sanh đều tôn kính.",
+        "choice4": "Đáp án a, b và c.",
+        "answer": "Đáp án a, b và c.",
+        "explanation": ""
+    },
+    {
+        "question": "Bố thí có ba cách gồm những gì? (Câu 100)",
+        "choice1": "Tài thí, pháp thí, bình đẳng bố thí.",
+        "choice2": "Nội tài thí, ngoại tài thí, vô uý thí.",
+        "choice3": "Tài thí, pháp thí, vô uý thí.",
+        "choice4": "Quá khứ thí, hiện tại thí, vị lai thí.",
+        "answer": "Tài thí, pháp thí, vô uý thí.",
+        "explanation": ""
+    },
+    {
+        "question": "Thế nào là Bố thí Ba La Mật? (Câu 101)",
+        "choice1": "Bố thí để cầu phước báu nhân thiên.",
+        "choice2": "Bố thí để được mọi người biết là mình cũng có tấm lòng nhân hậu.",
+        "choice3": "Bố thí không thấy mình là người cho, kia là người nhận và vật để bố thí.",
+        "choice4": "Bố thí không kể công, cúng dường không ỷ lại.",
+        "answer": "Bố thí không thấy mình là người cho, kia là người nhận và vật để bố thí.",
+        "explanation": ""
+    },
+    {
+        "question": "Tứ nhiếp pháp gồm những gì? (Câu 109)",
+        "choice1": "Bố thí, trì giới, niệm Phật, ăn chay.",
+        "choice2": "Ái ngữ, lợi hành, tụng kinh, nghe giảng pháp.",
+        "choice3": "Bố thí, ái ngữ, lợi hành, đồng sự.",
+        "choice4": "Trì chú, ngồi thiền, tụng kinh, niệm Phật.",
+        "answer": "Bố thí, ái ngữ, lợi hành, đồng sự.",
+        "explanation": ""
+    },
+    {
+        "question": "Lục hòa gồm những gì? (Câu 121)",
+        "choice1": "Thân hòa, khẩu hòa, ý hòa, giới hòa, kiến hòa và lộc hòa.",
+        "choice2": "Thân hòa, khẩu hòa, ý hòa, đức hòa, kiến hòa và lợi hòa.",
+        "choice3": "Thân hòa, khẩu hòa, ý hòa, giới hòa, tri hòa và lợi hòa.",
+        "choice4": "Thân hòa, khẩu hòa, ý hòa, giới hòa, kiến hòa và lợi hòa.",
+        "answer": "Thân hòa, khẩu hòa, ý hòa, giới hòa, kiến hòa và lợi hòa.",
+        "explanation": ""
+    },
+    {
+        "question": "Thân hòa đồng trú là gì? (Câu 122)",
+        "choice1": "Sống trong một nhà trên thuận dưới hòa, đoàn kết thương yêu.",
+        "choice2": "Làm việc trong một tập thể phải biết tôn trọng, kính trên nhường dưới.",
+        "choice3": "Cùng là Phật tử (đệ tử của Đức Phật) phải biết hòa kính, thương yêu, bảo vệ nhau trong tình đồng đạo.",
+        "choice4": "Đáp án a, b và c.",
+        "answer": "Đáp án a, b và c.",
+        "explanation": ""
+    },
+    {
+        "question": "Như thế nào là Khẩu hòa không tranh? (Câu 123)",
+        "choice1": "Lời nói mật ngọt, khen ngợi nịnh hót.",
+        "choice2": "Nói lời mong làm vui lòng người.",
+        "choice3": "Nói lời hòa nhã, dịu dàng, chân thật, hòa thuận, mang lại an vui cho tập thể.",
+        "choice4": "Tâng bốc, ca ngợi mong được người chú ý.",
+        "answer": "Nói lời hòa nhã, dịu dàng, chân thật, hòa thuận, mang lại an vui cho tập thể.",
+        "explanation": ""
+    }
+]

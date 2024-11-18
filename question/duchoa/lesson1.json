@@ -1,0 +1,101 @@
+[
+    {
+      "question": "Ai là người khai sáng ra đạo Phật? (Câu 1)",
+      "choice1": "Đức Phật Dược Sư",
+      "choice2": "Đức Phật Di Lặc",
+      "choice3": "Đức Phật Thích Ca Mâu Ni",
+      "choice4": "Đức Phật A Di Đà",
+      "answer": "Đức Phật Thích Ca Mâu Ni",
+      "explanation": ""
+    },
+    {
+      "question": "Giáo lý đạo Phật bao gồm những gì? (Câu 3)",
+      "choice1": "Niệm, Định, Tuệ",
+      "choice2": "Văn, Tư, Tu",
+      "choice3": "Gồm ba tạng: Tạng Kinh, tạng Luật và tạng Luận",
+      "choice4": "Tứ diệu đế, Lục độ, Thập nhị nhân duyên",
+      "answer": "Gồm ba tạng: Tạng Kinh, tạng Luật và tạng Luận",
+      "explanation": ""
+    },
+    {
+      "question": "Chữ 'Phật' nghĩa là gì? (Câu 4)",
+      "choice1": "Bậc hoàn toàn giác ngộ",
+      "choice2": "Bậc giác ngộ hoàn toàn, tự giác, giác tha, giác hạnh viên mãn",
+      "choice3": "Bậc giác ngộ chân chánh",
+      "choice4": "Bậc giác ngộ vĩ đại",
+      "answer": "Bậc giác ngộ hoàn toàn, tự giác, giác tha, giác hạnh viên mãn",
+      "explanation": ""
+    },
+    {
+      "question": "Giai cấp thống trị Ấn Độ thời Phật tại thế là những giai cấp nào? (Câu 5)",
+      "choice1": "Bà La Môn và Sát Đế Lỵ",
+      "choice2": "Bà La Môn và Thủ Đà La",
+      "choice3": "Thủ Đà La và Phệ Xá",
+      "choice4": "Sát Đế Lỵ và Phệ Xá",
+      "answer": "Bà La Môn và Sát Đế Lỵ",
+      "explanation": ""
+    },
+    {
+      "question": "Kinh Pháp Hoa ghi: 'Vì một nhân duyên lớn, Phật xuất hiện ra đời', vậy nhân duyên lớn ấy là gì? (Câu 124)",
+      "choice1": "Dạy cho chúng sanh trì trai giữ giới",
+      "choice2": "Khiến chúng sanh biết nhân quả nghiệp báo mà tu hành",
+      "choice3": "Khai thị chúng sanh ngộ nhập Phật tri kiến",
+      "choice4": "Dạy tu tập thiền định",
+      "answer": "Khai thị chúng sanh ngộ nhập Phật tri kiến",
+      "explanation": ""
+    },
+    {
+      "question": "Nhơn thừa lấy gì làm căn bản? (Câu 194)",
+      "choice1": "Hiếu thuận với cha mẹ",
+      "choice2": "Ngũ giới",
+      "choice3": "Tam quy",
+      "choice4": "Đáp án a, b và c",
+      "answer": "Đáp án a, b và c",
+      "explanation": ""
+    },
+    {
+      "question": "Khi hành giả học Phật cần phải thực tập như thế nào? (Câu 126)",
+      "choice1": "Nên ứng dụng lời dạy của đức Phật vào đời sống hằng ngày, giữ vững niềm tin chánh tín đối với Phật pháp",
+      "choice2": "Học để tăng thêm sự hiểu biết",
+      "choice3": "Học Phật để chánh niệm trong cách ứng xử, trong giao tiếp, ý thức trách nhiệm và bổn phận hơn đối với bản thân và gia đình. Và biết cách vượt qua phiền muộn khổ đau",
+      "choice4": "Đáp án a, và c",
+      "answer": "Đáp án a, và c",
+      "explanation": ""
+    },
+    {
+      "question": "Tứ hoằng thệ nguyện là gì? (Câu 164)",
+      "choice1": "Chúng sinh vô biên thệ nguyện độ, phiền não vô tận thệ nguyện đoạn, pháp môn vô lượng thệ nguyện học, Phật đạo vô thượng thệ nguyện thành",
+      "choice2": "Nguyện đoạn nhất thiết ác, nguyện tu nhất thiết thiện, nguyện độ nhất thiết chúng sinh, nguyện tu nhất thiết trí",
+      "choice3": "Nguyện làm con thảo, nguyện làm học trò ngoan, nguyện thực hành pháp Phật, nguyện làm các việc lành",
+      "choice4": "Tất cả đều đúng",
+      "answer": "Chúng sinh vô biên thệ nguyện độ, phiền não vô tận thệ nguyện đoạn, pháp môn vô lượng thệ nguyện học, Phật đạo vô thượng thệ nguyện thành",
+      "explanation": ""
+    },
+    {
+      "question": "Kinh nào đã viết: 'Ba cõi không an giống như nhà lửa'? (Câu 186)",
+      "choice1": "Kinh Pháp Cú",
+      "choice2": "Kinh Địa Tạng",
+      "choice3": "Kinh Hoa Nghiêm",
+      "choice4": "Kinh Pháp Hoa",
+      "answer": "Kinh Pháp Hoa",
+      "explanation": ""
+    },
+    {
+      "question": "Pháp tu nào điều phục được hôn trầm thùy miên? (Câu 188)",
+      "choice1": "Lạy sám hối",
+      "choice2": "Đi kinh hành",
+      "choice3": "Đáp án a và b",
+      "choice4": "Ngồi thiền định",
+      "answer": "Đáp án a và b",
+      "explanation": ""
+    },
+    {
+      "question": "Vị Bồ tát nào phát nguyện cứu chúng sinh trong Địa Ngục? (Câu 189)",
+      "choice1": "Bồ tát Quan Thế Âm",
+      "choice2": "Bồ tát Địa Tạng",
+      "choice3": "Bồ tát Phổ Hiền",
+      "choice4": "Bồ tát Văn Thù",
+      "answer": "Bồ tát Địa Tạng",
+      "explanation": ""
+    }
+]

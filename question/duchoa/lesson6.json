@@ -1,0 +1,74 @@
+[
+    {
+        "question": "Sám hối là gì? (Câu 142)",
+        "choice1": "Là tự mình ăn năn, nhận ra những lỗi lầm trước đây đã tạo, nguyện sửa đổi không dám tái phạm những lỗi lầm đó nữa.",
+        "choice2": "\"Sám giả, sám kỳ tiền khiên, hối giả, hối kỳ hậu quá\" (ăn năn lỗi trước, chừa bỏ lỗi sau).",
+        "choice3": "Sám hối là tự mình ăn năn, hổ thẹn những lỗi lầm trước đây đã tạo, nguyện sửa đổi không dám tái phạm những lỗi lầm đó nữa. Nói cách khác Sám hối là \"ăn năn chừa bỏ\", đây là trọng tâm của sự sám hối.",
+        "choice4": "Đáp án a, b và c.",
+        "answer": "Đáp án a, b và c.",
+        "explanation": ""
+    },
+    {
+        "question": "Ý nghĩa của việc lạy Phật là gì? (Câu 136)",
+        "choice1": "Thể hiện sự cung kính đối với đức Phật.",
+        "choice2": "Thể hiện đời sống tôn giáo, tâm linh.",
+        "choice3": "Lạy Phật được năm phước báu (sống lâu, an vui, sức mạnh, sắc đẹp và trí tuệ).",
+        "choice4": "Đáp án a, b và c.",
+        "answer": "Đáp án a, b và c.",
+        "explanation": ""
+    },
+    {
+        "question": "Lạy Phật như thế nào mới đúng? (Câu 137)",
+        "choice1": "Khi lạy Phật hai bàn tay để ngửa hoặc úp và đặt trán ở khoảng giữa hai bàn tay.",
+        "choice2": "Khi lạy Phật, năm vóc sát đất, tâm nghĩ đến đức hạnh của ngài để học hỏi.",
+        "choice3": "Trước khi lễ Phật phải súc miệng, rửa mặt, thân thể sạch sẽ, y phục trang nghiêm.",
+        "choice4": "Đáp án a, b và c.",
+        "answer": "Đáp án a, b và c.",
+        "explanation": ""
+    },
+    {
+        "question": "Thờ Phật như thế nào cho đúng? (Câu 143)",
+        "choice1": "Có bàn thờ độc lập, cúng hoa quả, lễ bái, tụng niệm và hành trì lời Phật dạy.",
+        "choice2": "Có thể thờ chung một bàn thờ, Phật ở trên, gia tiên ở dưới, kính thành tu niệm.",
+        "choice3": "Thờ Phật tạo góc tâm linh trong nhà, giúp cho thân tâm an yên, thanh tịnh.",
+        "choice4": "Đáp án a, b, và c.",
+        "answer": "Đáp án a, b, và c.",
+        "explanation": ""
+    },
+    {
+        "question": "Hiệu lực Đại Bi chú như thế nào? (Câu 138)",
+        "choice1": "Nhiếp phục tâm niệm, sống được an lành, gặp nhiều thiện duyên.",
+        "choice2": "Mau hết tai nạn, cầu gì được đó.",
+        "choice3": "Thoát khỏi bệnh tật, tăng thêm tuổi thọ, mua bán thuận lợi.",
+        "choice4": "Đáp án a, b và c.",
+        "answer": "Nhiếp phục tâm niệm, sống được an lành, gặp nhiều thiện duyên.",
+        "explanation": ""
+    },
+    {
+        "question": "Mục đích của việc tụng kinh là gì? (Câu 139)",
+        "choice1": "Cầu Tam bảo ban phước lành.",
+        "choice2": "Ôn lại lời Phật dạy để ghi nhớ, hiểu biết và thực hành những điều lành thiện.",
+        "choice3": "Để tiêu trừ nghiệp chướng, cuộc sống giàu sang.",
+        "choice4": "Để mở mang tâm trí, tăng trưởng kiến thức.",
+        "answer": "Ôn lại lời Phật dạy để ghi nhớ, hiểu biết và thực hành những điều lành thiện.",
+        "explanation": ""
+    },
+    {
+        "question": "\"Tin là mẹ sinh ra công đức, tin có thể thành tựu quả Bồ Đề\" được nói trong kinh nào? (Câu 140)",
+        "choice1": "Kinh Pháp Hoa.",
+        "choice2": "Kinh Niết Bàn.",
+        "choice3": "Kinh Di Giáo.",
+        "choice4": "Kinh Hoa Nghiêm.",
+        "answer": "Kinh Hoa Nghiêm.",
+        "explanation": ""
+    },
+    {
+        "question": "Vì sao phải ăn chay? (Câu 141)",
+        "choice1": "Vì tăng trưởng sức khỏe, tránh nghiệp sát sanh.",
+        "choice2": "Vì nuôi dưỡng lòng từ bi, thương mạng sống, tránh quả báo xấu ác.",
+        "choice3": "Vì chúng sinh ai cũng tham sống sợ chết, tôn trọng mạng sống của mỗi chúng sinh.",
+        "choice4": "Đáp án b và c.",
+        "answer": "Đáp án b và c.",
+        "explanation": ""
+    }
+]

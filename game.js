@@ -14,8 +14,8 @@ let questionCounter = 0;
 let availableQuestions = [];
 
 let questions = [];
-const TOTAL_QUESTIONS = 90;
-const NUM_LESSONS = 20;  // Tổng số bài học
+let TOTAL_QUESTIONS;
+let NUM_LESSONS;
 const CORRECT_BONUS = 1;
 
 // Hàm lấy giá trị của tham số URL
@@ -28,14 +28,28 @@ let currentLesson = getParameterByName('lesson');
 if (!currentLesson) {
     currentLesson = 1;  // Nếu không có bài học nào, mặc định là bài học 1
 }
+let currentRegion = getParameterByName('region');
+
+if (currentRegion === 'duchoa') {
+    TOTAL_QUESTIONS = 200;
+    NUM_LESSONS = 19;
+}
+
+if (currentRegion === 'district') {
+    TOTAL_QUESTIONS = 90;
+    NUM_LESSONS = 20;
+}
+
 
 let MAX_QUESTIONS;
 
 async function loadQuestions() {
     if (currentLesson === 'test') {
-        await loadQuestionsByLesson();  // Tải câu hỏi từ tất cả các bài học
+        await loadQuestionsByLesson(currentRegion);  // Tải câu hỏi từ tất cả các bài học
+    } else if (currentLesson === 'all') {
+        await loadQuestionAll(currentRegion);
     } else {
-        await loadQuestionsFromFile(currentLesson);  // Tải câu hỏi từ bài học cụ thể
+        await loadQuestionsFromFile(currentRegion, currentLesson);  // Tải câu hỏi từ bài học cụ thể
     }
     startGame();  // Bắt đầu trò chơi khi đã tải xong câu hỏi
 }
@@ -50,8 +64,8 @@ function shuffle(array) {
 }
 
 // Hàm tải câu hỏi từ một bài học cụ thể
-async function loadQuestionsFromFile(lesson) {
-    const jsonFile = `lesson${lesson}.json`;
+async function loadQuestionsFromFile(region, lesson) {
+    const jsonFile = `question/${region}/lesson${lesson}.json`;
     try {
         const res = await fetch(jsonFile);
         const loadedQuestions = await res.json();
@@ -63,14 +77,14 @@ async function loadQuestionsFromFile(lesson) {
 }
 
 // Hàm tải câu hỏi từ tất cả bài học và chọn ngẫu nhiên 90 câu theo tỷ lệ
-async function loadQuestionsByLesson() {
+async function loadQuestionsByLesson(region) {
     questions = [];
     let totalQuestionsInLessons = 0;
     let lessonData = [];
 
     // Bước 1: Tính tổng số câu hỏi trong tất cả các bài học
     for (let lesson = 1; lesson <= NUM_LESSONS; lesson++) {
-        const jsonFile = `lesson${lesson}.json`;
+        const jsonFile = `question/${region}/lesson${lesson}.json`;
         try {
             const res = await fetch(jsonFile);
             const lessonQuestions = await res.json();
@@ -119,6 +133,60 @@ async function loadQuestionsByLesson() {
     MAX_QUESTIONS = questions.length;
 }
 
+function sortQuestionsByOrder(questions) {
+    return questions.sort((a, b) => {
+        // Trích xuất số thứ tự trong dấu ngoặc từ câu hỏi
+        const getOrder = (question) => {
+            const match = question.question.match(/\(Câu (\d+)\)/);
+            return match ? parseInt(match[1], 10) : 0;
+        };
+
+        return getOrder(a) - getOrder(b);
+    });
+}
+
+// Hàm tải tất cả câu hỏi theo thứ tự
+async function loadQuestionAll(region) {
+    questions = [];
+    let totalQuestionsInLessons = 0;
+    let lessonData = [];
+
+    // Bước 1: Tính tổng số câu hỏi trong tất cả các bài học
+    for (let lesson = 1; lesson <= NUM_LESSONS; lesson++) {
+        const jsonFile = `question/${region}/lesson${lesson}.json`;
+        try {
+            const res = await fetch(jsonFile);
+            const lessonQuestions = await res.json();
+            lessonData.push({ lessonQuestions, count: lessonQuestions.length });
+            totalQuestionsInLessons += lessonQuestions.length;
+        } catch (err) {
+            console.error(`Error loading questions from ${jsonFile}:`, err);
+        }
+    }
+
+    const selectedQuestions = new Set(); // Sử dụng Set để tránh trùng lặp
+
+    // Bước 2: Lấy câu hỏi
+    lessonData.forEach(({ lessonQuestions, count }, lessonIndex) => {
+        const questionsToTake = totalQuestionsInLessons;
+        console.log(`Lesson ${lessonIndex + 1}: Taking ${questionsToTake} questions out of ${count}`); // Log số câu đã lấy
+        
+        // Lấy câu hỏi không trùng từ từng bài học
+        let takenQuestions = 0;
+        lessonQuestions.forEach((question) => {
+            if (!selectedQuestions.has(question.question) && takenQuestions < questionsToTake) {
+                questions.push(question); // Thêm câu hỏi vào danh sách câu hỏi chính
+                selectedQuestions.add(question.question); // Đánh dấu câu hỏi đã chọn
+                takenQuestions++;
+            }
+        });
+    });
+
+    sortQuestionsByOrder(questions)
+    console.log(questions)
+    MAX_QUESTIONS = questions.length;
+}
+
 // Thêm mảng để lưu câu trả lời của người dùng
 let userAnswers = [];
 
@@ -136,6 +204,7 @@ function getNewQuestion() {
     if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
         localStorage.setItem('mostRecentScore', score);
         localStorage.setItem('currentLesson', currentLesson);
+        localStorage.setItem('currentRegion', currentRegion);
         localStorage.setItem('max_questions', MAX_QUESTIONS);
         localStorage.setItem('userAnswers', JSON.stringify(userAnswers));  // Lưu câu trả lời người dùng
         setTimeout(() => {
@@ -148,21 +217,36 @@ function getNewQuestion() {
     progressText.innerText = `Câu ${questionCounter}/${MAX_QUESTIONS}`;
     progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;
 
-    const questionIndex = Math.floor(Math.random() * availableQuestions.length);
-    currentQuestion = availableQuestions[questionIndex];
+    if (currentLesson === 'all') {
+        // Lấy câu hỏi theo thứ tự tuần tự
+        currentQuestion = availableQuestions[0];
+        availableQuestions.splice(0, 1); // Loại bỏ câu hỏi đã chọn khỏi danh sách
+    } else {
+        // Lấy câu hỏi trộn
+        const questionIndex = Math.floor(Math.random() * availableQuestions.length);
+        currentQuestion = availableQuestions[questionIndex];
+    }
+
     question.innerText = currentQuestion.question;
 
     let numbers = [1, 2, 3, 4];
-    // shuffle(numbers);  // Trộn thứ tự lựa chọn
+    // shuffle(numbers);  // Trộn thứ tự câu trả lời
 
     choices.forEach((choice, index) => {
         const number = numbers[index];
         choice.innerText = currentQuestion['choice' + number];
     });
 
-    availableQuestions.splice(questionIndex, 1);
     acceptingAnswers = true;
 }
+
+function shuffle(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+}
+
 
 function scrollToBottom() {
     window.scrollTo({
