@@ -1,0 +1,110 @@
+[
+  {
+    "question": "90. Ngũ căn trong 37 phẩm trợ đạo gồm những gì?",
+    "choice1": "Nhãn căn, nhĩ căn, tỷ căn, thiệt căn, thân căn.",
+    "choice2": "Tín căn, tấn căn, niệm căn, định căn, huệ căn.",
+    "choice3": "Tín căn, nhẫn căn, niệm căn, định căn, tuệ căn.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Tín căn, tấn căn, niệm căn, định căn, huệ căn.",
+    "explanation": ""
+  },
+  {
+    "question": "91. Ngũ căn đồng hành cùng pháp nào tạo ra sức mạnh phi thường?",
+    "choice1": "Tứ diệu đế.",
+    "choice2": "Tứ chánh cần.",
+    "choice3": "Tứ như ý túc.",
+    "choice4": "Ngũ lực.",
+    "answer": "Ngũ lực.",
+    "explanation": ""
+  },
+  {
+    "question": "92. Ngũ căn được sắp xếp theo thứ tự nào?",
+    "choice1": "Tín, niệm, huệ, định, tấn.",
+    "choice2": "Tín, tấn, niệm, định, huệ.",
+    "choice3": "Huệ, tín, tấn, niệm, định.",
+    "choice4": "Tín, tấn, huệ, định, niệm.",
+    "answer": "Tín, tấn, niệm, định, huệ.",
+    "explanation": ""
+  },
+  {
+    "question": "93. Hiểu biết một cách rõ ràng gọi là gì trong Ngũ căn?",
+    "choice1": "Tín căn.",
+    "choice2": "Niệm căn.",
+    "choice3": "Định căn.",
+    "choice4": "Huệ căn.",
+    "answer": "Huệ căn.",
+    "explanation": ""
+  },
+  {
+    "question": "94. Tinh thần siêng năng không mệt mỏi được gọi là gì trong Ngũ căn?",
+    "choice1": "Tín căn.",
+    "choice2": "Tấn căn.",
+    "choice3": "Niệm căn.",
+    "choice4": "Định căn.",
+    "answer": "Tấn căn.",
+    "explanation": ""
+  },
+  {
+    "question": "95. An trú tâm được gọi là gì trong Ngũ căn?",
+    "choice1": "Tín căn.",
+    "choice2": "Tấn căn.",
+    "choice3": "Niệm căn.",
+    "choice4": "Định căn.",
+    "answer": "Định căn.",
+    "explanation": ""
+  },
+  {
+    "question": "96. Sự nhớ nghĩ một đề mục trong chân lý, được gọi là gì trong Ngũ căn?",
+    "choice1": "Tín căn.",
+    "choice2": "Niệm căn.",
+    "choice3": "Định căn.",
+    "choice4": "Tuệ căn.",
+    "answer": "Niệm căn.",
+    "explanation": ""
+  },
+  {
+    "question": "97. Thấy rõ các vấn đề của pháp một cách chân chánh được gọi là gì trong Ngũ căn?",
+    "choice1": "Tấn căn.",
+    "choice2": "Niệm căn.",
+    "choice3": "Định căn.",
+    "choice4": "Huệ căn.",
+    "answer": "Huệ căn.",
+    "explanation": ""
+  },
+  {
+    "question": "98. Tín căn nên hiểu như thế nào mới đúng?",
+    "choice1": "Hiểu rõ sau đó phát khởi niềm tin.",
+    "choice2": "Sau khi nghe xong là tin liền.",
+    "choice3": "Tín sâu Tam bảo, nhân quả ba đời.",
+    "choice4": "Tin rằng Phật sẽ gia hộ mình.",
+    "answer": "Tín sâu Tam bảo, nhân quả ba đời.",
+    "explanation": ""
+  },
+  {
+    "question": "99. Lòng tin là mẹ sinh ra vô lượng công đức, chỉ cho phần nào trong ngũ căn?",
+    "choice1": "Tín căn.",
+    "choice2": "Tấn căn.",
+    "choice3": "Niệm căn.",
+    "choice4": "Định căn.",
+    "answer": "Tín căn.",
+    "explanation": ""
+  },
+  {
+    "question": "100. Niệm căn gồm những gì?",
+    "choice1": "Niệm Phật, niệm Pháp, niệm Tăng, niệm Thí, niệm Giới và niệm Thiên.",
+    "choice2": "Nhiếp luật nghi giới, Nhiếp thiện pháp giới, Nhiêu ích hữu tình giới.",
+    "choice3": "Niệm Phật, niệm Pháp, niệm Tăng, niệm Đạo, niệm Nhân quả.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Niệm Phật, niệm Pháp, niệm Tăng, niệm Thí, niệm Giới và niệm Thiên.",
+    "explanation": ""
+  },
+  {
+    "question": "101. Định căn có mấy bậc?",
+    "choice1": "An trụ định, dẫn phát định, thành sở tác sự định.",
+    "choice2": "Hạ căn, trung căn, thượng căn.",
+    "choice3": "Định giới, định huệ, định giải thoát tri kiến.",
+    "choice4": "Đáp án a và b.",
+    "answer": "An trụ định, dẫn phát định, thành sở tác sự định.",
+    "explanation": ""
+  }
+]

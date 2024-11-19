@@ -1,0 +1,173 @@
+[
+  {
+    "question": "173. Lục độ được sắp xếp theo thứ tự nào?",
+    "choice1": "Bố thí, trì giới, nhẫn nhục, tinh tấn, thiền định, trí huệ.",
+    "choice2": "Trì giới, tinh tấn, nhẫn nhục, thiền định, bố thí, trí tuệ.",
+    "choice3": "Trí tuệ, thiền định, bố thí, tinh tấn, trì giới, nhẫn nhục.",
+    "choice4": "Nhẫn nhục, bố trí, thiền định, trì giới, tinh tấn, trí.",
+    "answer": "Bố thí, trì giới, nhẫn nhục, tinh tấn, thiền định, trí huệ.",
+    "explanation": ""
+  },
+  {
+    "question": "174. Bố thí có mấy loại?",
+    "choice1": "Hai loại: Nội tài và Ngoại tài.",
+    "choice2": "Ba loại: Tài thí, Pháp thí và Úy thí.",
+    "choice3": "Ba loại: Tài thí, Pháp thí và Vô úy thí.",
+    "choice4": "Bốn loại: Nội tài, Ngoại tài, Pháp thí và Vô úy thí.",
+    "answer": "Ba loại: Tài thí, Pháp thí và Vô úy thí.",
+    "explanation": ""
+  },
+  {
+    "question": "175. Tài thí là gì?",
+    "choice1": "Đem tiền bạc giúp đỡ người.",
+    "choice2": "Đem của cải giúp đỡ người.",
+    "choice3": "Đem vật thực giúp đỡ người.",
+    "choice4": "Gồm đáp án a, b và c.",
+    "answer": "Gồm đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "176. Tài thí có mấy loại?",
+    "choice1": "Một loại là Ngoại tài.",
+    "choice2": "Một loại là Nội tài.",
+    "choice3": "Hai loại là Nội tài và Ngoại tài.",
+    "choice4": "Hai loại là tiền tài và vật chất.",
+    "answer": "Hai loại là Nội tài và Ngoại tài.",
+    "explanation": ""
+  },
+  {
+    "question": "177. Vô uý thí nghĩa là gì?",
+    "choice1": "Giúp người không còn sợ sệt.",
+    "choice2": "Giúp người không còn ngại ngùng.",
+    "choice3": "Giúp người không còn xấu hổ.",
+    "choice4": "Giúp người không còn tự ti.",
+    "answer": "Giúp người không còn sợ sệt.",
+    "explanation": ""
+  },
+  {
+    "question": "178. Giới luật Phật giáo được chia ra thành mấy loại?",
+    "choice1": "Hai loại: Giới cho Thanh văn, giới cho Bồ-tát.",
+    "choice2": "Ba loại: Giới cho người tại gia, giới cho người xuất gia, giới cho người tại gia và xuất gia. (đạo tục thông hành).",
+    "choice3": "Bốn loại: Giới cho Tỳ kheo, giới cho Sa di, giới cho Sa di ni, giới cho Thức xoa ma na.",
+    "choice4": "Đáp án b và c.",
+    "answer": "Ba loại: Giới cho người tại gia, giới cho người xuất gia, giới cho người tại gia và xuất gia. (đạo tục thông hành).",
+    "explanation": ""
+  },
+  {
+    "question": "179. Lợi ích của sự giữ giới là gì?",
+    "choice1": "Giới luật chính là bậc thang đầu của đạo quả giác ngộ, là nền tảng của thiền định, trí huệ.",
+    "choice2": "Giới luật chính là ngọc anh lạc để trang nghiêm pháp thân, là thuyền bè để đưa người qua bể khổ sanh tử.",
+    "choice3": "Giới luật chính là kho tàng vô lượng công đức.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Đáp án a, b và c đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "180. “Giới sáng như mặt nhật, quý báu như ngọc châu anh lạc, các vị Bồ tát đều do trì giới thanh tịnh mà thành Chánh giác” được trích dẫn từ đâu?",
+    "choice1": "Kinh Thập Thiện Nghiệp.",
+    "choice2": "Kinh Bát Đại Nhân Giác.",
+    "choice3": "Kinh Phạm Võng.",
+    "choice4": "Kinh Di giáo.",
+    "answer": "Kinh Phạm Võng.",
+    "explanation": ""
+  },
+  {
+    "question": "181. Ứng dụng ngạn ngữ có câu: \"Ăn không lo, của kho cũng hết\" người Phật tử cần phải tu gì?",
+    "choice1": "Bố thí Ba la mật.",
+    "choice2": "Trì giới Ba la mật.",
+    "choice3": "Tinh tấn Ba la mật.",
+    "choice4": "Trí huệ Ba la mật.",
+    "answer": "Tinh tấn Ba la mật.",
+    "explanation": ""
+  },
+  {
+    "question": "182. Mục đích của việc thực hành pháp nhẫn nhục là gì?",
+    "choice1": "Mong được người khác khen, được chức trọng quyền cao.",
+    "choice2": "Diệt trừ lòng sân hận, kiêu mạn, tật đố, tự ái và tham lam… của bản thân.",
+    "choice3": "Khinh bỉ đối thủ không đáng để ta quan tâm.",
+    "choice4": "Không thèm chấp nê vì tự cho mình có địa vị cao hơn người.",
+    "answer": "Diệt trừ lòng sân hận, kiêu mạn, tật đố, tự ái và tham lam… của bản thân.",
+    "explanation": ""
+  },
+  {
+    "question": "183. Nhẫn nhục Ba la mật đúng nghĩa cần thực tập rốt ráo những gì?",
+    "choice1": "Thân nhẫn, khẩu nhẫn, ý nhẫn.",
+    "choice2": "Kiềm lòng tham và xoá bỏ hận thù.",
+    "choice3": "Yêu thương mọi loại.",
+    "choice4": "Dẹp bỏ bản ngã.",
+    "answer": "Thân nhẫn, khẩu nhẫn, ý nhẫn.",
+    "explanation": ""
+  },
+  {
+    "question": "184. Đối diện với nghịch cảnh bức não nơi thân, thân nhẫn thì thế nào?",
+    "choice1": "Cam chịu sau đó tìm cách phản ứng lại.",
+    "choice2": "Cam chịu nhưng tỏ thái độ không hài lòng.",
+    "choice3": "Cam chịu tạm thời và đợi thời cơ trả thù.",
+    "choice4": "Nhẫn chịu với hoàn cảnh, tìm thấy an lạc trong đó.",
+    "answer": "Nhẫn chịu với hoàn cảnh, tìm thấy an lạc trong đó.",
+    "explanation": ""
+  },
+  {
+    "question": "185. Thiền định là gì?",
+    "choice1": "Dừng lại mọi hoạt động để ngồi yên trước điện Phật.",
+    "choice2": "Tập trung tâm ý vào một đối tượng duy nhất không cho tán loạn, để tâm thể được vắng lặng, quán sát và suy nghiệm.",
+    "choice3": "An ổn tâm trí không làm phiền người khác.",
+    "choice4": "Không nói bất cứ điều gì, đi đứng khoan thai nhẹ nhàng.",
+    "answer": "Tập trung tâm ý vào một đối tượng duy nhất không cho tán loạn, để tâm thể được vắng lặng, quán sát và suy nghiệm.",
+    "explanation": ""
+  },
+  {
+    "question": "186. Có bao nhiêu loại thiền định?",
+    "choice1": "Hai loại: Thế gian thiền, xuất thế gian thiền.",
+    "choice2": "Ba loại: Thế gian thiền, xuất thế gian thiền và xuất thế gian thượng thượng thiền.",
+    "choice3": "Bốn loại: Vô ngôn thiền, thế gian thiền, xuất thế gian thiền và xuất thế gian thượng thượng thiền.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Ba loại: Thế gian thiền, xuất thế gian thiền và xuất thế gian thượng thượng thiền.",
+    "explanation": ""
+  },
+  {
+    "question": "187. Thế gian thiền có mấy loại?",
+    "choice1": "Hai loại: Căn bản vị thiền, căn bản tịnh thiền.",
+    "choice2": "Hai loại: Tịnh thiền, vị thiền.",
+    "choice3": "Ba loại: Căn bản vị thiền, căn bản tịnh thiền, căn bản thân thiền.",
+    "choice4": "Bốn loại: Tịnh thiền, vị thiền, thân thiền, tâm thiền.",
+    "answer": "Hai loại: Căn bản vị thiền, căn bản tịnh thiền.",
+    "explanation": ""
+  },
+  {
+    "question": "188. Căn bản vị thiền gồm 12 phẩm nào?",
+    "choice1": "Ngũ thiền, tứ vô lượng, tam không.",
+    "choice2": "Tứ thiền, tứ vô lượng, tứ không.",
+    "choice3": "Tam thiền, tứ vô lượng, lục không.",
+    "choice4": "Nhị thiền, lục vô lượng, tứ không.",
+    "answer": "Tứ thiền, tứ vô lượng, tứ không.",
+    "explanation": ""
+  },
+  {
+    "question": "189. Để đạt được trí huệ, hành giả cần tu theo phương pháp nào?",
+    "choice1": "Văn, tư, tu.",
+    "choice2": "Giới, định, huệ.",
+    "choice3": "Tụng kinh, niệm Phật, ngồi thiền.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Đáp án a, b và c đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "190. Công năng của trí huệ trong đời sống tu tập của hành giả học Phật là gì?",
+    "choice1": "Dứt trừ phiền não, an lạc hạnh phúc.",
+    "choice2": "Thấy rõ bản ngã của mình.",
+    "choice3": "Nhận chân được bản chất và hiện tượng các sự vật, để dứt trừ phiền não, thể nhập chân lý.",
+    "choice4": "Thấy rõ sự thật các pháp sinh diệt.",
+    "answer": "Nhận chân được bản chất và hiện tượng các sự vật, để dứt trừ phiền não, thể nhập chân lý.",
+    "explanation": ""
+  },
+  {
+    "question": "191. So sánh trí huệ và tri thức thế gian?",
+    "choice1": "Tri thức thế gian là nhờ sự học tập hay kinh nghiệm cuộc sống mà có được. Còn trí tuệ là thành quả có được nhờ vào công năng tu tập và thể nghiệm bản thân.",
+    "choice2": "Tri thức thế gian chỉ là yếu tố trợ duyên để có thể làm tăng trưởng trí tuệ. Trí tuệ thì soi sáng con đường đưa đến cuộc sống an lạc và giải thoát.",
+    "choice3": "Tri thức thế gian và trí tuệ là tương đồng.",
+    "choice4": "Đáp án a và b đều đúng.",
+    "answer": "Đáp án a và b đều đúng.",
+    "explanation": ""
+  }
+]

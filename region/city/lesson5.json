@@ -1,0 +1,92 @@
+[
+  {
+    "question": "67. Theo Phật học Phổ thông, Đạo đế là pháp hành bao gồm những pháp gì?",
+    "choice1": "Tứ chánh cần.",
+    "choice2": "Thất bồ đề phần.",
+    "choice3": "Bát chánh đạo.",
+    "choice4": "37 phẩm trợ đạo.",
+    "answer": "37 phẩm trợ đạo.",
+    "explanation": ""
+  },
+  {
+    "question": "68. Đạo đế gồm có 37 phẩm trợ đạo, chia thành mấy nhóm?",
+    "choice1": "4 nhóm: Ngũ căn, Ngũ lực, Thất bồ đề phần, Bát chánh đạo.",
+    "choice2": "5 nhóm: Tứ niệm xứ, Tứ chánh cần, Tứ như ý túc, Ngũ lực, Bát chánh đạo.",
+    "choice3": "6 nhóm: Tứ niệm xứ, Tứ chánh cần, Tứ như ý túc, Ngũ lực, Thất bồ đề phần, Bát chánh đạo.",
+    "choice4": "7 nhóm: Tứ niệm xứ, Tứ chánh cần, Tứ như ý túc, Ngũ căn, Ngũ lực, Thất bồ đề phần, Bát chánh đạo.",
+    "answer": "7 nhóm: Tứ niệm xứ, Tứ chánh cần, Tứ như ý túc, Ngũ căn, Ngũ lực, Thất bồ đề phần, Bát chánh đạo.",
+    "explanation": ""
+  },
+  {
+    "question": "69. Tứ niệm xứ là bốn pháp quán nào?",
+    "choice1": "Quán thân, quán thọ, quán tâm, quán pháp.",
+    "choice2": "Quán dục, tinh tấn, hỷ, nhất tâm.",
+    "choice3": "Quán từ, bi, hỷ và xả.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Quán thân, quán thọ, quán tâm, quán pháp.",
+    "explanation": ""
+  },
+  {
+    "question": "70. Trong Tứ niệm xứ, pháp quán nào có khả năng chuyển hoá ái dục?",
+    "choice1": "Quán thân bất tịnh.",
+    "choice2": "Quán thọ thị khổ.",
+    "choice3": "Quán tâm vô thường.",
+    "choice4": "Quán pháp vô ngã.",
+    "answer": "Quán thân bất tịnh.",
+    "explanation": ""
+  },
+  {
+    "question": "71. Trong Tứ niệm xứ, dùng pháp nào để đối trị khi tâm bị vướng mắc vào sắc?",
+    "choice1": "Quán thân bất tịnh.",
+    "choice2": "Quán thọ thị khổ.",
+    "choice3": "Quán tâm vô thường.",
+    "choice4": "Quán pháp vô ngã.",
+    "answer": "Quán thân bất tịnh.",
+    "explanation": ""
+  },
+  {
+    "question": "72. Vì sao nói thọ lãnh càng nhiều thì càng đau khổ?",
+    "choice1": "Thọ lãnh cái thân, thì thân là dơ bẩn.",
+    "choice2": "Thọ lãnh cái tâm, thì tâm là vô thường là luôn luôn biến đổi.",
+    "choice3": "Thọ lãnh sự vật, thì sự vật đều là giả.",
+    "choice4": "Gồm đáp án a, b và c.",
+    "answer": "Gồm đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "73. Tứ niệm xứ phá đổ những kiến chấp sai lầm nào?",
+    "choice1": "Chấp thân này là thật, sự vật trường cửu.",
+    "choice2": "Tâm mình vĩnh viễn thường còn, linh hồn bất diệt.",
+    "choice3": "Chấp ngã và chấp pháp.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Chấp ngã và chấp pháp.",
+    "explanation": ""
+  },
+  {
+    "question": "74. Tứ như ý túc còn có tên gọi nào khác?",
+    "choice1": "Tứ niệm xứ.",
+    "choice2": "Tứ thần túc.",
+    "choice3": "Tứ diệu đế.",
+    "choice4": "Tứ tất đàn.",
+    "answer": "Tứ thần túc.",
+    "explanation": ""
+  },
+  {
+    "question": "75. Trong Tứ niệm xứ, khi tâm bị vướng mắc vào một đối tượng chúng ta phải dùng pháp nào để đối trị?",
+    "choice1": "Quán thọ thị khổ.",
+    "choice2": "Quán tâm vô thường.",
+    "choice3": "Quán pháp vô ngã.",
+    "choice4": "Thực tập cả ba điều trên.",
+    "answer": "Quán tâm vô thường.",
+    "explanation": ""
+  },
+  {
+    "question": "76. Khi quán xét để thấy rõ tất cả sự vật vốn không phải là của ta, được gọi là pháp quán nào trong Tứ niệm xứ?",
+    "choice1": "Quán thân bất tịnh.",
+    "choice2": "Quán thọ thị khổ.",
+    "choice3": "Quán tâm vô thường.",
+    "choice4": "Quán pháp vô ngã.",
+    "answer": "Quán pháp vô ngã.",
+    "explanation": ""
+  }
+]

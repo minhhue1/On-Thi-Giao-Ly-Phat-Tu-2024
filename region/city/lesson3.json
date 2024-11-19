@@ -1,0 +1,227 @@
+[
+  {
+    "question": "26. Theo Phật học Phổ thông, Tập đế nghĩa là gì?",
+    "choice1": "Là nguyên nhân của những nỗi khổ đã chứa nhóm, tích trữ lâu đời, lâu kiếp.",
+    "choice2": "Là cội gốc sanh tử, luân hồi khổ đau của chúng sinh.",
+    "choice3": "Là phiền não mê lầm, kiến hoặc và tư hoặc.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "27. Tập đế thuộc về nhân hay quả?",
+    "choice1": "Thuộc về Nhân.",
+    "choice2": "Thuộc về Quả.",
+    "choice3": "Không thể xác định.",
+    "choice4": "Vừa nhân vừa là quả.",
+    "answer": "Thuộc về Nhân.",
+    "explanation": ""
+  },
+  {
+    "question": "28. Căn bản phiền não là gì?",
+    "choice1": "Tham, sân, si, mạn, nghi, ác kiến.",
+    "choice2": "Sanh, lão, bệnh, tử, ái biệt ly, cầu bất đắc, oán tắng hội, ngũ ấm xí thạnh.",
+    "choice3": "Thân kiến, biên kiến, kiến thủ, giới cấm thủ, tà kiến.",
+    "choice4": "Gồm đáp án a và c.",
+    "answer": "Gồm đáp án a và c.",
+    "explanation": ""
+  },
+  {
+    "question": "29. Biểu hiện của Tham là gì?",
+    "choice1": "Dòm ngó, theo dõi những gì ưa thích.",
+    "choice2": "Lập mưu này, chước nọ để chiếm đoạt.",
+    "choice3": "Được bao nhiêu cũng không cảm thấy đủ.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Đáp án a, b và c đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "30. Biểu hiện của Sân là gì?",
+    "choice1": "Mặt mày tái xanh, tay chân run rẩy.",
+    "choice2": "Mặt mày đỏ, nói lời hung ác.",
+    "choice3": "Gặp cảnh trái ý nghịch lòng, tỏ vẻ sợ hãi.",
+    "choice4": "Đáp án a và b đều đúng.",
+    "answer": "Đáp án a và b đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "31. Biểu hiện của Si là gì?",
+    "choice1": "Không phân biệt được đâu là sự thật, đâu là dối trá.",
+    "choice2": "Không phân biệt được chánh và tà, phải và quấy, đúng và sai...",
+    "choice3": "Không phân biệt được tình cảm, lý trí và tình yêu thương.",
+    "choice4": "Đáp án a và b đều đúng.",
+    "answer": "Đáp án a và b đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "32. Tác hại của Si là gì?",
+    "choice1": "Khiến lòng tham trở thành không đáy.",
+    "choice2": "Khiến lửa sân tự do bùng cháy.",
+    "choice3": "Khiến con người gây ra tội lỗi hại mình, hại người mà không hay.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "33. Tam độc là gì?",
+    "choice1": "Tham lam, ganh tỵ, si mê.",
+    "choice2": "Tham lam, sân hận, si mê.",
+    "choice3": "Ganh ghét, bỏn sẻn, sân hận.",
+    "choice4": "Tham ái, tham dục, tham lam.",
+    "answer": "Tham lam, sân hận, si mê.",
+    "explanation": ""
+  },
+  {
+    "question": "34. Biểu hiện của Kiêu mạn là gì?",
+    "choice1": "Tự nâng mình lên và hạ người khác xuống.",
+    "choice2": "Tự thấy mình là quan trọng mà khinh rẻ mọi người.",
+    "choice3": "Ỷ mình có tiền của, tài trí, quyền thế mà khinh khi, lấn áp người khác.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Đáp án a, b và c đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "35. Ngã mạn có nghĩa là gì?",
+    "choice1": "Tự cho mình là giỏi hơn người.",
+    "choice2": "Hơn người ít mà nghĩ mình hơn nhiều.",
+    "choice3": "Ỷ mình hay giỏi mà lấn lướt người.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Ỷ mình hay giỏi mà lấn lướt người.",
+    "explanation": ""
+  },
+  {
+    "question": "36. Biểu hiện của Nghi là gì?",
+    "choice1": "Không tin cậy giao phó công việc cho bất cứ ai.",
+    "choice2": "Không tin tưởng thiện chí của mọi người.",
+    "choice3": "Thường nghi ngờ nhân quả, nghiệp báo.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Đáp án a, b và c đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "37. Ba phương diện của Nghi là gì?",
+    "choice1": "Tự nghi, nghi pháp và nghi nhơn.",
+    "choice2": "Nghi mình, nghi pháp tu và nghi người truyền đạt.",
+    "choice3": "Nghi Phật, nghi pháp và nghi Tăng.",
+    "choice4": "Đáp án a và b đều đúng.",
+    "answer": "Đáp án a và b đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "38. Biểu hiện của Thân kiến là gì?",
+    "choice1": "Chấp thân ngũ ấm tứ đại giả hợp.",
+    "choice2": "Thấy cái “ta” riêng biệt, chắc thật, không biến đổi.",
+    "choice3": "Lo thâu tóm góp nhặt của cải, món ngon vật lạ, công danh địa vị cho cái “ta”, chà đạp lên bao nhiêu cái ta khác.",
+    "choice4": "Đáp án a và b đều đúng.",
+    "answer": "Đáp án a và b đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "39. Biểu hiện của Biên kiến là gì?",
+    "choice1": "Chấp cái “ta” vẫn tồn tại mãi (thường kiến).",
+    "choice2": "Chấp chết rồi là mất hẳn, nên không tin nhân quả (đoạn kiến).",
+    "choice3": "Chấp chặt quan điểm của chính mình.",
+    "choice4": "Đáp án a và b đều đúng.",
+    "answer": "Đáp án a và b đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "40. Các phương diện của Kiến thủ là gì?",
+    "choice1": "Không ý thức được sai lầm, luôn làm theo ý mình.",
+    "choice2": "Bảo thủ quan điểm của mình là đúng đắn.",
+    "choice3": "Chấp sai lầm, trái với sự thật và luật nhân quả.",
+    "choice4": "Đáp án a và b đều đúng.",
+    "answer": "Đáp án a và b đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "41. Giới cấm thủ nghĩa là gì?",
+    "choice1": "Là vi phạm hoặc không vi phạm giới luật.",
+    "choice2": "Bảo thủ các qui định, các hình thức lễ nghi quái lạ cho là đúng.",
+    "choice3": "Là làm theo lời răn cấm của ngoại đạo tà giáo.",
+    "choice4": "Đáp án b và c đều đúng.",
+    "answer": "Đáp án b và c đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "42. Tà kiến nghĩa là gì?",
+    "choice1": "Là hiểu biết sai lầm lệch lạc, trái với luật nhân quả, nghiệp báo.",
+    "choice2": "Là mê tín dị đoan.",
+    "choice3": "Là chấp chặt luôn làm theo ý mình.",
+    "choice4": "Đáp án a và b đều đúng.",
+    "answer": "Đáp án a và b đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "43. “Kiết sử” trong Phật giáo gồm những gì?",
+    "choice1": "Năm độn sử.",
+    "choice2": "Năm triền cái.",
+    "choice3": "Năm độn sử và năm lợi sử.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Năm độn sử và năm lợi sử.",
+    "explanation": ""
+  },
+  {
+    "question": "44. Hãy cho biết “Tham, sân, si, mạn, nghi” thuộc về nhóm phiền não nào?",
+    "choice1": "Ngũ độn sử.",
+    "choice2": "Ngũ lợi sử.",
+    "choice3": "Ngũ dục sử.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Ngũ độn sử.",
+    "explanation": ""
+  },
+  {
+    "question": "45. Kiến hoặc trong Tam giới có bao nhiêu kiết sử?",
+    "choice1": "51 sử.",
+    "choice2": "81 sử.",
+    "choice3": "88 sử.",
+    "choice4": "108 sử.",
+    "answer": "88 sử.",
+    "explanation": ""
+  },
+  {
+    "question": "46. Tư hoặc trong Tam giới có bao nhiêu kiết sử?",
+    "choice1": "51 sử.",
+    "choice2": "81 sử.",
+    "choice3": "88 sử.",
+    "choice4": "108 sử.",
+    "answer": "81 sử.",
+    "explanation": ""
+  },
+  {
+    "question": "47. Kiến thủ là gì?",
+    "choice1": "Quan điểm cho rằng mình là số một.",
+    "choice2": "Chấp cho vị thế của mình là hơn hết.",
+    "choice3": "Bảo thủ ý kiến của mình bất luận đúng hay sai.",
+    "choice4": "Chấp cho sự hiểu biết của mình là đúng, nên chẳng sửa đổi.",
+    "answer": "Bảo thủ ý kiến của mình bất luận đúng hay sai.",
+    "explanation": ""
+  },
+  {
+    "question": "48. Theo Phật giáo Bắc truyền, năm món Lợi sử là gì?",
+    "choice1": "Thân kiến, biên kiến, kiến thủ, giới cấm thủ, tà kiến.",
+    "choice2": "Tham, sân, si, mạn, nghi, ác kiến.",
+    "choice3": "Tham, sân, thùy miên, trạo cử, nghi.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Thân kiến, biên kiến, kiến thủ, giới cấm thủ, tà kiến.",
+    "explanation": ""
+  },
+  {
+    "question": "49. Theo Phật giáo Bắc truyền, năm món Độn sử là gì?",
+    "choice1": "Tham, sân, si, mạn, nghi.",
+    "choice2": "Thân kiến, biên kiến, kiến thủ, giới cấm thủ, tà kiến.",
+    "choice3": "Sắc, thanh, hương, vị, xúc.",
+    "choice4": "Nhãn, nhĩ, tỷ, thiệt, thân.",
+    "answer": "Tham, sân, si, mạn, nghi.",
+    "explanation": ""
+  },
+  {
+    "question": "50. Ỷ mình giỏi mà lấn lướt người, thuộc về loại kiêu mạn nào?",
+    "choice1": "Tăng thượng mạn.",
+    "choice2": "Ngã mạn.",
+    "choice3": "Mạn quá mạn.",
+    "choice4": "Đáp án a và b đều đúng.",
+    "answer": "Ngã mạn.",
+    "explanation": ""
+  }
+]

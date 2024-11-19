@@ -1,0 +1,47 @@
+[
+  {
+    "question": "77. Tứ chánh cần là gì?",
+    "choice1": "Là bốn pháp siêng năng, tinh tấn.",
+    "choice2": "Là bốn pháp hợp với chánh đạo.",
+    "choice3": "Là bốn pháp đoạn trừ tham, sân, si.",
+    "choice4": "Gồm đáp án a và b.",
+    "answer": "Gồm đáp án a và b.",
+    "explanation": ""
+  },
+  {
+    "question": "78. Mục đích việc tu tập của Tứ chánh cần là gì?",
+    "choice1": "Tinh tấn ngăn ngừa điều ác, phát triển điều lành.",
+    "choice2": "Tinh tấn ngăn ngừa và đoạn trừ điều ác, thực thi và phát triển những điều lành.",
+    "choice3": "Tinh tấn đoạn trừ tham, sân, si, tu tập tín, hạnh, nguyện.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Tinh tấn ngăn ngừa và đoạn trừ điều ác, thực thi và phát triển những điều lành.",
+    "explanation": ""
+  },
+  {
+    "question": "79. Tinh tấn ngăn ngừa những điều ác chưa phát sinh là gì?",
+    "choice1": "Tinh tấn khắc phục hậu quả điều ác đã làm.",
+    "choice2": "Tâm chưa móng tưởng điều ác thì ráng giữ gìn, đừng cho phát khởi lên.",
+    "choice3": "Tinh tấn đoạn trừ tham, sân chưa sanh khởi.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Tâm chưa móng tưởng điều ác thì ráng giữ gìn, đừng cho phát khởi lên.",
+    "explanation": ""
+  },
+  {
+    "question": "80. Chọn câu trả lời đúng nhất về đối tượng thiện của Phật giáo?",
+    "choice1": "Làm lợi mình, lợi người hợp với trí huệ.",
+    "choice2": "Siêng năng làm công tác từ thiện xã hội.",
+    "choice3": "Làm lành với mọi khả năng và điều kiện.",
+    "choice4": "Làm những việc lợi mình và lợi chúng sanh trong hiện tại cũng như tương lai.",
+    "answer": "Làm những việc lợi mình và lợi chúng sanh trong hiện tại cũng như tương lai.",
+    "explanation": ""
+  },
+  {
+    "question": "81. Trước làm việc bất thiện, nay quyết tâm từ bỏ gọi là gì trong Tứ chánh cần?",
+    "choice1": "Tinh tấn dứt trừ những điều ác chưa phát sanh.",
+    "choice2": "Tinh tấn dứt trừ những điều ác đã sanh.",
+    "choice3": "Tinh tấn phát triển điều thiện chưa sanh.",
+    "choice4": "Tinh tấn phát triển điều thiện đã sanh.",
+    "answer": "Tinh tấn dứt trừ những điều ác đã sanh.",
+    "explanation": ""
+  }
+]

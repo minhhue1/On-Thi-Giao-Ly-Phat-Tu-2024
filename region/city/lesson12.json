@@ -1,0 +1,110 @@
+[
+  {
+    "question": "126. Thế nào là quán bất tịnh?",
+    "choice1": "Quán thân này nhơ nhớp.",
+    "choice2": "Quán thân này chịu nhiều đau khổ.",
+    "choice3": "Quán thân này vô thường.",
+    "choice4": "Quán thân này vừa dơ vừa vô thường.",
+    "answer": "Quán thân này nhơ nhớp.",
+    "explanation": ""
+  },
+  {
+    "question": "127. Muốn thành tựu pháp quán bất tịnh cần phải đầy đủ ba đức tính gì?",
+    "choice1": "Thông minh, nhẫn nhục và đức hạnh.",
+    "choice2": "Giàu có, minh mẫn, thành đạt.",
+    "choice3": "Trí tuệ sáng suốt, thành thật và kiên nhẫn.",
+    "choice4": "Quyền lực, mạnh khỏe và thông minh.",
+    "answer": "Trí tuệ sáng suốt, thành thật và kiên nhẫn.",
+    "explanation": ""
+  },
+  {
+    "question": "128. Quán chủng tử bất tịnh là gì?",
+    "choice1": "Quán chỗ ở là ô nhiễm, bất tịnh.",
+    "choice2": "Quán thân tâm đều ô nhiễm, bất tịnh.",
+    "choice3": "Quán môi trường chung quanh đều ô nhiễm, bất tịnh.",
+    "choice4": "Quán không khí là ô nhiễm, bất tịnh.",
+    "answer": "Quán thân tâm đều ô nhiễm, bất tịnh.",
+    "explanation": ""
+  },
+  {
+    "question": "129. Quán trụ xứ bất tịnh là gì?",
+    "choice1": "Quán môi trường chung quanh đều ô nhiễm, bất tịnh.",
+    "choice2": "Quán chỗ ở nhà cửa con người là ô nhiễm, bất tịnh.",
+    "choice3": "Quán chỗ ở của chủng tử (bào thai) là ô nhiễm, bất tịnh.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Quán chỗ ở của chủng tử (bào thai) là ô nhiễm, bất tịnh.",
+    "explanation": ""
+  },
+  {
+    "question": "130. Quán tự tướng bất tịnh là gì?",
+    "choice1": "Quán giác quan bên ngoài của thân thể không sạch sẽ.",
+    "choice2": "Quán bộ phận bên trong của thân thể không sạch sẽ.",
+    "choice3": "Quán tâm của người là sạch sẽ, không cấu uế.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Đáp án a và b.",
+    "explanation": ""
+  },
+  {
+    "question": "131. Cửu khiếu trong Phật giáo gồm những gì?",
+    "choice1": "Lỗ chân lông, miệng, nách, 2 lỗ tai, 2 lỗ mũi và 2 lỗ mắt.",
+    "choice2": "Đường đại, đường tiểu, miệng, 2 lỗ tai, 2 lỗ mũi và 2 lỗ mắt.",
+    "choice3": "Đường đại, đường tiểu, lỗ chân lông, 2 lỗ tai, 2 lỗ mũi và 2 lỗ mắt.",
+    "choice4": "Lỗ chân lông, 2 lỗ tai, 2 lỗ mũi, 2 lỗ mắt và miệng.",
+    "answer": "Đường đại, đường tiểu, miệng, 2 lỗ tai, 2 lỗ mũi và 2 lỗ mắt.",
+    "explanation": ""
+  },
+  {
+    "question": "132. Đức Phật dạy Cửu Tưởng quán, hành giả phải đến đâu tu tập để có kết quả tốt nhất?",
+    "choice1": "Thi lâm (bãi tha ma).",
+    "choice2": "Nhà thương.",
+    "choice3": "Cô nhi viện.",
+    "choice4": "Viện dưỡng lão.",
+    "answer": "Thi lâm (bãi tha ma).",
+    "explanation": ""
+  },
+  {
+    "question": "133. Quán tự thể bất tịnh gồm ba chất căn bản nào?",
+    "choice1": "Địa, thủy, hỏa.",
+    "choice2": "Kim, mộc, thổ.",
+    "choice3": "Chất cứng, chất lỏng, chất sệt.",
+    "choice4": "Thể rắn, thể nước, thể khí.",
+    "answer": "Chất cứng, chất lỏng, chất sệt.",
+    "explanation": ""
+  },
+  {
+    "question": "134. Pháp quán thứ năm trong quán bất tịnh là gì?",
+    "choice1": "Quán chủng tử bất tịnh, quán trụ xứ bất tịnh.",
+    "choice2": "Quán tự tướng và quán tự thể bất tịnh.",
+    "choice3": "Quán chung cánh bất tịnh.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Quán chung cánh bất tịnh.",
+    "explanation": ""
+  },
+  {
+    "question": "135. Quán chung cánh bất tịnh là gì?",
+    "choice1": "Quán thân bất tịnh trong suốt đời.",
+    "choice2": "Quán thân bất tịnh sau khi chết.",
+    "choice3": "Quán thân bất tịnh trước khi sinh ra.",
+    "choice4": "Quán thân bất tịnh khi bệnh hoạn.",
+    "answer": "Quán thân bất tịnh sau khi chết.",
+    "explanation": ""
+  },
+  {
+    "question": "136. Tại sao Đức Thế Tôn chỉ cho con người thấy rõ thân này là bất tịnh?",
+    "choice1": "Vì muốn mọi người được giải thoát lên cõi trời.",
+    "choice2": "Vì muốn nói lên một sự thật và khuyên mọi người chớ chấp vào thân này.",
+    "choice3": "Vì muốn mọi người xa lìa thân giả tạm.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Vì muốn nói lên một sự thật và khuyên mọi người chớ chấp vào thân này.",
+    "explanation": ""
+  },
+  {
+    "question": "137. Sau khi nghe Phật thuyết pháp về thân bất tịnh, có 30 vị tỳ kheo đã tự hủy hoại thân này, làm như thế có đúng không?",
+    "choice1": "Đúng, vì trong túi đất dơ làm gì có ngọc.",
+    "choice2": "Đúng, vì trong bể nước mặn làm gì có vàng.",
+    "choice3": "Không đúng, vì Phật dạy chớ nên tưởng rằng trong thân bất tịnh này không có Phật.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Không đúng, vì Phật dạy chớ nên tưởng rằng trong thân bất tịnh này không có Phật.",
+    "explanation": ""
+  }
+]

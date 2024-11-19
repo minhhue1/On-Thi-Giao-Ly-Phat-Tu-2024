@@ -1,0 +1,128 @@
+[
+  {
+    "question": "237. Bốn chúng đệ tử của đức Phật gồm những chúng nào?",
+    "choice1": "Tỳ kheo, Tỳ kheo ni, Ưu bà tắc và Ưu bà di.",
+    "choice2": "Tỳ kheo, Tỳ kheo ni, Cận trụ nam và Cận sự nữ.",
+    "choice3": "Tỳ kheo, Tỳ kheo ni, Sa di, Sa di ni.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Tỳ kheo, Tỳ kheo ni, Ưu bà tắc và Ưu bà di.",
+    "explanation": ""
+  },
+  {
+    "question": "238. Tuổi đạo của chư Tăng, Ni được tính từ thời điểm nào?",
+    "choice1": "Từ lúc vào chùa tập sự.",
+    "choice2": "Từ lúc xuống tóc xuất gia.",
+    "choice3": "Từ lúc thọ giới Sa di, hoặc Sa di ni.",
+    "choice4": "Từ lúc thọ giới Tỳ kheo hoặc Tỳ kheo ni (tối thiểu 20 tuổi đời).",
+    "answer": "Từ lúc thọ giới Tỳ kheo hoặc Tỳ kheo ni (tối thiểu 20 tuổi đời).",
+    "explanation": ""
+  },
+  {
+    "question": "239. Ban Vận động thống nhất Phật giáo Việt Nam được thành lập tại đâu, năm nào?",
+    "choice1": "Tại Cần Thơ, năm 1980.",
+    "choice2": "Tại Thành phố Hồ Chí Minh, năm 1980.",
+    "choice3": "Tại Thủ đô Hà Nội, năm 1981.",
+    "choice4": "Tại Thừa Thiên Huế, năm 1981.",
+    "answer": "Tại Thành phố Hồ Chí Minh, năm 1980.",
+    "explanation": ""
+  },
+  {
+    "question": "240. Giáo hội Phật giáo Việt Nam (GHPGVN) được thành lập tại đâu, năm nào?",
+    "choice1": "Tại Tp. Hồ Chí Minh, năm 1981.",
+    "choice2": "Tại thủ đô Hà Nội, năm 1981.",
+    "choice3": "Tại Hà Nội, năm 1982.",
+    "choice4": "Tại Tp. Hồ Chí Minh, năm 1983.",
+    "answer": "Tại thủ đô Hà Nội, năm 1981.",
+    "explanation": ""
+  },
+  {
+    "question": "241. Phương châm hoạt động của Giáo hội Phật giáo Việt Nam là gì?",
+    "choice1": "Đoàn kết - Hòa hợp - Trưởng dưỡng đạo tâm, trang nghiêm Giáo hội.",
+    "choice2": "Đạo pháp - Dân tộc - Chủ nghĩa Xã hội.",
+    "choice3": "Giới luật còn, Phật pháp còn - Giới luật mất, Phật pháp mất.",
+    "choice4": "Đạo pháp - Dân tộc.",
+    "answer": "Đạo pháp - Dân tộc - Chủ nghĩa Xã hội.",
+    "explanation": ""
+  },
+  {
+    "question": "242. Trung ương GHPGVN có mấy văn phòng? Văn phòng I lập ở đâu?",
+    "choice1": "Có 2 văn phòng, Văn phòng I ở chùa Quán Sứ.",
+    "choice2": "Có 2 văn phòng, Văn phòng I ở thiền viện Quảng Đức.",
+    "choice3": "Có 3 văn phòng, Văn phòng I ở chùa Quán Sứ.",
+    "choice4": "Có 3 văn phòng, Văn phòng I ở chùa Một Cột.",
+    "answer": "Có 2 văn phòng, Văn phòng I ở chùa Quán Sứ.",
+    "explanation": ""
+  },
+  {
+    "question": "243. Văn phòng II Trung ương GHPGVN đặt ở đâu?",
+    "choice1": "Chùa Xá Lợi, Tp.HCM.",
+    "choice2": "Thiền viện Quảng Đức, Tp.HCM.",
+    "choice3": "Chùa Từ Đàm, Tp. Huế.",
+    "choice4": "Chùa Vĩnh Nghiêm, Tp.HCM.",
+    "answer": "Thiền viện Quảng Đức, Tp.HCM.",
+    "explanation": ""
+  },
+  {
+    "question": "244. Đại hội đại biểu Phật giáo toàn quốc mấy năm tổ chức một lần?",
+    "choice1": "4 năm một lần.",
+    "choice2": "5 năm một lần.",
+    "choice3": "6 năm một lần.",
+    "choice4": "7 năm một lần.",
+    "answer": "5 năm một lần.",
+    "explanation": ""
+  },
+  {
+    "question": "245. Chức danh vị lãnh đạo cao nhất của Hội đồng Trị sự (HĐTS) nhiệm kỳ (2022-2027) gọi là gì?",
+    "choice1": "Pháp chủ Hội đồng Trị sự.",
+    "choice2": "Trị Sự trưởng Hội đồng Trị sự.",
+    "choice3": "Trưởng ban Hội đồng Trị sự.",
+    "choice4": "Chủ tịch Hội đồng Trị sự.",
+    "answer": "Chủ tịch Hội đồng Trị sự.",
+    "explanation": ""
+  },
+  {
+    "question": "246. Trụ sở của Ban Trị sự GHPGVN Tp. Hồ Chí Minh nhiệm kỳ (2022-2027) đặt ở đâu?",
+    "choice1": "Chùa Ấn Quang.",
+    "choice2": "Chùa Xá Lợi.",
+    "choice3": "Việt Nam Quốc Tự.",
+    "choice4": "Chùa Phổ Quang.",
+    "answer": "Việt Nam Quốc Tự.",
+    "explanation": ""
+  },
+  {
+    "question": "247. Theo hiến chương GHPGVN nhiệm kỳ (2022-2027), để tấn phong hàng giáo phẩm Hòa thượng phải có tuổi đời, tuổi đạo tối thiểu bao nhiêu?",
+    "choice1": "Có từ 55 tuổi đời và 35 tuổi đạo.",
+    "choice2": "Có từ 60 tuổi đời và 40 tuổi đạo.",
+    "choice3": "Có từ 65 tuổi đời và 45 tuổi đạo.",
+    "choice4": "Có từ 70 tuổi đời và 40 tuổi đạo.",
+    "answer": "Có từ 60 tuổi đời và 40 tuổi đạo.",
+    "explanation": ""
+  },
+  {
+    "question": "248. Theo hiến chương GHPGVN nhiệm kỳ (2022-2027), để tấn phong hàng giáo phẩm Thượng tọa phải có tuổi đời, tuổi đạo tối thiểu bao nhiêu?",
+    "choice1": "40 tuổi đời và 20 tuổi đạo.",
+    "choice2": "45 tuổi đời và 25 tuổi đạo.",
+    "choice3": "50 tuổi đời và 30 tuổi đạo.",
+    "choice4": "55 tuổi đời và 35 tuổi đạo.",
+    "answer": "45 tuổi đời và 25 tuổi đạo.",
+    "explanation": ""
+  },
+  {
+    "question": "249. Theo hiến chương GHPGVN nhiệm kỳ (2022-2027), để được tấn phong hàng giáo phẩm Ni trưởng phải có tuổi đời, tuổi đạo tối thiểu bao nhiêu?",
+    "choice1": "55 tuổi đời và 35 tuổi đạo.",
+    "choice2": "60 tuổi đời và 40 tuổi đạo.",
+    "choice3": "65 tuổi đời và 45 tuổi đạo.",
+    "choice4": "70 tuổi đời và 50 tuổi đạo.",
+    "answer": "60 tuổi đời và 40 tuổi đạo.",
+    "explanation": ""
+  },
+  {
+    "question": "250. Theo hiến chương GHPGVN nhiệm kỳ (2022-2027), để được tấn phong hàng giáo phẩm Ni sư phải có tuổi đời, tuổi đạo tối thiểu bao nhiêu?",
+    "choice1": "40 tuổi đời và 20 tuổi đạo.",
+    "choice2": "45 tuổi đời và 25 tuổi đạo.",
+    "choice3": "50 tuổi đời và 30 tuổi đạo.",
+    "choice4": "55 tuổi đời và 35 tuổi đạo.",
+    "answer": "45 tuổi đời và 25 tuổi đạo.",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "question": "151. Thành phần của nhân duyên gồm những gì?",
+    "choice1": "Vô minh, hành, thức, danh sắc, lục nhập, xúc, thọ, ái, thủ, hữu, sanh, lão tử.",
+    "choice2": "Hoặc, nghiệp, khổ.",
+    "choice3": "Đáp án a và b.",
+    "choice4": "Đất, nước, gió, lửa.",
+    "answer": "Đáp án a và b.",
+    "explanation": ""
+  },
+  {
+    "question": "152. Quán nhân duyên để đối trị gì?",
+    "choice1": "Đối trị sân hận.",
+    "choice2": "Đối trị tham dục.",
+    "choice3": "Đối trị chấp ngã.",
+    "choice4": "Đối trị si mê.",
+    "answer": "Đối trị si mê.",
+    "explanation": ""
+  },
+  {
+    "question": "153. Quán nhân duyên có hai cách là gì?",
+    "choice1": "Quán thân và quán tâm.",
+    "choice2": "Quán lưu chuyển và quán hoàn diệt.",
+    "choice3": "Quán quá khứ và hiện tại.",
+    "choice4": "Quán tự tướng và quán tự thể.",
+    "answer": "Quán lưu chuyển và quán hoàn diệt.",
+    "explanation": ""
+  },
+  {
+    "question": "154. Mục đích quán nhân duyên là gì?",
+    "choice1": "Để đối trị ngã chấp.",
+    "choice2": "Để đối trị pháp chấp.",
+    "choice3": "Để đối trị cố chấp.",
+    "choice4": "Để đối trị ngã chấp và pháp chấp.",
+    "answer": "Để đối trị ngã chấp và pháp chấp.",
+    "explanation": ""
+  },
+  {
+    "question": "155. Nhận thức đúng giáo lý duyên khởi sẽ giúp điều gì?",
+    "choice1": "Thấy rõ sự thật của con người, cuộc đời và giá trị hạnh phúc.",
+    "choice2": "\"Ai thấy Duyên khởi là thấy Pháp. Ai thấy Pháp là thấy Ta (Phật)\".",
+    "choice3": "Thấy sự thật đây là cái thấy độc đáo nhất trong lịch sử tôn giáo và triết học xưa nay...",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Thấy rõ sự thật của con người, cuộc đời và giá trị hạnh phúc.",
+    "explanation": ""
+  },
+  {
+    "question": "156. Phật dạy, thế nào gọi là “Vô minh”?",
+    "choice1": "Không hiểu rõ tứ đế.",
+    "choice2": "Không hiểu rõ duyên khởi.",
+    "choice3": "Không hiểu rõ các pháp vô thường vô ngã.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Đáp án a, b và c đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "157. Phật dạy, “Danh sắc” gồm những gì?",
+    "choice1": "Xúc, tác ý, thọ, tưởng và tư.",
+    "choice2": "Đất, nước, gió, lửa.",
+    "choice3": "Sắc, thanh, hương, vị, xúc và pháp.",
+    "choice4": "Tinh thần và thể chất của con người.",
+    "answer": "Tinh thần và thể chất của con người.",
+    "explanation": ""
+  },
+  {
+    "question": "158. Phật dạy, “Thủ” gồm những gì?",
+    "choice1": "Các hành động tạo tác khi gặp cảnh thuận thì tham cầu.",
+    "choice2": "Các hành động tạo tác khi gặp cảnh nghịch lại sân, si muốn xa lìa.",
+    "choice3": "Luôn tìm phương kế để bảo thủ bản ngã của mình.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "159. Phật dạy, thế nào gọi là “Hữu”?",
+    "choice1": "Dục thủ, kiến thủ, giới cấm thủ, ngã luận thủ.",
+    "choice2": "Dục hữu, sắc hữu và vô sắc hữu.",
+    "choice3": "Nhãn xúc, nhĩ xúc, tỷ xúc, thiệt xúc, thân xúc và ý xúc.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Dục hữu, sắc hữu và vô sắc hữu.",
+    "explanation": ""
+  },
+  {
+    "question": "160. Quán lưu chuyển nghĩa là gì?",
+    "choice1": "Quán sát trạng thái sanh khởi của 12 nhân duyên trong vô thỉ, trong ba đời và trong một niệm của hiện tại.",
+    "choice2": "Quán sát trạng thái hoại diệt của 12 nhân duyên trong vô thỉ, trong ba đời và trong một niệm của hiện tại.",
+    "choice3": "Quán sát trạng thái sanh khởi của 12 nhân duyên trong vô thỉ, trong ba đời và trong một niệm của tương lai.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Quán sát trạng thái sanh khởi của 12 nhân duyên trong vô thỉ, trong ba đời và trong một niệm của hiện tại.",
+    "explanation": ""
+  },
+  {
+    "question": "161. Quán hoàn diệt nghĩa là gì?",
+    "choice1": "Quán sát sự tiêu diệt của 12 nhân duyên.",
+    "choice2": "Quán sát sự tuần hoàn của 12 nhân duyên.",
+    "choice3": "Đáp án a và b.",
+    "choice4": "Quán sát sự lưu chuyển của 12 nhân duyên.",
+    "answer": "Quán sát sự tiêu diệt của 12 nhân duyên.",
+    "explanation": ""
+  },
+  {
+    "question": "162. Quán hoàn diệt có hai pháp quán là gì?",
+    "choice1": "Diệt vô minh gốc rễ và diệt vô minh ngành ngọn.",
+    "choice2": "Diệt căn bản vô minh và chi mạt vô minh.",
+    "choice3": "Đáp án a, b đều đúng.",
+    "choice4": "Diệt lưu chuyển và tuần hoàn.",
+    "answer": "Đáp án a, b đều đúng.",
+    "explanation": ""
+  }
+]

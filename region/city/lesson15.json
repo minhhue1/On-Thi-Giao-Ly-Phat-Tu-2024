@@ -1,0 +1,92 @@
+[
+  {
+    "question": "163. Thế nào là quán giới phân biệt?",
+    "choice1": "Vận dụng trí tuệ để quán sát 18 giới có hay không cái ngã trường tồn, bất biến, duy nhất.",
+    "choice2": "Quán sát thân tâm có hay không cái ngã trường tồn, bất biến, duy nhất.",
+    "choice3": "Quán sát pháp giới có hay không cái ngã trường tồn, bất biến, duy nhất.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Vận dụng trí tuệ để quán sát 18 giới có hay không cái ngã trường tồn, bất biến, duy nhất.",
+    "explanation": ""
+  },
+  {
+    "question": "164. Phương pháp quán giới phân biệt là gì?",
+    "choice1": "Quán sát sự liên hệ giữa thân và tâm.",
+    "choice2": "Quán sát sự liên hệ giữa căn, trần và thức.",
+    "choice3": "Quán sát sự giả dối của căn, trần và thức.",
+    "choice4": "Quán sát sự liên hệ và sự giả dối không bền, không thật giữa căn, trần và thức.",
+    "answer": "Quán sát sự liên hệ và sự giả dối không bền, không thật giữa căn, trần và thức.",
+    "explanation": ""
+  },
+  {
+    "question": "165. Công dụng của pháp quán giới phân biệt là gì?",
+    "choice1": "Đối trị bệnh tham dục.",
+    "choice2": "Đối trị bệnh sân hận.",
+    "choice3": "Đối trị bệnh chấp ngã, chấp pháp.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đối trị bệnh chấp ngã, chấp pháp.",
+    "explanation": ""
+  },
+  {
+    "question": "166. Quán sát sự giả dối của “Căn - trần - thức” như thế nào?",
+    "choice1": "“Căn - trần - thức” không có ngã.",
+    "choice2": "“Căn - trần - thức” không thật bền, không thật có.",
+    "choice3": "“Căn - trần - thức” có thực ngã.",
+    "choice4": "Đáp án a và b đều đúng.",
+    "answer": "Đáp án a và b đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "167. Theo Duy thức, mười tám giới gồm những gì?",
+    "choice1": "Mười tám cảnh giới của các tầng trời.",
+    "choice2": "Sáu căn, sáu trần, sáu thức.",
+    "choice3": "Mười tám tầng địa ngục.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Sáu căn, sáu trần, sáu thức.",
+    "explanation": ""
+  },
+  {
+    "question": "168. Sáu căn gồm những gì?",
+    "choice1": "Nhãn, nhĩ, tỷ, thiệt, thân, ý.",
+    "choice2": "Sắc, thanh, hương, vị, xúc, pháp.",
+    "choice3": "Trời, người, A-tu-la, địa ngục, ngạ quỷ, súc sanh.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Nhãn, nhĩ, tỷ, thiệt, thân, ý.",
+    "explanation": ""
+  },
+  {
+    "question": "169. Sáu trần gồm những gì?",
+    "choice1": "Nhãn, nhĩ, tỷ, thiệt, thân, ý.",
+    "choice2": "Sắc, thanh, hương, vị, xúc, pháp.",
+    "choice3": "Sắc, thọ, tưởng, hành, thức, pháp.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Sắc, thanh, hương, vị, xúc, pháp.",
+    "explanation": ""
+  },
+  {
+    "question": "170. Sáu thức gồm những gì?",
+    "choice1": "Tàng thức, vọng thức, ý thức, tâm thức, nghiệp thức.",
+    "choice2": "Nhãn thức, nhĩ thức, tỷ thức, thiệt thức, thân thức, ý thức.",
+    "choice3": "Sắc thức, thanh thức, hương thức, vị thức, xúc thức, pháp thức.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Nhãn thức, nhĩ thức, tỷ thức, thiệt thức, thân thức, ý thức.",
+    "explanation": ""
+  },
+  {
+    "question": "171. Chữ “thức” trong sáu thức có nghĩa là gì?",
+    "choice1": "Tỉnh thức.",
+    "choice2": "Sự phân biệt.",
+    "choice3": "Thức dậy.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Sự phân biệt.",
+    "explanation": ""
+  },
+  {
+    "question": "172. Theo Duy thức học, “Thức” trong ngũ uẩn thuộc về tâm nào?",
+    "choice1": "Tâm vương.",
+    "choice2": "Tâm sở.",
+    "choice3": "Tâm bất tương hành.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Tâm vương.",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "question": "1. Tứ diệu đế còn có tên gì khác?",
+    "choice1": "Tứ Thánh đế.",
+    "choice2": "Tứ Chân đế.",
+    "choice3": "Tứ Chánh đế.",
+    "choice4": "Đáp án a và b đều đúng.",
+    "answer": "Đáp án a và b đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "2. Tứ diệu đế gồm những gì?",
+    "choice1": "Từ, bi, hỷ, xả.",
+    "choice2": "Thường, lạc, ngã, tịnh.",
+    "choice3": "Khổ, tập, diệt, đạo.",
+    "choice4": "Sanh, lão, bệnh, tử.",
+    "answer": "Khổ, tập, diệt, đạo.",
+    "explanation": ""
+  },
+  {
+    "question": "3. Thứ tự Tứ diệu đế?",
+    "choice1": "Khổ đế, diệt đế, đạo đế, tập đế.",
+    "choice2": "Khổ đế, tập đế, diệt đế, đạo đế.",
+    "choice3": "Khổ đế, tập đế, đạo đế, diệt đế.",
+    "choice4": "Khổ đế, đạo đế, tập đế, diệt đế.",
+    "answer": "Khổ đế, tập đế, diệt đế, đạo đế.",
+    "explanation": ""
+  },
+  {
+    "question": "4. Tại sao đức Phật nói Tứ diệu đế theo trình tự Khổ đế trước, Tập đế sau?",
+    "choice1": "Giải quyết vấn đề nói từ quả đến nhân.",
+    "choice2": "Giúp ta đối diện khổ đau để giải quyết vấn đề.",
+    "choice3": "Thừa nhận thực trạng thì mới tìm ra giải pháp tốt.",
+    "choice4": "Gồm đáp án a, b và c.",
+    "answer": "Gồm đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "5. Trong Tứ diệu đế, chi phần nào là nguyên nhân của khổ?",
+    "choice1": "Khổ đế.",
+    "choice2": "Tập đế.",
+    "choice3": "Diệt đế.",
+    "choice4": "Đạo đế.",
+    "answer": "Tập đế.",
+    "explanation": ""
+  },
+  {
+    "question": "6. Trong Tứ diệu đế chi phần nào là Niết bàn?",
+    "choice1": "Khổ đế.",
+    "choice2": "Tập đế.",
+    "choice3": "Diệt đế.",
+    "choice4": "Đạo đế.",
+    "answer": "Diệt đế.",
+    "explanation": ""
+  },
+  {
+    "question": "7. Trong Tứ diệu đế, Tứ niệm xứ nằm trong chi phần nào?",
+    "choice1": "Khổ đế.",
+    "choice2": "Tập đế.",
+    "choice3": "Diệt đế.",
+    "choice4": "Đạo đế.",
+    "answer": "Đạo đế.",
+    "explanation": ""
+  },
+  {
+    "question": "8. Trong Tứ diệu đế, Ngũ căn thuộc trong chi phần nào?",
+    "choice1": "Khổ đế.",
+    "choice2": "Tập đế.",
+    "choice3": "Diệt đế.",
+    "choice4": "Đạo đế.",
+    "answer": "Đạo đế.",
+    "explanation": ""
+  }
+]

@@ -56,6 +56,11 @@ if (currentRegion === 'district') {
     NUM_LESSONS = 20;
 }
 
+if (currentRegion === 'city'){
+    TOTAL_QUESTIONS = 80;
+    NUM_LESSONS = 20;
+}
+
 
 let MAX_QUESTIONS;
 

@@ -1,0 +1,119 @@
+[
+  {
+    "question": "138. Lòng Từ bi theo Phật giáo là gì?",
+    "choice1": "Ban vui, cứu khổ.",
+    "choice2": "Yêu thương.",
+    "choice3": "Bác ái.",
+    "choice4": "Bi mẫn.",
+    "answer": "Ban vui, cứu khổ.",
+    "explanation": ""
+  },
+  {
+    "question": "139. Quán Từ bi là gì?",
+    "choice1": "Trải tâm từ đến tất cả mọi loài.",
+    "choice2": "Trải tâm từ, đem niềm vui, cứu khổ đến mọi loài.",
+    "choice3": "Thể hiện lòng bác ái đến tất cả mọi loài chúng sanh.",
+    "choice4": "Thể hiện lòng thương bình đẳng không phân biệt đến mọi loài chúng sanh.",
+    "answer": "Trải tâm từ, đem niềm vui, cứu khổ đến mọi loài.",
+    "explanation": ""
+  },
+  {
+    "question": "140. Lợi ích của pháp quán từ bi là gì?",
+    "choice1": "Khi thức hay ngủ đều được an vui.",
+    "choice2": "Hiện tại được nhiều người thương.",
+    "choice3": "Sống trong đời không bị tai nạn, trộm cướp.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "141. Quán từ bi để đối trị gì?",
+    "choice1": "Tâm sân hận.",
+    "choice2": "Tâm tham dục.",
+    "choice3": "Tâm chấp ngã.",
+    "choice4": "Tâm si mê.",
+    "answer": "Tâm sân hận.",
+    "explanation": ""
+  },
+  {
+    "question": "142. Quán từ bi bao gồm tất cả muôn loài thuộc về phương diện nào?",
+    "choice1": "Phương diện thời gian.",
+    "choice2": "Phương diện thế gian.",
+    "choice3": "Đáp án a, b đều đúng.",
+    "choice4": "Phương diện không gian.",
+    "answer": "Phương diện không gian.",
+    "explanation": ""
+  },
+  {
+    "question": "143. Thứ bậc của pháp quán từ bi là gì?",
+    "choice1": "Chúng sanh duyên từ, pháp duyên từ, vô duyên từ.",
+    "choice2": "Pháp duyên từ, chúng sanh duyên từ, vô duyên từ.",
+    "choice3": "Vô duyên từ, chúng sanh duyên từ, pháp duyên từ.",
+    "choice4": "Chúng sanh duyên từ, vô duyên từ, pháp duyên từ.",
+    "answer": "Chúng sanh duyên từ, pháp duyên từ, vô duyên từ.",
+    "explanation": ""
+  },
+  {
+    "question": "144. Quán chúng sanh duyên từ là gì?",
+    "choice1": "Quan sát cảnh khổ của chúng sanh mà phát khởi lòng từ bi.",
+    "choice2": "Quan sát cảnh khổ của chúng hữu tình mà phát khởi lòng từ bi.",
+    "choice3": "Quan sát cảnh khổ của mọi loài mà phát khởi lòng từ bi.",
+    "choice4": "Quan sát cảnh khổ của chúng sanh, chúng hữu tình và mọi loài mà phát khởi lòng từ bi.",
+    "answer": "Quan sát cảnh khổ của chúng sanh, chúng hữu tình và mọi loài mà phát khởi lòng từ bi.",
+    "explanation": ""
+  },
+  {
+    "question": "145. Chúng sanh duyên từ là pháp quán dành cho bậc nào?",
+    "choice1": "Bậc thượng căn.",
+    "choice2": "Bậc trung căn.",
+    "choice3": "Bậc hạ căn.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Bậc hạ căn.",
+    "explanation": ""
+  },
+  {
+    "question": "146. Quán pháp duyên từ là gì?",
+    "choice1": "Lòng từ bi do duyên pháp tánh mà phát khởi.",
+    "choice2": "Lòng từ bi do duyên chúng sanh mà phát khởi.",
+    "choice3": "Lòng từ bi do duyên môi trường mà phát khởi.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Lòng từ bi do duyên pháp tánh mà phát khởi.",
+    "explanation": ""
+  },
+  {
+    "question": "147. Phương pháp quán pháp duyên từ là gì?",
+    "choice1": "Quán tất cả chúng sanh đều đồng một pháp giới tánh.",
+    "choice2": "Phân biệt nam nữ, quan niệm mình khác người.",
+    "choice3": "Tất cả chúng sanh đều có nhân duyên khác nhau.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Quán tất cả chúng sanh đều đồng một pháp giới tánh.",
+    "explanation": ""
+  },
+  {
+    "question": "148. Quán pháp duyên từ là pháp quán dành cho bậc nào?",
+    "choice1": "Bậc thượng căn.",
+    "choice2": "Bậc trung căn.",
+    "choice3": "Bậc hạ căn.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Bậc trung căn.",
+    "explanation": ""
+  },
+  {
+    "question": "149. Vô duyên từ là pháp quán dành cho bậc nào?",
+    "choice1": "Bậc thượng căn.",
+    "choice2": "Bậc trung căn.",
+    "choice3": "Bậc hạ căn.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Bậc thượng căn.",
+    "explanation": ""
+  },
+  {
+    "question": "150. Trong quán pháp duyên từ, khi bệnh nhân trúng tên độc, hành giả như một bác sĩ chữa vết thương cần phải làm việc nào trước?",
+    "choice1": "Hỏi thân nhân của bệnh nhân.",
+    "choice2": "Rút mũi tên độc đó ra.",
+    "choice3": "Điều tra hung thủ.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Rút mũi tên độc đó ra.",
+    "explanation": ""
+  }
+]

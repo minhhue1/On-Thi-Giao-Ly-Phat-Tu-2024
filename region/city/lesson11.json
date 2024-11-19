@@ -1,0 +1,56 @@
+[
+  {
+    "question": "120. Pháp quán sổ tức là gì?",
+    "choice1": "Đếm hơi thở.",
+    "choice2": "Tập trung tâm trí.",
+    "choice3": "Đình chỉ tâm tán loạn.",
+    "choice4": "Đáp án b và c.",
+    "answer": "Đếm hơi thở.",
+    "explanation": ""
+  },
+  {
+    "question": "121. Phương pháp đếm hơi thở như thế nào?",
+    "choice1": "Đếm hơi lẻ hay đếm hơi chẵn.",
+    "choice2": "Đếm thuận hay đếm nghịch.",
+    "choice3": "Có thể thay đổi phương pháp đếm, để đạt kết quả tốt nhất.",
+    "choice4": "Đáp án a và b đều đúng.",
+    "answer": "Đáp án a và b đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "122. Quán sổ tức phù hợp với đối tượng nào?",
+    "choice1": "Giới xuất gia.",
+    "choice2": "Giới tại gia.",
+    "choice3": "Giới xuất gia và tại gia.",
+    "choice4": "Người chuyên tu.",
+    "answer": "Giới xuất gia và tại gia.",
+    "explanation": ""
+  },
+  {
+    "question": "123. Hiệu quả của pháp quán sổ tức là gì?",
+    "choice1": "Tâm trí hết tán loạn.",
+    "choice2": "Trí tuệ phát sinh.",
+    "choice3": "Vô minh chấm dứt và bản tâm thanh tịnh.",
+    "choice4": "Tâm trí hết tán loạn và phát sinh trí tuệ.",
+    "answer": "Tâm trí hết tán loạn và phát sinh trí tuệ.",
+    "explanation": ""
+  },
+  {
+    "question": "124. Công dụng của pháp quán sổ tức là gì?",
+    "choice1": "Đối trị lòng sân hận.",
+    "choice2": "Đối trị lòng tham dục.",
+    "choice3": "Đối trị chấp ngã.",
+    "choice4": "Đối trị tâm tán loạn.",
+    "answer": "Đối trị tâm tán loạn.",
+    "explanation": ""
+  },
+  {
+    "question": "125. Những sai lầm thường xảy ra khi đếm hơi thở là gì?",
+    "choice1": "Tăng, giảm và vô ký.",
+    "choice2": "Tạp niệm, không tập trung.",
+    "choice3": "Đếm nhiều hoặc đếm ít.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Đáp án a, b và c đều đúng.",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "question": "82. Tứ như ý túc là gì?",
+    "choice1": "Là bốn điều mong cầu đạt được như ý.",
+    "choice2": "Là bốn pháp tu tập.",
+    "choice3": "Là bốn pháp làm nơi nương tựa cho các công đức thiền định, thần thông được thành tựu mỹ mãn như ý.",
+    "choice4": "Gồm đáp a và b.",
+    "answer": "Là bốn pháp làm nơi nương tựa cho các công đức thiền định, thần thông được thành tựu mỹ mãn như ý.",
+    "explanation": ""
+  },
+  {
+    "question": "83. Tứ như ý túc gồm những gì?",
+    "choice1": "Ly dục, tinh tấn, nhất tâm và quán như ý túc.",
+    "choice2": "Dục như ý túc, tinh tấn như ý túc, nhất tâm như ý túc và quán như ý túc.",
+    "choice3": "Dục như ý túc, tinh tấn như ý túc, nhất tâm như ý túc và niệm như ý túc.",
+    "choice4": "Dục, tinh tấn, nhất tâm và trí huệ.",
+    "answer": "Dục như ý túc, tinh tấn như ý túc, nhất tâm như ý túc và quán như ý túc.",
+    "explanation": ""
+  },
+  {
+    "question": "84. Dục như ý túc là gì?",
+    "choice1": "Mong muốn một cách thiết tha.",
+    "choice2": "Mong muốn cho kỳ được.",
+    "choice3": "Mong muốn cho đến khi mãn nguyện mới thôi.",
+    "choice4": "Gồm đáp a, b và c.",
+    "answer": "Gồm đáp a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "85. Câu nào sau đây giải nghĩa được Dục như ý túc?",
+    "choice1": "Khi phát nguyện thọ trì, bất cứ giá nào cũng phải đạt cho được như ý.",
+    "choice2": "Mong muốn một cách thiết tha, mong muốn cho kỳ được mới thôi.",
+    "choice3": "Sự mong muốn về điều thiện tích cực thuần nhất, định lực phát sanh dẫn đến sự thành tựu như ý.",
+    "choice4": "Mong muốn và tư duy quán chiếu các pháp môn một cách thông suốt.",
+    "answer": "Sự mong muốn về điều thiện tích cực thuần nhất, định lực phát sanh dẫn đến sự thành tựu như ý.",
+    "explanation": ""
+  },
+  {
+    "question": "86. Nhất tâm như ý túc là gì?",
+    "choice1": "Tâm không nghĩ tưởng.",
+    "choice2": "Tâm được chuyên nhất.",
+    "choice3": "Tâm không bị tán loạn.",
+    "choice4": "Nhất tâm là tâm chuyên nhất vào định cảnh, không bao giờ tán loạn.",
+    "answer": "Nhất tâm là tâm chuyên nhất vào định cảnh, không bao giờ tán loạn.",
+    "explanation": ""
+  },
+  {
+    "question": "87. Tinh tấn như ý túc là gì?",
+    "choice1": "Tinh tấn là nỗ lực thực hiện ước muốn.",
+    "choice2": "Tinh tấn tu tập thiền định.",
+    "choice3": "Tinh tấn dũng mãnh, chuyên nhất vào pháp thiền định mình đang tu.",
+    "choice4": "Tinh tấn tu tập không gián đoạn.",
+    "answer": "Tinh tấn dũng mãnh, chuyên nhất vào pháp thiền định mình đang tu.",
+    "explanation": ""
+  },
+  {
+    "question": "88. Quán như ý túc là gì?",
+    "choice1": "Dùng sự nhất tâm sáng suốt quán sát pháp.",
+    "choice2": "Dùng trí tuệ sáng suốt quán sát pháp mình đang tu.",
+    "choice3": "Luôn quán sát pháp mình đang tu.",
+    "choice4": "Dùng sự tinh tấn quán sát pháp mình đang tu.",
+    "answer": "Dùng trí tuệ sáng suốt quán sát pháp mình đang tu.",
+    "explanation": ""
+  },
+  {
+    "question": "89. Câu nào sau đây giải nghĩa được Nhất tâm như ý túc?",
+    "choice1": "Nhất tâm tu tập vào cảnh định của tứ thiền.",
+    "choice2": "Nhất tâm chuyên vào một cảnh (đề mục) không tán loạn mà định lực phát khởi như ý.",
+    "choice3": "Nhất tâm tu tập vào cảnh định của thiền tứ không.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Nhất tâm chuyên vào một cảnh (đề mục) không tán loạn mà định lực phát khởi như ý.",
+    "explanation": ""
+  }
+]
