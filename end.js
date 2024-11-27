@@ -163,7 +163,8 @@ const lessonVideos = {
 
     },
     city: {
-        1: { url: "https://www.youtube.com/embed/HAtEJQ0f7GM" }
+        1: { url: "https://www.youtube.com/embed/HAtEJQ0f7GM" },
+        4: { url: "https://www.youtube.com/embed/Y8tiXqWmifc?si=ivAKWq098rY2HblQ"}
     }
 };
 
