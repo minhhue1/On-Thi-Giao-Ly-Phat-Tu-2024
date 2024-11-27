@@ -6,7 +6,10 @@
     "choice3": "Cải thiện tự thân, cải thiện hoàn cảnh, chứng quả Bồ đề.",
     "choice4": "Siêng năng làm lành, ghi nhớ pháp tu, thiền định kiên cố.",
     "answer": "Cải thiện tự thân, cải thiện hoàn cảnh, chứng quả Bồ đề.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "110. Chánh nghiệp là gì?",
@@ -15,7 +18,10 @@
     "choice3": "Suy nghĩ chân chánh.",
     "choice4": "Gồm đáp án a, b và c.",
     "answer": "Gồm đáp án a, b và c.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "111. Giữ thân, miệng, ý không tạo nghiệp bất thiện, thuộc về gì?",
@@ -24,7 +30,10 @@
     "choice3": "Chánh tinh tấn.",
     "choice4": "Chánh mạng.",
     "answer": "Chánh nghiệp.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "112. Chánh mạng trong Bát chánh đạo có nghĩa là gì?",
@@ -33,7 +42,10 @@
     "choice3": "Hành động đúng pháp luật.",
     "choice4": "Đáp án a và b.",
     "answer": "Sinh sống bằng nghề chân chính, đúng chánh pháp, lợi ích cho người và vật.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "113. Thực hành Bát chánh đạo có lợi ích gì?",
@@ -42,7 +54,10 @@
     "choice3": "Dứt được một phần phiền não.",
     "choice4": "Thành tựu đạo nghiệp, chứng quả Niết bàn.",
     "answer": "Thành tựu đạo nghiệp, chứng quả Niết bàn.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "114. Hành trì Bát chánh đạo, pháp nào tu đầu tiên?",
@@ -51,7 +66,10 @@
     "choice3": "Chánh tín.",
     "choice4": "Chánh kiến.",
     "answer": "Chánh kiến.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "115. Muốn đạt được sự nghiệp giác ngộ giải thoát an lạc, phải vun trồng sự nghiệp gì?",
@@ -60,7 +78,10 @@
     "choice3": "Chánh kiến.",
     "choice4": "Trí huệ.",
     "answer": "Trí huệ.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "116. Lời nói chơn thật, hữu ích thuộc chi phần nào?",
@@ -69,7 +90,10 @@
     "choice3": "Chánh mạng.",
     "choice4": "Chánh tinh tấn.",
     "answer": "Chánh ngữ.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "117. Người luôn luôn làm việc lợi mình lợi người thuộc chi phần nào?",
@@ -78,7 +102,10 @@
     "choice3": "Chánh nghiệp.",
     "choice4": "Chánh tuệ.",
     "answer": "Chánh nghiệp.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "118. Sống bằng nghề nghiệp lương thiện thuộc chi phần nào?",
@@ -87,7 +114,10 @@
     "choice3": "Chính tinh tấn.",
     "choice4": "Chánh mạng.",
     "answer": "Chánh mạng.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "119. Sự không xao lãng, ghi nhớ pháp môn, tâm an tịnh thuộc chi phần nào?",
@@ -96,6 +126,9 @@
     "choice3": "Chánh tư duy.",
     "choice4": "Chánh tinh tấn.",
     "answer": "Chánh niệm.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   }
 ]

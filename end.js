@@ -164,7 +164,11 @@ const lessonVideos = {
     },
     city: {
         1: { url: "https://www.youtube.com/embed/HAtEJQ0f7GM" },
-        4: { url: "https://www.youtube.com/embed/Y8tiXqWmifc?si=ivAKWq098rY2HblQ"}
+        4: { url: "https://www.youtube.com/embed/Y8tiXqWmifc?si=ivAKWq098rY2HblQ" },
+        5: { url: "https://www.youtube.com/embed/NjbV2uPJ-dg?si=9VmndFKFTHR_WUvp" },
+        6: { url: "https://www.youtube.com/embed/6tqugmRLUcc?si=UuYc3RV5zUNiMsKZ" },
+        7: { url: "https://www.youtube.com/embed/6M1UCYIw6q8?si=1wOkQ-T_NuGw3hfY" },
+        8: { url: "https://www.youtube.com/embed/0T0Rl5lxLOY?si=h5bKA9lQdLOhR7og" }
     }
 };
 

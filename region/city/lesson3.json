@@ -6,7 +6,10 @@
     "choice3": "Là phiền não mê lầm, kiến hoặc và tư hoặc.",
     "choice4": "Đáp án a, b và c.",
     "answer": "Đáp án a, b và c.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "27. Tập đế thuộc về nhân hay quả?",
@@ -15,7 +18,10 @@
     "choice3": "Không thể xác định.",
     "choice4": "Vừa nhân vừa là quả.",
     "answer": "Thuộc về Nhân.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "28. Căn bản phiền não là gì?",
@@ -24,7 +30,10 @@
     "choice3": "Thân kiến, biên kiến, kiến thủ, giới cấm thủ, tà kiến.",
     "choice4": "Gồm đáp án a và c.",
     "answer": "Gồm đáp án a và c.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "29. Biểu hiện của Tham là gì?",
@@ -33,7 +42,10 @@
     "choice3": "Được bao nhiêu cũng không cảm thấy đủ.",
     "choice4": "Đáp án a, b và c đều đúng.",
     "answer": "Đáp án a, b và c đều đúng.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "30. Biểu hiện của Sân là gì?",
@@ -42,7 +54,10 @@
     "choice3": "Gặp cảnh trái ý nghịch lòng, tỏ vẻ sợ hãi.",
     "choice4": "Đáp án a và b đều đúng.",
     "answer": "Đáp án a và b đều đúng.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "31. Biểu hiện của Si là gì?",
@@ -51,7 +66,10 @@
     "choice3": "Không phân biệt được tình cảm, lý trí và tình yêu thương.",
     "choice4": "Đáp án a và b đều đúng.",
     "answer": "Đáp án a và b đều đúng.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "32. Tác hại của Si là gì?",
@@ -60,7 +78,10 @@
     "choice3": "Khiến con người gây ra tội lỗi hại mình, hại người mà không hay.",
     "choice4": "Đáp án a, b và c.",
     "answer": "Đáp án a, b và c.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "33. Tam độc là gì?",
@@ -69,7 +90,10 @@
     "choice3": "Ganh ghét, bỏn sẻn, sân hận.",
     "choice4": "Tham ái, tham dục, tham lam.",
     "answer": "Tham lam, sân hận, si mê.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "34. Biểu hiện của Kiêu mạn là gì?",
@@ -78,7 +102,10 @@
     "choice3": "Ỷ mình có tiền của, tài trí, quyền thế mà khinh khi, lấn áp người khác.",
     "choice4": "Đáp án a, b và c đều đúng.",
     "answer": "Đáp án a, b và c đều đúng.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "35. Ngã mạn có nghĩa là gì?",
@@ -87,7 +114,10 @@
     "choice3": "Ỷ mình hay giỏi mà lấn lướt người.",
     "choice4": "Đáp án a, b và c.",
     "answer": "Ỷ mình hay giỏi mà lấn lướt người.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "36. Biểu hiện của Nghi là gì?",
@@ -96,7 +126,10 @@
     "choice3": "Thường nghi ngờ nhân quả, nghiệp báo.",
     "choice4": "Đáp án a, b và c đều đúng.",
     "answer": "Đáp án a, b và c đều đúng.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "37. Ba phương diện của Nghi là gì?",
@@ -105,7 +138,10 @@
     "choice3": "Nghi Phật, nghi pháp và nghi Tăng.",
     "choice4": "Đáp án a và b đều đúng.",
     "answer": "Đáp án a và b đều đúng.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "38. Biểu hiện của Thân kiến là gì?",
@@ -114,7 +150,10 @@
     "choice3": "Lo thâu tóm góp nhặt của cải, món ngon vật lạ, công danh địa vị cho cái “ta”, chà đạp lên bao nhiêu cái ta khác.",
     "choice4": "Đáp án a và b đều đúng.",
     "answer": "Đáp án a và b đều đúng.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "39. Biểu hiện của Biên kiến là gì?",
@@ -123,7 +162,10 @@
     "choice3": "Chấp chặt quan điểm của chính mình.",
     "choice4": "Đáp án a và b đều đúng.",
     "answer": "Đáp án a và b đều đúng.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "40. Các phương diện của Kiến thủ là gì?",
@@ -132,7 +174,10 @@
     "choice3": "Chấp sai lầm, trái với sự thật và luật nhân quả.",
     "choice4": "Đáp án a và b đều đúng.",
     "answer": "Đáp án a và b đều đúng.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "41. Giới cấm thủ nghĩa là gì?",
@@ -141,7 +186,10 @@
     "choice3": "Là làm theo lời răn cấm của ngoại đạo tà giáo.",
     "choice4": "Đáp án b và c đều đúng.",
     "answer": "Đáp án b và c đều đúng.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "42. Tà kiến nghĩa là gì?",
@@ -150,7 +198,10 @@
     "choice3": "Là chấp chặt luôn làm theo ý mình.",
     "choice4": "Đáp án a và b đều đúng.",
     "answer": "Đáp án a và b đều đúng.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "43. “Kiết sử” trong Phật giáo gồm những gì?",
@@ -159,7 +210,10 @@
     "choice3": "Năm độn sử và năm lợi sử.",
     "choice4": "Đáp án a, b và c.",
     "answer": "Năm độn sử và năm lợi sử.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "44. Hãy cho biết “Tham, sân, si, mạn, nghi” thuộc về nhóm phiền não nào?",
@@ -168,7 +222,10 @@
     "choice3": "Ngũ dục sử.",
     "choice4": "Đáp án a, b và c.",
     "answer": "Ngũ độn sử.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "45. Kiến hoặc trong Tam giới có bao nhiêu kiết sử?",
@@ -177,7 +234,10 @@
     "choice3": "88 sử.",
     "choice4": "108 sử.",
     "answer": "88 sử.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "46. Tư hoặc trong Tam giới có bao nhiêu kiết sử?",
@@ -186,7 +246,10 @@
     "choice3": "88 sử.",
     "choice4": "108 sử.",
     "answer": "81 sử.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "47. Kiến thủ là gì?",
@@ -195,7 +258,10 @@
     "choice3": "Bảo thủ ý kiến của mình bất luận đúng hay sai.",
     "choice4": "Chấp cho sự hiểu biết của mình là đúng, nên chẳng sửa đổi.",
     "answer": "Bảo thủ ý kiến của mình bất luận đúng hay sai.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "48. Theo Phật giáo Bắc truyền, năm món Lợi sử là gì?",
@@ -204,7 +270,10 @@
     "choice3": "Tham, sân, thùy miên, trạo cử, nghi.",
     "choice4": "Đáp án a và b.",
     "answer": "Thân kiến, biên kiến, kiến thủ, giới cấm thủ, tà kiến.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "49. Theo Phật giáo Bắc truyền, năm món Độn sử là gì?",
@@ -213,7 +282,10 @@
     "choice3": "Sắc, thanh, hương, vị, xúc.",
     "choice4": "Nhãn, nhĩ, tỷ, thiệt, thân.",
     "answer": "Tham, sân, si, mạn, nghi.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "50. Ỷ mình giỏi mà lấn lướt người, thuộc về loại kiêu mạn nào?",
@@ -222,6 +294,9 @@
     "choice3": "Mạn quá mạn.",
     "choice4": "Đáp án a và b đều đúng.",
     "answer": "Ngã mạn.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   }
 ]

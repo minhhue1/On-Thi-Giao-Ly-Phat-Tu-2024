@@ -6,7 +6,10 @@
     "choice3": "Nội minh, công minh, nhân minh, thanh minh và y phương minh.",
     "choice4": "Công xảo minh, nhân minh, thanh minh, y phương minh và công minh.",
     "answer": "Nội minh, nhân minh, thanh minh, công xảo minh và y phương minh.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "206. Nội minh là gì?",
@@ -15,7 +18,10 @@
     "choice3": "Phải hiểu về tâm của mình.",
     "choice4": "Phải thấy biết những diễn biến xảy ra trong môi trường, đời sống tu tập hiện tại.",
     "answer": "Phải có kiến thức về nội điển (kinh, luật, luận) vững chắc.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "207. Nhân minh là gì?",
@@ -24,7 +30,10 @@
     "choice3": "Thông về văn chương.",
     "choice4": "Thông về kỷ xảo.",
     "answer": "Thông về biện luận.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "208. Thanh minh có nghĩa là gì?",
@@ -33,7 +42,10 @@
     "choice3": "Liên quan đến ngôn ngữ, văn tự, và văn học.",
     "choice4": "Đáp án a và b.",
     "answer": "Liên quan đến ngôn ngữ, văn tự, và văn học.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "209. Thông qua ngũ minh, Phật giáo thể hiện được tinh thần gì nổi bật?",
@@ -42,6 +54,9 @@
     "choice3": "Nhập thế.",
     "choice4": "Đáp án b và c.",
     "answer": "Đáp án b và c.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   }
 ]

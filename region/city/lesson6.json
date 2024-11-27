@@ -6,7 +6,10 @@
     "choice3": "Là bốn pháp đoạn trừ tham, sân, si.",
     "choice4": "Gồm đáp án a và b.",
     "answer": "Gồm đáp án a và b.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "https://www.youtube.com/embed/6tqugmRLUcc?si=UuYc3RV5zUNiMsKZ",
+    "start": "0:57",
+    "end": "2:11"
   },
   {
     "question": "78. Mục đích việc tu tập của Tứ chánh cần là gì?",
@@ -15,7 +18,10 @@
     "choice3": "Tinh tấn đoạn trừ tham, sân, si, tu tập tín, hạnh, nguyện.",
     "choice4": "Đáp án a, b và c.",
     "answer": "Tinh tấn ngăn ngừa và đoạn trừ điều ác, thực thi và phát triển những điều lành.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "https://www.youtube.com/embed/6tqugmRLUcc?si=UuYc3RV5zUNiMsKZ",
+    "start": "2:14",
+    "end": "4:38"
   },
   {
     "question": "79. Tinh tấn ngăn ngừa những điều ác chưa phát sinh là gì?",
@@ -24,7 +30,10 @@
     "choice3": "Tinh tấn đoạn trừ tham, sân chưa sanh khởi.",
     "choice4": "Đáp án a, b và c.",
     "answer": "Tâm chưa móng tưởng điều ác thì ráng giữ gìn, đừng cho phát khởi lên.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "https://www.youtube.com/embed/6tqugmRLUcc?si=UuYc3RV5zUNiMsKZ",
+    "start": "4:41",
+    "end": "6:48"
   },
   {
     "question": "80. Chọn câu trả lời đúng nhất về đối tượng thiện của Phật giáo?",
@@ -33,7 +42,10 @@
     "choice3": "Làm lành với mọi khả năng và điều kiện.",
     "choice4": "Làm những việc lợi mình và lợi chúng sanh trong hiện tại cũng như tương lai.",
     "answer": "Làm những việc lợi mình và lợi chúng sanh trong hiện tại cũng như tương lai.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "https://www.youtube.com/embed/6tqugmRLUcc?si=UuYc3RV5zUNiMsKZ",
+    "start": "6:51",
+    "end": "8:41"
   },
   {
     "question": "81. Trước làm việc bất thiện, nay quyết tâm từ bỏ gọi là gì trong Tứ chánh cần?",
@@ -42,6 +54,9 @@
     "choice3": "Tinh tấn phát triển điều thiện chưa sanh.",
     "choice4": "Tinh tấn phát triển điều thiện đã sanh.",
     "answer": "Tinh tấn dứt trừ những điều ác đã sanh.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "https://www.youtube.com/embed/6tqugmRLUcc?si=UuYc3RV5zUNiMsKZ",
+    "start": "8:45",
+    "end": "10:14"
   }
 ]

@@ -6,7 +6,10 @@
     "choice3": "Đáp án a và b.",
     "choice4": "Đất, nước, gió, lửa.",
     "answer": "Vô minh, hành, thức, danh sắc, lục nhập, xúc, thọ, ái, thủ, hữu, sanh, lão tử.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "152. Quán nhân duyên để đối trị gì?",
@@ -15,7 +18,10 @@
     "choice3": "Đối trị chấp ngã.",
     "choice4": "Đối trị si mê.",
     "answer": "Đối trị si mê.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "153. Quán nhân duyên có hai cách là gì?",
@@ -24,7 +30,10 @@
     "choice3": "Quán quá khứ và hiện tại.",
     "choice4": "Quán tự tướng và quán tự thể.",
     "answer": "Quán lưu chuyển và quán hoàn diệt.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "154. Mục đích quán nhân duyên là gì?",
@@ -33,7 +42,10 @@
     "choice3": "Để đối trị cố chấp.",
     "choice4": "Để đối trị ngã chấp và pháp chấp.",
     "answer": "Để đối trị ngã chấp và pháp chấp.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "155. Nhận thức đúng giáo lý duyên khởi sẽ giúp điều gì?",
@@ -42,7 +54,10 @@
     "choice3": "Thấy sự thật đây là cái thấy độc đáo nhất trong lịch sử tôn giáo và triết học xưa nay...",
     "choice4": "Đáp án a, b và c.",
     "answer": "Thấy rõ sự thật của con người, cuộc đời và giá trị hạnh phúc.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "156. Phật dạy, thế nào gọi là “Vô minh”?",
@@ -51,7 +66,10 @@
     "choice3": "Không hiểu rõ các pháp vô thường vô ngã.",
     "choice4": "Đáp án a, b và c đều đúng.",
     "answer": "Đáp án a, b và c đều đúng.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "157. Phật dạy, “Danh sắc” gồm những gì?",
@@ -60,7 +78,10 @@
     "choice3": "Sắc, thanh, hương, vị, xúc và pháp.",
     "choice4": "Tinh thần và thể chất của con người.",
     "answer": "Tinh thần và thể chất của con người.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "158. Phật dạy, “Thủ” gồm những gì?",
@@ -69,7 +90,10 @@
     "choice3": "Luôn tìm phương kế để bảo thủ bản ngã của mình.",
     "choice4": "Đáp án a, b và c.",
     "answer": "Đáp án a, b và c.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "159. Phật dạy, thế nào gọi là “Hữu”?",
@@ -78,7 +102,10 @@
     "choice3": "Nhãn xúc, nhĩ xúc, tỷ xúc, thiệt xúc, thân xúc và ý xúc.",
     "choice4": "Đáp án a, b và c.",
     "answer": "Dục hữu, sắc hữu và vô sắc hữu.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "160. Quán lưu chuyển nghĩa là gì?",
@@ -87,7 +114,10 @@
     "choice3": "Quán sát trạng thái sanh khởi của 12 nhân duyên trong vô thỉ, trong ba đời và trong một niệm của tương lai.",
     "choice4": "Đáp án a, b và c.",
     "answer": "Quán sát trạng thái sanh khởi của 12 nhân duyên trong vô thỉ, trong ba đời và trong một niệm của hiện tại.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "161. Quán hoàn diệt nghĩa là gì?",
@@ -96,7 +126,10 @@
     "choice3": "Đáp án a và b.",
     "choice4": "Quán sát sự lưu chuyển của 12 nhân duyên.",
     "answer": "Quán sát sự tiêu diệt của 12 nhân duyên.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   },
   {
     "question": "162. Quán hoàn diệt có hai pháp quán là gì?",
@@ -105,6 +138,9 @@
     "choice3": "Đáp án a, b đều đúng.",
     "choice4": "Diệt lưu chuyển và tuần hoàn.",
     "answer": "Đáp án a, b đều đúng.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "",
+    "start": "",
+    "end": ""
   }
 ]
