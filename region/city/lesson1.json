@@ -6,7 +6,10 @@
     "choice3": "Tứ Chánh đế.",
     "choice4": "Đáp án a và b đều đúng.",
     "answer": "Đáp án a và b đều đúng.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "https://www.youtube.com/embed/HAtEJQ0f7GM?si=3_8qIzRHJi3NU9yt",
+    "start": "1:15",
+    "end": "2:48"
   },
   {
     "question": "2. Tứ diệu đế gồm những gì?",
@@ -15,7 +18,10 @@
     "choice3": "Khổ, tập, diệt, đạo.",
     "choice4": "Sanh, lão, bệnh, tử.",
     "answer": "Khổ, tập, diệt, đạo.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "https://www.youtube.com/embed/HAtEJQ0f7GM?si=3_8qIzRHJi3NU9yt",
+    "start": "2:50",
+    "end": "5:52"
   },
   {
     "question": "3. Thứ tự Tứ diệu đế?",
@@ -24,7 +30,10 @@
     "choice3": "Khổ đế, tập đế, đạo đế, diệt đế.",
     "choice4": "Khổ đế, đạo đế, tập đế, diệt đế.",
     "answer": "Khổ đế, tập đế, diệt đế, đạo đế.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "https://www.youtube.com/embed/HAtEJQ0f7GM?si=3_8qIzRHJi3NU9yt",
+    "start": "5:53",
+    "end": "9:40"
   },
   {
     "question": "4. Tại sao đức Phật nói Tứ diệu đế theo trình tự Khổ đế trước, Tập đế sau?",
@@ -33,7 +42,10 @@
     "choice3": "Thừa nhận thực trạng thì mới tìm ra giải pháp tốt.",
     "choice4": "Gồm đáp án a, b và c.",
     "answer": "Gồm đáp án a, b và c.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "https://www.youtube.com/embed/HAtEJQ0f7GM?si=3_8qIzRHJi3NU9yt",
+    "start": "9:43",
+    "end": "13:15"
   },
   {
     "question": "5. Trong Tứ diệu đế, chi phần nào là nguyên nhân của khổ?",
@@ -42,7 +54,10 @@
     "choice3": "Diệt đế.",
     "choice4": "Đạo đế.",
     "answer": "Tập đế.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "https://www.youtube.com/embed/HAtEJQ0f7GM?si=3_8qIzRHJi3NU9yt",
+    "start": "13:18",
+    "end": "14:13"
   },
   {
     "question": "6. Trong Tứ diệu đế chi phần nào là Niết bàn?",
@@ -51,7 +66,10 @@
     "choice3": "Diệt đế.",
     "choice4": "Đạo đế.",
     "answer": "Diệt đế.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "https://www.youtube.com/embed/HAtEJQ0f7GM?si=3_8qIzRHJi3NU9yt",
+    "start": "14:16",
+    "end": "15:35"
   },
   {
     "question": "7. Trong Tứ diệu đế, Tứ niệm xứ nằm trong chi phần nào?",
@@ -60,7 +78,10 @@
     "choice3": "Diệt đế.",
     "choice4": "Đạo đế.",
     "answer": "Đạo đế.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "https://www.youtube.com/embed/HAtEJQ0f7GM?si=3_8qIzRHJi3NU9yt",
+    "start": "15:35",
+    "end": "16:38"
   },
   {
     "question": "8. Trong Tứ diệu đế, Ngũ căn thuộc trong chi phần nào?",
@@ -69,6 +90,9 @@
     "choice3": "Diệt đế.",
     "choice4": "Đạo đế.",
     "answer": "Đạo đế.",
-    "explanation": ""
+    "explanation": "",
+    "videoUrl": "https://www.youtube.com/embed/HAtEJQ0f7GM?si=3_8qIzRHJi3NU9yt",
+    "start": "16:39",
+    "end": "17:19"
   }
 ]

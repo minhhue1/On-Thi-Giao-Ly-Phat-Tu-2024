@@ -81,3 +81,21 @@
         padding: 0.8rem 1.5rem;
     }
 }
+
+#videoContainer {
+    position: relative;
+    width: 100%; /* Đảm bảo container chiếm toàn bộ chiều rộng */
+    max-width: 560px; /* Đặt giới hạn chiều rộng tối đa */
+    margin: 0 auto; /* Căn giữa video */
+    overflow: hidden;
+    padding-top: 56.25%; /* Duy trì tỷ lệ khung hình 16:9 */
+}
+
+#videoContainer iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; /* Đảm bảo video chiếm toàn bộ chiều rộng container */
+    height: 100%; /* Điều chỉnh chiều cao tương ứng */
+    border: 0; /* Loại bỏ viền */
+}

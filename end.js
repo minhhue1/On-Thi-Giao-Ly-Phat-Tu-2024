@@ -153,3 +153,50 @@ if (!isNaN(parseInt(currentLesson))) {
     // Ẩn nút nếu `currentLesson` không hợp lệ
     nextLessonBtn.style.display = "none";
 }
+
+// Danh sách video YouTube tương ứng với bài học
+const lessonVideos = {
+    duchoa: {
+
+    },
+    district: {
+
+    },
+    city: {
+        1: { url: "https://www.youtube.com/embed/HAtEJQ0f7GM" }
+    }
+};
+
+if (!isNaN(parseInt(currentLesson))) {
+    const lessonNumber = parseInt(currentLesson);
+    const regionVideos = lessonVideos[currentRegion];
+
+    if (regionVideos && regionVideos[lessonNumber]) {
+        const videoData = regionVideos[lessonNumber];
+        let videoSrc = videoData.url;
+
+        // Kiểm tra và thêm start hoặc end nếu có
+        if (videoData.start) {
+            videoSrc += `?start=${videoData.start}`;
+        }
+        if (videoData.end) {
+            videoSrc += videoData.start ? `&end=${videoData.end}` : `?end=${videoData.end}`;
+        }
+
+        // Tạo iframe
+        const videoIframe = document.createElement('iframe');
+        videoIframe.width = "560";
+        videoIframe.height = "315";
+        videoIframe.src = videoSrc;
+        videoIframe.title = "YouTube video player";
+        videoIframe.frameBorder = "0";
+        videoIframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
+        videoIframe.allowFullscreen = true;
+
+        videoContainer.appendChild(videoIframe);
+    } else {
+        videoContainer.style.display = "none";
+    }
+} else {
+    videoContainer.style.display = "none";
+}

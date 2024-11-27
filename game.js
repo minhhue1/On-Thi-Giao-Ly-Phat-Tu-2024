@@ -280,15 +280,74 @@ function scrollToBottom() {
     });
 }
 
+function convertToSeconds(time) {
+    if (!time) return 0;
+    const parts = time.split(':').map(Number); // Tách phút và giây
+    return parts[0] * 60 + parts[1];          // Tính tổng số giây
+}
+
+// Hàm tạo URL embed với xử lý đúng query string
+function createEmbedUrl(baseUrl, startSeconds, endSeconds) {
+    const hasQueryString = baseUrl.includes("?"); // Kiểm tra URL có query string không
+    let embedUrl = baseUrl;
+
+    if (hasQueryString) {
+        embedUrl += `&start=${startSeconds}`;
+    } else {
+        embedUrl += `?start=${startSeconds}`;
+    }
+
+    if (endSeconds) {
+        embedUrl += `&end=${endSeconds}`;
+    }
+
+    return embedUrl;
+}
+
+
 
 // Hàm mở popup
 function openPopup() {
+    const explanationContent = document.getElementById('explanation-content');
+    const explanationText = document.getElementById('explanation-text');
+
+    // Xóa nội dung cũ trong explanationText
+    explanationText.innerHTML = "";
+
+    // Kiểm tra nếu câu hỏi hiện tại có chứa video
+    if (currentQuestion.videoUrl) {
+        const startSeconds = convertToSeconds(currentQuestion.start || "0:0");
+        const endSeconds = currentQuestion.end ? convertToSeconds(currentQuestion.end) : null;
+
+        // Sử dụng hàm tạo embed URL
+        const embedUrl = createEmbedUrl(currentQuestion.videoUrl, startSeconds, endSeconds);
+
+        // Tạo container chứa iframe
+        const videoContainer = document.createElement('div');
+        videoContainer.classList.add('video-container');
+
+        // Tạo iframe để hiển thị video
+        const iframe = document.createElement('iframe');
+        iframe.src = embedUrl;
+        iframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
+        iframe.allowFullscreen = true;
+
+        // Thêm iframe vào container
+        videoContainer.appendChild(iframe);
+
+        // Thêm video vào phần giải thích
+        explanationText.appendChild(videoContainer);
+    } else {
+        explanationText.innerText = currentQuestion.explanation || "";
+    }
+
     document.getElementById('explanation-popup').style.display = 'block';
-    document.getElementById('explanation-content').style.display = 'flex';
-    // explanationText.innerText = currentQuestion.explanation;
-    explanationText.innerText = ""
+    explanationContent.style.display = 'flex';
+
+    // Tự động cuộn xuống cuối trang khi popup mở
     scrollToBottom();
 }
+
 
 let globalClassToApply;
 let selectedChoice;
