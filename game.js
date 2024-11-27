@@ -301,8 +301,14 @@ function createEmbedUrl(baseUrl, startSeconds, endSeconds) {
         embedUrl += `&end=${endSeconds}`;
     }
 
+    // Thêm enablejsapi=1 vào URL của YouTube
+    if (embedUrl.includes("youtube.com")) {
+        embedUrl += `&enablejsapi=1`;
+    }
+
     return embedUrl;
 }
+
 
 
 
@@ -352,16 +358,38 @@ function openPopup() {
 let globalClassToApply;
 let selectedChoice;
 // Hàm đóng popup
+// Hàm đóng popup
 function closePopup() {
+    const iframe = document.querySelector('#explanation-text iframe');
+    
+    // Nếu iframe có video YouTube, dừng video
+    if (iframe && iframe.src.includes("youtube.com")) {
+        const iframeWindow = iframe.contentWindow;
+
+        // Kiểm tra xem iframe có hỗ trợ API YouTube không
+        if (iframeWindow) {
+            // Gửi lệnh stop video tới YouTube qua postMessage
+            iframeWindow.postMessage('{"event":"command","func":"stopVideo","args":""}', '*');
+        }
+    }
+
+    // Đóng popup và ẩn nội dung
     document.getElementById('explanation-popup').style.display = 'none';
     document.getElementById('explanation-content').style.display = 'none';
+    
+    // Xóa lớp đã chọn khỏi các lựa chọn
     selectedChoice.parentElement.classList.remove(globalClassToApply);
+    
     // Xóa lớp "correct" khỏi tất cả các lựa chọn
     choices.forEach((choice) => {
         choice.parentElement.classList.remove('correct');
     });
-    getNewQuestion()
+
+    // Lấy câu hỏi mới
+    getNewQuestion();
 }
+
+
 
 choices.forEach((choice) => {
     choice.addEventListener('click', (e) => {
