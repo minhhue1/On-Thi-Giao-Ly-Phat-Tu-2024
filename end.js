@@ -171,7 +171,10 @@ const lessonVideos = {
         8: { url: "https://www.youtube.com/embed/0T0Rl5lxLOY?si=h5bKA9lQdLOhR7og" },
         9: { url: "https://www.youtube.com/embed/3d5mg5SiBl8?si=oppuCvw81BBToBuB" },
         10:{ url: "https://www.youtube.com/embed/5D83HbXhDOo?si=rVW_4g868IW-RPVZ" },
-        11:{ url: "https://www.youtube.com/embed/CmaNhHW-_Tw?si=ddcOUOTHv6-kDFmD" }
+        11:{ url: "https://www.youtube.com/embed/CmaNhHW-_Tw?si=ddcOUOTHv6-kDFmD" },
+        12:{ url: "https://www.youtube.com/embed/sP67FjQIT98?si=src2le84rwNRYo56" },
+        13:{ url: "https://www.youtube.com/embed/qq47T-wVMZo?si=1IQoryU_VL4o2jqO" },
+        14:{ url: "https://www.youtube.com/embed/LZhyPIYqVco?si=efRdNWhPCLONLGJU" }
     }
 };
 
