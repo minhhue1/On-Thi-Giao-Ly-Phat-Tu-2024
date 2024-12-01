@@ -317,9 +317,11 @@ function openPopup() {
     const explanationContent = document.getElementById('explanation-content');
     const explanationText = document.getElementById('explanation-text');
     const showExplanationBtn = document.getElementById('showExplanationBtn');
-    // Ẩn nút "Hiện lời giải thích" sau khi nhấn
-    showExplanationBtn.style.display = 'flex';
-    
+    showExplanationBtn.style.display = 'none';
+    if (currentQuestion.videoUrl) {
+        // Show nút "Hiện lời giải thích" sau khi nhấn
+        showExplanationBtn.style.display = 'flex';
+    }
     // Xóa nội dung cũ trong explanationText
     explanationText.innerHTML = "";
 
