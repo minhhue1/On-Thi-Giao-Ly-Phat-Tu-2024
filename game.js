@@ -316,9 +316,26 @@ function createEmbedUrl(baseUrl, startSeconds, endSeconds) {
 function openPopup() {
     const explanationContent = document.getElementById('explanation-content');
     const explanationText = document.getElementById('explanation-text');
-
+    const showExplanationBtn = document.getElementById('showExplanationBtn');
+    // Ẩn nút "Hiện lời giải thích" sau khi nhấn
+    showExplanationBtn.style.display = 'flex';
+    
     // Xóa nội dung cũ trong explanationText
     explanationText.innerHTML = "";
+
+    document.getElementById('explanation-popup').style.display = 'block';
+    explanationContent.style.display = 'flex';
+
+    // Tự động cuộn xuống cuối trang khi popup mở
+    scrollToBottom();
+}
+
+function showExplanation() {
+    const explanationText = document.getElementById('explanation-text');
+    const showExplanationBtn = document.getElementById('showExplanationBtn');
+
+    // Ẩn nút "Hiện lời giải thích" sau khi nhấn
+    showExplanationBtn.style.display = 'none';
 
     // Kiểm tra nếu câu hỏi hiện tại có chứa video
     if (currentQuestion.videoUrl) {
@@ -346,14 +363,7 @@ function openPopup() {
     } else {
         explanationText.innerText = currentQuestion.explanation || "";
     }
-
-    document.getElementById('explanation-popup').style.display = 'block';
-    explanationContent.style.display = 'flex';
-
-    // Tự động cuộn xuống cuối trang khi popup mở
-    scrollToBottom();
 }
-
 
 let globalClassToApply;
 let selectedChoice;
