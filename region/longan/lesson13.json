@@ -1,0 +1,164 @@
+[
+  {
+    "question": "194. Ngũ minh gồm những gì?",
+    "choice1": "Công xảo minh, thanh minh, y phương minh, phát minh và nhân minh.",
+    "choice2": "Nội minh, nhân minh, thanh minh, công xảo minh và y phương minh.",
+    "choice3": "Nội minh, công minh, nhân minh, thanh minh và y phương minh.",
+    "choice4": "Công xảo minh, nhân minh, thanh minh, y phương minh và công minh.",
+    "answer": "Nội minh, nhân minh, thanh minh, công xảo minh và y phương minh.",
+    "explanation": ""
+  },
+  {
+    "question": "195. Nhân minh là gì?",
+    "choice1": "Thông về giáo điển.",
+    "choice2": "Thông về biện luận.",
+    "choice3": "Thông về văn chương.",
+    "choice4": "Thông về kỷ xảo.",
+    "answer": "Thông về biện luận.",
+    "explanation": ""
+  },
+  {
+    "question": "196. Thanh minh có nghĩa là gì?",
+    "choice1": "Liên quan đến vấn đề diễn giải, biện luận, giải thích.",
+    "choice2": "Hướng dẫn nghệ thuật diễn giảng.",
+    "choice3": "Liên quan đến ngôn ngữ văn tự, và văn học.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Liên quan đến ngôn ngữ văn tự, và văn học.",
+    "explanation": ""
+  },
+  {
+    "question": "197. Thông qua ngũ minh, Phật giáo thể hiện được tinh thần gì nổi bật?",
+    "choice1": "Bi quan yếm thế.",
+    "choice2": "Tích cực.",
+    "choice3": "Nhập thế.",
+    "choice4": "Đáp án b và c.",
+    "answer": "Đáp án b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "198. \"Nhân quả đồng thời\" nghĩa là gì?",
+    "choice1": "Trong nhân có quả, trong quả có nhân.",
+    "choice2": "Nhân nào quả nấy.",
+    "choice3": "Nhân và quả xuất hiện cùng lúc.",
+    "choice4": "Nhân và quả ngay trong kiếp này.",
+    "answer": "Nhân và quả xuất hiện cùng lúc.",
+    "explanation": ""
+  },
+  {
+    "question": "199. Theo kinh Nhân Quả nói \"Nhân nào quả nấy\", sao có người ở hiện tại lại gặp dữ, kẻ ác lại gặp lành?",
+    "choice1": "Luật nhân quả vẫn hành lâu ngày có lúc cũng phai trục trặc.",
+    "choice2": "Luật pháp tuy có nhiều quy định chặt chẽ, nhưng cũng có sơ hở.",
+    "choice3": "Nhân quả không chỉ xảy ra trong đời hiện tại, mà còn liên hệ đến 3 đời (quá khứ, hiện tại và vị lai).",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Nhân quả không chỉ xảy ra trong đời hiện tại, mà còn liên hệ đến 3 đời (quá khứ, hiện tại và vị lai).",
+    "explanation": ""
+  },
+  {
+    "question": "200. Do không hiểu luật nhân quả, nên dễ sinh ra điều gì?",
+    "choice1": "Mê tín dị đoan, tin tưởng vào thần quyền.",
+    "choice2": "Sợ hãi vô cớ, vô minh phủ che, lạc vào mê tín.",
+    "choice3": "Lệ thuộc thần linh, sống không hạnh phúc.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "201. Câu nào sau đây thuộc về luật nhân quả?",
+    "choice1": "Đời cha ăn mặn, đời con khát nước.",
+    "choice2": "Bụng làm dạ chịu.",
+    "choice3": "Gieo gió gặt bão.",
+    "choice4": "Đáp án b và c.",
+    "answer": "Đáp án b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "202. Câu nào sau đây là đúng?",
+    "choice1": "Đức Phật là người phát minh ra luật nhân quả.",
+    "choice2": "Nhân quả là một chân lý mà đức Phật đã chứng ngộ.",
+    "choice3": "Chúng ngộ về nhân quả thì không còn bị nhân quả nữa.",
+    "choice4": "Đáp án b và c.",
+    "answer": "Nhân quả là một chân lý mà đức Phật đã chứng ngộ.",
+    "explanation": ""
+  },
+  {
+    "question": "203. Phật tử hiểu thế nào về câu \"Bồ tát sợ nhân, chúng sanh sợ quả\"?",
+    "choice1": "Bồ tát hiểu về nhân quả nên sợ tạo nhân xấu.",
+    "choice2": "Chúng sanh không hiểu nhân quả nên khi quả đến mới lo sợ.",
+    "choice3": "Câu này không đúng vì ai cũng sợ nhân quả.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Đáp án a và b.",
+    "explanation": ""
+  },
+  {
+    "question": "204. Luật Nhân Quả do ai tạo nên?",
+    "choice1": "Do Thần linh.",
+    "choice2": "Do Ngẫu nhiên.",
+    "choice3": "Do Đấng tạo hóa.",
+    "choice4": "Do Định luật tự nhiên.",
+    "answer": "Do Định luật tự nhiên.",
+    "explanation": ""
+  },
+  {
+    "question": "205. Nghiệp có nghĩa là gì?",
+    "choice1": "Những hành vi, lời nói và suy nghĩ cao thượng tốt đẹp.",
+    "choice2": "Hành động tạo tác, hoặc lành hoặc dữ.",
+    "choice3": "Những hành vi, ngôn ngữ và tư tưởng thấp hèn tội lỗi.",
+    "choice4": "Các hành vi, lời nói và suy nghĩ có chủ ý được lập đi lập lại.",
+    "answer": "Các hành vi, lời nói và suy nghĩ có chủ ý được lập đi lập lại.",
+    "explanation": ""
+  },
+  {
+    "question": "206. Theo giáo lý đạo Phật, sau khi chết con người sẽ ra sao?",
+    "choice1": "Chết rồi mất hẳn.",
+    "choice2": "Chết rồi vẫn tái sinh làm người, không thể sinh làm thú vật.",
+    "choice3": "Tùy nghiệp đã tạo mà tái sinh làm người hoặc sinh vào các cõi khác.",
+    "choice4": "Chờ thượng đế phán quyết.",
+    "answer": "Tùy nghiệp đã tạo mà tái sinh làm người hoặc sinh vào các cõi khác.",
+    "explanation": ""
+  },  
+  {
+    "question": "207. Nghiệp nào dẫn con người đi tái sanh và ảnh hưởng mạnh ở kiếp sau rất khó giải trừ?",
+    "choice1": "Cận tử nghiệp và cực trọng nghiệp.",
+    "choice2": "Tích lũy nghiệp và tập quán nghiệp.",
+    "choice3": "Cận tử nghiệp và tập quán nghiệp.",
+    "choice4": "Đáp án a, b.",
+    "answer": "Cận tử nghiệp và cực trọng nghiệp.",
+    "explanation": ""
+  },
+  {
+    "question": "208. Nghiệp thiện của thân là gì?",
+    "choice1": "Không trộm cắp, không nói dối, không sân hận.",
+    "choice2": "Không dâm dục, không nói thêu dệt, không si mê.",
+    "choice3": "Không sát sanh, không trộm cắp, không tà hạnh.",
+    "choice4": "Không tham lam, không dâm dục, không ác khẩu.",
+    "answer": "Không sát sanh, không trộm cắp, không tà hạnh.",
+    "explanation": ""
+  },
+  {
+    "question": "209. Sau khi mạng chung, nghiệp còn tồn tại hay không tồn tại?",
+    "choice1": "Không xác định.",
+    "choice2": "Vừa tồn tại vừa không tồn tại.",
+    "choice3": "Không tồn tại.",
+    "choice4": "Còn tồn tại.",
+    "answer": "Còn tồn tại.",
+    "explanation": ""
+  },
+  {
+    "question": "210. Nghiệp thiện của miệng là gì?",
+    "choice1": "Không dâm dục, không nói lưỡi đôi chiều, không tham lam.",
+    "choice2": "Không nói dối, không nói thêu dệt, không nói lưỡi đôi chiều, không nói lời hung ác.",
+    "choice3": "Không trộm cắp, không sân hận, không nói lời hung ác.",
+    "choice4": "Không si mê, không sát sanh, không nói dối.",
+    "answer": "Không nói dối, không nói thêu dệt, không nói lưỡi đôi chiều, không nói lời hung ác.",
+    "explanation": ""
+  },
+  {
+    "question": "211. Nghiệp thiện của ý là gì?",
+    "choice1": "Không trộm cắp, không nói dối, không si mê.",
+    "choice2": "Không dâm dục, không nói lời hung ác, không tham lam.",
+    "choice3": "Không tham lam, không sân hận, không si mê.",
+    "choice4": "Không sát sanh, không nói thêu dệt, không si mê.",
+    "answer": "Không tham lam, không sân hận, không si mê.",
+    "explanation": ""
+  }  
+]

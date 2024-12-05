@@ -1,0 +1,164 @@
+[
+  {
+    "question": "212. Con người luân hồi trong ba cõi, sáu đường là do gì?",
+    "choice1": "Tham ái.",
+    "choice2": "Chấp thủ.",
+    "choice3": "Chấp ngã.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "213. Luân hồi trong Phật giáo là gì?",
+    "choice1": "Là bánh xe.",
+    "choice2": "Là xoay tròn.",
+    "choice3": "Qua lại, luân chuyển trong luật đạo.",
+    "choice4": "Là xoay chuyên.",
+    "answer": "Qua lại, luân chuyển trong luật đạo.",
+    "explanation": ""
+  },
+  {
+    "question": "214. Lục đạo chúng sanh là những cõi chúng sanh nào?",
+    "choice1": "Trời, A tu la, người, súc sanh, địa ngục, ngạ quỷ.",
+    "choice2": "Trời, người, thiên, thần, địa ngục, ngạ quỹ.",
+    "choice3": "Trời, thần, thiên, địa ngục, người, súc sanh.",
+    "choice4": "Đáp án b và c.",
+    "answer": "Trời, A tu la, người, súc sanh, địa ngục, ngạ quỷ.",
+    "explanation": ""
+  },
+  {
+    "question": "215. Tứ quả Thanh văn gồm những gì?",
+    "choice1": "Tứ gia hạnh, Tu đà hoàn, Tư đà hàm, A na hàm.",
+    "choice2": "Tứ gia hạnh, Tư đà hàm, A na hàm, A la hán.",
+    "choice3": "Tu đà hoàn, Tư đà hàm, A na hàm, A la hán.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Tu đà hoàn, Tư đà hàm, A na hàm, A la hán.",
+    "explanation": ""
+  },
+  {
+    "question": "216. Ngũ uẩn gồm những gì?",
+    "choice1": "Sắc, thọ, tưởng, hành, thức.",
+    "choice2": "Sắc, thanh, hương, vị, xúc.",
+    "choice3": "Tài, sắc, danh, thực, thùy.",
+    "choice4": "Sắc, tài, danh, thực, thùy.",
+    "answer": "Sắc, thọ, tưởng, hành, thức.",
+    "explanation": ""
+  },
+  {
+    "question": "217. Kinh nào đã viết: \"Ba cõi không an giống như nhà lửa\"?",
+    "choice1": "Kinh Pháp Cú.",
+    "choice2": "Kinh Địa Tạng.",
+    "choice3": "Kinh Hoa Nghiêm.",
+    "choice4": "Kinh Pháp Hoa.",
+    "answer": "Kinh Pháp Hoa.",
+    "explanation": ""
+  },
+  {
+    "question": "218. Lời phát nguyện \"Địa ngục vị không thể bất thành Phật\" là trong kinh nào?",
+    "choice1": "Kinh Phô Môn.",
+    "choice2": "Kinh Dược Sư.",
+    "choice3": "Kinh Địa Tạng.",
+    "choice4": "Kinh Di Đà.",
+    "answer": "Kinh Địa Tạng.",
+    "explanation": ""
+  },
+  {
+    "question": "219. Không sân hận được lợi ích gì?",
+    "choice1": "Xa lìa khổ não, giận hờn, tranh cãi.",
+    "choice2": "Tâm nhu hòa ngay thẳng.",
+    "choice3": "Thân tướng trang nghiêm, chúng sanh đều tôn kính.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "220. Pháp tu nào điều phục được hôn trầm thùy miên?",
+    "choice1": "Lạy sám hối.",
+    "choice2": "Đi kinh hành.",
+    "choice3": "Đáp án a và b.",
+    "choice4": "Ngồi thiền định.",
+    "answer": "Đáp án a và b.",
+    "explanation": ""
+  },
+  {
+    "question": "221. Bồ tát nào phát nguyện cứu chúng sinh trong Địa Ngục?",
+    "choice1": "Bồ tát Địa Tạng.",
+    "choice2": "Bồ tát Phổ Hiền.",
+    "choice3": "Bồ tát Văn Thù.",
+    "choice4": "Bồ tát Quán Thế Âm.",
+    "answer": "Bồ tát Địa Tạng.",
+    "explanation": ""
+  },
+  {
+    "question": "222. Câu \"Chó đợi đến già mới niệm Phật, mồ hoang nghĩa địa lắm kẻ thiếu niên\" muốn khuyên Phật tử nên làm gì?",
+    "choice1": "Nên học theo sách Thánh hiền.",
+    "choice2": "Nên hành trì một cách nghiêm mật.",
+    "choice3": "Nên kiên tâm chớ chối bỏ trách nhiệm.",
+    "choice4": "Nên biết vô thường chuyên cần niệm Phật.",
+    "answer": "Nên biết vô thường chuyên cần niệm Phật.",
+    "explanation": ""
+  },
+  {
+    "question": "223. So sánh trí tuệ và tri thức thế gian?",
+    "choice1": "Tri thức thế gian là nhờ sự học tập hay kinh nghiệm cuộc sống mà có được. Còn trí tuệ là thành quả có được nhờ vào công năng tu tập và thể nghiệm bản thân.",
+    "choice2": "Tri thức thế gian chỉ là yếu tố trợ duyên để có thể làm tăng trưởng trí tuệ. Trí tuệ thì soi sáng con đường đưa đến cuộc sống an lạc và giải thoát.",
+    "choice3": "Tri thức thế gian và trí tuệ là tương đồng.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Đáp án a và b.",
+    "explanation": ""
+  },
+  {
+    "question": "224. Phật dạy, thế nào gọi là \"Vô minh\"?",
+    "choice1": "Không hiểu rõ Tứ đế.",
+    "choice2": "Không hiểu rõ Duyên khởi.",
+    "choice3": "Không hiểu rõ Vô ngã.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "225. Người muốn thành tựu pháp quán bất tịnh cần phải làm gì?",
+    "choice1": "Đối trị lòng tham dục, chớ chặn phải chán đời, tự hủy diệt mình.",
+    "choice2": "Dứt trừ vọng niệm tham dục, giác ngộ Phật tánh.",
+    "choice3": "Đáp án a và b.",
+    "choice4": "Thường xuyên tắm rửa thật sạch sẽ.",
+    "answer": "Đáp án a và b.",
+    "explanation": ""
+  },
+  {
+    "question": "226. Sau khi nghe Phật thuyết pháp về thân bất tịnh, có 30 vị Tỳ Kheo đã tự hủy hoại thân mình, làm như thế có đúng không?",
+    "choice1": "Đúng, vì thân dơ nhơ, đâu duy trì làm gì.",
+    "choice2": "Đúng, vì mục đích tu tập để giải thoát tâm, nên phải giải thoát thân trước.",
+    "choice3": "Không đúng, vì Phật dạy cho dù thân bất tịnh, nhưng trong tâm có Phật, cần phải duy trì thân làm phương tiện tu tập.",
+    "choice4": "Đáp án b đúng.",
+    "answer": "Không đúng, vì Phật dạy cho dù thân bất tịnh, nhưng trong tâm có Phật, cần phải duy trì thân làm phương tiện tu tập.",
+    "explanation": ""
+  },
+  {
+    "question": "227. Nhờ thừa lấy gì làm căn bản?",
+    "choice1": "Hiếu thuận với cha mẹ.",
+    "choice2": "Ngũ giới.",
+    "choice3": "Tam quy.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "228. Trước khi ăn phải quán \"Tam đề\" là những pháp nào?",
+    "choice1": "Tam đề gồm: Nguyện đoạn nhất thiết ác; nguyện tu nhất thiết thiện; nguyện độ nhất thiết chúng sanh.",
+    "choice2": "Tam đề gồm: Nguyện không gây điều xấu; nguyện không làm điều tổn hại người, nguyện không gây tranh cãi.",
+    "choice3": "Tam đề gồm: Nguyện đoạn trừ tất cả nghiệp xấu ác; nguyện tu tập tất cả những điều thiện lành; nguyện cứu độ tất cả chúng sanh.",
+    "choice4": "Đáp án a và c.",
+    "answer": "Đáp án a và c.",
+    "explanation": ""
+  },
+  {
+    "question": "229. Câu kệ \"Nguyện thử chung thinh siêu pháp giới, thiết vi u ám tất diêu vân, vân trần thanh tịnh chứng viên thông, nhất thiết chúng sanh thành chánh giác...\" thường được đọc tụng vào lúc nào?",
+    "choice1": "Vào lúc tụng kinh buổi sáng và buổi tối.",
+    "choice2": "Vào lúc thỉnh Đại hồng chung, để chuẩn bị cho thời khóa tụng kinh, thiên tọa vào mỗi buổi sáng, chiều trong các tự viện Phật giáo.",
+    "choice3": "Vào mỗi khi thỉnh Đại hồng chung tại các ngôi chùa.",
+    "choice4": "Đáp án b và c.",
+    "answer": "Đáp án b và c.",
+    "explanation": ""
+  }  
+]

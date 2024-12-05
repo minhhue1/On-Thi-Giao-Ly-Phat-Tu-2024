@@ -1,0 +1,155 @@
+[
+  {
+    "question": "49. Theo lịch sử Phật giáo Bắc tông, khi Thành đạo đức Phật bao nhiêu tuổi?",
+    "choice1": "35 tuổi.",
+    "choice2": "30 tuổi.",
+    "choice3": "29 tuổi.",
+    "choice4": "36 tuổi.",
+    "answer": "30 tuổi.",
+    "explanation": ""
+  },
+  {
+    "question": "50. Đức Phật có bao nhiêu tướng tốt, bao nhiêu vẻ đẹp?",
+    "choice1": "18 tướng tốt, 80 vẻ đẹp.",
+    "choice2": "36 tướng tốt, 32 vẻ đẹp.",
+    "choice3": "32 tướng tốt, 80 vẻ đẹp.",
+    "choice4": "80 tướng tốt, 32 vẻ đẹp.",
+    "answer": "32 tướng tốt, 80 vẻ đẹp.",
+    "explanation": ""
+  },
+  {
+    "question": "51. Theo lịch sử Phật giáo Bắc tông, đức Phật xuất gia vào năm bao nhiêu tuổi?",
+    "choice1": "20 tuổi.",
+    "choice2": "29 tuổi.",
+    "choice3": "35 tuổi.",
+    "choice4": "19 tuổi.",
+    "answer": "19 tuổi.",
+    "explanation": ""
+  },
+  {
+    "question": "52. Sau khi Phật nhập Niết bàn, ai triệu tập hội nghị kiết tập kinh điển lần thứ I?",
+    "choice1": "Tôn giả A Nan.",
+    "choice2": "Tôn giả Ca Diếp.",
+    "choice3": "Tôn giả Ca Chiên Diên.",
+    "choice4": "Tập thể giáo đoàn lãnh đạo.",
+    "answer": "Tôn giả Ca Diếp.",
+    "explanation": ""
+  },
+  {
+    "question": "53. Ai là người cúng dường đức Phật bữa cơm cuối cùng?",
+    "choice1": "Ông Thuần Đà.",
+    "choice2": "Ông Cấp Cô Độc.",
+    "choice3": "Ông Tu Đạt Đà.",
+    "choice4": "Vua Ba Tư Nặc.",
+    "answer": "Ông Thuần Đà.",
+    "explanation": ""
+  },
+  {
+    "question": "54. Theo Phật học Phổ thông, đức Phật nhập Niết bàn ở đâu?",
+    "choice1": "Dưới cây Vô Ưu.",
+    "choice2": "Rừng cây Tất Bát La.",
+    "choice3": "Dưới cội Bồ Đề.",
+    "choice4": "Rừng Sa La.",
+    "answer": "Rừng Sa La.",
+    "explanation": ""
+  },
+  {
+    "question": "55. Những lời dạy sau cùng của đức Phật được ghi trong quyển kinh nào?",
+    "choice1": "Kinh Di Giáo.",
+    "choice2": "Kinh Lăng Nghiêm.",
+    "choice3": "Kinh Hoa Nghiêm.",
+    "choice4": "Kinh Pháp Hoa.",
+    "answer": "Kinh Di Giáo.",
+    "explanation": ""
+  },
+  {
+    "question": "56. Nhà ẩn sĩ Tất Đạt Đa thả bát vàng trôi ngược dòng sông ở đâu?",
+    "choice1": "Sông Hằng.",
+    "choice2": "Sông Kshipra.",
+    "choice3": "Sông Ni Liên Thiền.",
+    "choice4": "Sông Kaveri.",
+    "answer": "Sông Ni Liên Thiền.",
+    "explanation": ""
+  },
+  {
+    "question": "57. Thí chủ nào đã trải vàng mua đất xây cất Tinh xá cúng dường đức Phật và Tăng đoàn?",
+    "choice1": "Thái tử Kỷ Đà.",
+    "choice2": "Ông Thuần Đà.",
+    "choice3": "Trưởng giả Cấp Cô Độc.",
+    "choice4": "Nữ thí chủ Tỳ Xá Khư.",
+    "answer": "Trưởng giả Cấp Cô Độc.",
+    "explanation": ""
+  },
+  {
+    "question": "58. Ngôi Tinh xá đầu tiên cúng dường cho đức Phật và Tăng đoàn được đặt tên là gì?",
+    "choice1": "Kỳ Viên Tinh Xá.",
+    "choice2": "Trúc Lâm Tinh Xá.",
+    "choice3": "Trùng Các Giảng Đường.",
+    "choice4": "Đông Các Giảng Đường.",
+    "answer": "Trúc Lâm Tinh Xá.",
+    "explanation": ""
+  },
+  {
+    "question": "59. Vị đệ tử nào của đức Phật được tôn xưng là \"Thần thông đệ nhất\"?",
+    "choice1": "Tôn giả Ca Diếp.",
+    "choice2": "Tôn giả Xá Lợi Phất.",
+    "choice3": "Tôn giả Mục Kiền Liên.",
+    "choice4": "Tôn giả Phú Lâu Na.",
+    "answer": "Tôn giả Mục Kiền Liên.",
+    "explanation": ""
+  },
+  {
+    "question": "60. Tỳ kheo ni đầu tiên chứng quả A la hán là vị nào?",
+    "choice1": "Bà Da Du Đà La.",
+    "choice2": "Bà Khế Ma.",
+    "choice3": "Bà Mạt Lợi.",
+    "choice4": "Bà Ma Ha Ba Xà Ba Đề.",
+    "answer": "Bà Ma Ha Ba Xà Ba Đề.",
+    "explanation": ""
+  },
+  {
+    "question": "60. Tỳ kheo ni đầu tiên chứng quả A la hán là vị nào?",
+    "choice1": "Bà Da Du Đà La.",
+    "choice2": "Bà Khế Ma.",
+    "choice3": "Bà Mạt Lợi.",
+    "choice4": "Bà Ma Ha Ba Xà Ba Đề.",
+    "answer": "Bà Ma Ha Ba Xà Ba Đề.",
+    "explanation": ""
+  },
+  {
+    "question": "61. Sau khi Thành đạo, đức Phật hóa độ những vị nào đầu tiên?",
+    "choice1": "Phụ hoàng Tịnh Phạn.",
+    "choice2": "Nhóm anh em Da Xá.",
+    "choice3": "Nhóm anh em Kiều Trần Như.",
+    "choice4": "Vua Tần Bà Sa La.",
+    "answer": "Nhóm anh em Kiều Trần Như.",
+    "explanation": ""
+  },
+  {
+    "question": "62. Vì sao Đức Phật quyết định chuyển bánh xe chánh pháp giáo hóa chúng sinh?",
+    "choice1": "Vì tất cả chúng sanh đều có Phật tánh.",
+    "choice2": "Vì bản tánh của chúng sanh vốn thanh tịnh như hoa sen.",
+    "choice3": "Vì tất cả chúng sinh cõi Ta bà đều có Phật tánh, nên có thể chứng được đạo giải thoát giống như Ngài.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "63. Sơ Tổ của Ni giới Phật giáo là vị nào?",
+    "choice1": "Nữ Tôn giả Khema.",
+    "choice2": "Thánh tổ Ni Kiều Đàm Di (Ma Ha Ba Xà Ba Đề).",
+    "choice3": "Nữ tôn giả Uppalavanna (Liên Hoa Lâm).",
+    "choice4": "Nữ tôn giả Patàcàrà (Chi-đà-la-da-đa).",
+    "answer": "Thánh tổ Ni Kiều Đàm Di (Ma Ha Ba Xà Ba Đề).",
+    "explanation": ""
+  },
+  {
+    "question": "64. Thập đại đệ tử Ni của Đức Phật là những vị Thánh tổ Ni giới nào?",
+    "choice1": "Nữ tôn giả Mahapajapati, Nữ tôn giả Khema, Nữ tôn giả Uppalavanna, Nữ tôn giả Dhammadinna, Nữ tôn giả Patacara, Nữ tôn giả Kisagotami, Nữ tôn giả Bimba, Nữ tôn giả Bhadda Kudalakesa, Nữ tôn giả Soma, Nữ tôn giả Nanda.",
+    "choice2": "Nữ tôn giả Liên Hoa Sắc, Nữ tôn giả Khema, Nữ tôn giả Chi Đà La, Nữ Phật tử Tỳ Xá Khu, Hoàng hậu Vi Đề Hy.",
+    "choice3": "Nữ tôn giả Mahapajapati, Nữ tôn giả Khema, Nữ tôn giả Uppalavanna, Nữ Phật tử Tỳ Xá Khu, Hoàng hậu Vi Đề Hy.",
+    "choice4": "Đáp án b và c đều đúng.",
+    "answer": "Nữ tôn giả Mahapajapati, Nữ tôn giả Khema, Nữ tôn giả Uppalavanna, Nữ tôn giả Dhammadinna, Nữ tôn giả Patacara, Nữ tôn giả Kisagotami, Nữ tôn giả Bimba, Nữ tôn giả Bhadda Kudalakesa, Nữ tôn giả Soma, Nữ tôn giả Nanda.",
+    "explanation": ""
+  }
+]

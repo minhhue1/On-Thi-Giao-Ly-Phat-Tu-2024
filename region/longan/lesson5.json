@@ -1,0 +1,173 @@
+[
+  {
+    "question": "76. \"Tam bảo\" gồm những gì?",
+    "choice1": "Giới, định, tuệ.",
+    "choice2": "Vô thường, vô ngã, Niết bàn.",
+    "choice3": "Ba ngôi quý báu Phật, Pháp, Tăng.",
+    "choice4": "Văn, tư, tu.",
+    "answer": "Ba ngôi quý báu Phật, Pháp, Tăng.",
+    "explanation": ""
+  },
+  {
+    "question": "77. Quy y Tam bảo có nghĩa là gì?",
+    "choice1": "Trở về nương tựa với ba ngôi báu tự tâm.",
+    "choice2": "Đến chùa đăng ký quy y Tam bảo.",
+    "choice3": "Phật, Pháp, Tăng là ba ngôi báu ở thế gian.",
+    "choice4": "Trở về nương tựa Phật, Pháp, Tăng.",
+    "answer": "Trở về nương tựa Phật, Pháp, Tăng.",
+    "explanation": ""
+  },
+  {
+    "question": "78. Định nghĩa Phật, Pháp, Tăng là gì?",
+    "choice1": "Phật là bậc giác ngộ hoàn toàn; Pháp là lời dạy của Đức Phật; Tăng là Tăng đoàn hòa hợp của Đức Phật, sống cùng nhau trong nếp sống hòa kính.",
+    "choice2": "Là Tam pháp ấn.",
+    "choice3": "Là đấng tối cao.",
+    "choice4": "Đáp án b và c.",
+    "answer": "Phật là bậc giác ngộ hoàn toàn; Pháp là lời dạy của Đức Phật; Tăng là Tăng đoàn hòa hợp của Đức Phật, sống cùng nhau trong nếp sống hòa kính.",
+    "explanation": ""
+  },
+  {
+    "question": "79. Bổn phận của Phật tử đối với chư Tăng, chư Ni là gì?",
+    "choice1": "Chỉ biết thấy mình.",
+    "choice2": "Chỉ cung kính và nghe theo những vị mình ngưỡng mộ.",
+    "choice3": "Bởi vì chư Tăng Ni là hình mẫu đại diện Tăng đoàn hòa hợp của Đức Phật, nên phải hết lòng cung kính, nương theo chư Tăng, chư Ni để học tập đạo lý và tu tập đúng chánh pháp.",
+    "choice4": "Có quyền quy y nhiều thầy Bổn sư một lúc, hoặc thay đổi theo ý muốn.",
+    "answer": "Bởi vì chư Tăng Ni là hình mẫu đại diện Tăng đoàn hòa hợp của Đức Phật nên phải hết lòng cung kính, nương theo chư Tăng, chư Ni để học tập đạo lý và tu tập đúng chánh pháp.",
+    "explanation": ""
+  },  
+  {
+    "question": "80. Ngũ giới (Năm giới) gồm những giới nào?",
+    "choice1": "Không vụng trộm, không tà tâm, không nói dối, không thật thà, không uống rượu.",
+    "choice2": "Không trộm cắp, không dâm dục, không nói, không nói hai lời, không uống rượu.",
+    "choice3": "Không sát sanh, không trộm cắp, không tà dâm, không nói dối, không uống rượu.",
+    "choice4": "Không sát sanh, không cướp giật, không tà dâm, không nói dối, không sử dụng các chất gây nghiện.",
+    "answer": "Không sát sanh, không trộm cắp, không tà dâm, không nói dối, không uống rượu.",
+    "explanation": ""
+  },
+  {
+    "question": "81. Quy y Phật, quy y pháp, quy y Tăng sẽ không bị đọa lạc vào đâu?",
+    "choice1": "A-tu-la, địa ngục, ngạ quỷ.",
+    "choice2": "Địa ngục, ngạ quỷ, súc sanh.",
+    "choice3": "Ngạ quỷ, A-tu-la, súc sanh.",
+    "choice4": "Súc sanh, thần, A-tu-la.",
+    "answer": "Địa ngục, ngạ quỷ, súc sanh.",
+    "explanation": ""
+  },
+  {
+    "question": "82. Bát quan trai giới là những giới nào?",
+    "choice1": "Không sát sanh, không trộm cắp, không tà dâm, không nói dối, không ăn phi thời.",
+    "choice2": "Không nói dối, không uống rượu, không đeo tràng hoa, xoa hương thơm vào mình, không nằm giường cao tốt trọng đẹp, không ăn phi thời.",
+    "choice3": "Không sát sanh, không trộm cắp, không tà dâm, không nói dối, không uống rượu, không đeo tràng hoa.",
+    "choice4": "Không sát sanh, không trộm cắp, không dâm dục, không nói dối, không uống rượu, không tham gia múa hát và không trang điểm, không nằm ngồi nơi quá cao tốt đẹp, không ăn phi thời.",
+    "answer": "Không sát sanh, không trộm cắp, không tà dâm, không nói dối, không uống rượu, không tham gia múa hát và không trang điểm, không nằm ngồi nơi quá cao tốt đẹp, không ăn phi thời.",
+    "explanation": ""
+  },
+  {
+    "question": "83. Bát quan trai giới là pháp tu dành cho đối tượng nào?",
+    "choice1": "Người tại gia học hạnh xuất gia áp dụng trong 1 ngày 1 đêm.",
+    "choice2": "Người cư sĩ tu hạnh xuất gia trong 24 giờ hoặc tu suốt đời.",
+    "choice3": "Người cư sĩ tu giảm bớt sự dục vọng thế gian.",
+    "choice4": "Người tại gia dũng mãnh tinh tấn.",
+    "answer": "Người tại gia học hạnh xuất gia áp dụng trong 1 ngày 1 đêm.",
+    "explanation": ""
+  },
+  {
+    "question": "84. Vì sao Phật tử phải giữ giới không uống rượu?",
+    "choice1": "Vì rượu làm say mê, tội tăm trí, giảm sức khoẻ, sống tiêu cực, có khả năng phạm pháp.",
+    "choice2": "Vì rượu là nguyên nhân gây nên nhiều tội lỗi, chết đi sanh lại, luân hồi nhiều kiếp trong tối tăm si ám.",
+    "choice3": "Vì rượu làm cho mất kiểm soát lời nói, hành vi và tư duy.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "85. Vì sao Phật tử không nên nằm ngồi giường cao đẹp, rộng lớn trong thời gian tu tập Bát quan trai giới?",
+    "choice1": "Kiệm phước và ngăn ngừa thân xác không cho buông lung.",
+    "choice2": "Để tránh mọi cảm nghĩ khoái lạc của giường cao rộng lớn.",
+    "choice3": "Để tránh cảm giác có thể kích thích lòng ham muốn bất chính của xác thân.",
+    "choice4": "Đáp án a, b, và c.",
+    "answer": "Đáp án a, b, và c.",
+    "explanation": ""
+  },
+  {
+    "question": "86. Khi đang cầm kinh mà muốn xá chào người khác, Phật tử phải làm thế nào?",
+    "choice1": "Không kẹp kinh vào nách và xá chào.",
+    "choice2": "Đặt kinh giữa hai tay và xá chào.",
+    "choice3": "Một tay cầm kinh một tay chào.",
+    "choice4": "Ôm kinh vào ngực, bày tỏ lòng cung kính chắp tay cúi chào, miệng niệm \"Mô Phật\" hoặc \"Nam Mô A Di Đà Phật\".",
+    "answer": "Ôm kinh vào ngực, bày tỏ lòng cung kính chắp tay cúi chào, miệng niệm \"Mô Phật\" hoặc \"Nam Mô A Di Đà Phật\".",
+    "explanation": ""
+  },
+  {
+    "question": "87. Lợi ích của sự giữ giới là gì?",
+    "choice1": "Giới luật chính là bậc thang đầu của đạo quả giác ngộ, là nền tảng của thiền định, trí tuệ.",
+    "choice2": "Giới luật chính là ngọc anh lạc để trang nghiêm pháp thân, là thuyền bè để đưa người qua bể khổ sanh tử.",
+    "choice3": "Giới luật chính là kho tàng vô lượng công đức.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "88. \"Giới như vàng nhật sáng, quý báu như ngọc châu ma ni, các vị Bồ tát đều do trì giới thanh tịnh mà thành Chánh giác\" được trích dẫn từ đâu?",
+    "choice1": "Kinh Thập Thiện Nghiệp.",
+    "choice2": "Kinh Bát Đại Nhân Giác.",
+    "choice3": "Kinh Phạm Võng.",
+    "choice4": "Kinh Di Giáo.",
+    "answer": "Kinh Phạm Võng.",
+    "explanation": ""
+  },
+  {
+    "question": "89. Vì sao Phật giáo cấm sát sinh?",
+    "choice1": "Tôn trọng Phật tánh bình đẳng.",
+    "choice2": "Nuôi dưỡng lòng từ bi và tránh nhân quả oán thù.",
+    "choice3": "Tôn trọng mạng sống.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "90. Giới thứ 4 trong ngũ giới, \"Giới Không Nói Dối\" gồm những cách nói nào?",
+    "choice1": "Nói dối, nói lưỡi đôi chiều, nói lời hung ác.",
+    "choice2": "Không nói dối, không nói thêu dệt, không nói lưỡi hai chiều, không nói lời hung ác.",
+    "choice3": "Nói thêu dệt, nói lưỡi hai chiều, nói lời hung ác.",
+    "choice4": "Nói dối, nói thêu dệt, nói tục, nói lời hung ác.",
+    "answer": "Không nói dối, không nói thêu dệt, không nói lưỡi hai chiều, không nói lời hung ác.",
+    "explanation": ""
+  },
+  {
+    "question": "91. Thọ trì ngũ giới (Năm nguyên tắc đạo đức căn bản) được lợi ích gì?",
+    "choice1": "Ngăn ngừa làm điều sai trái, đem lại an vui, hạnh phúc cho gia đình.",
+    "choice2": "Lợi ích thiết thực cho bản thân, gia đình và xã hội.",
+    "choice3": "Góp phần làm an sinh xã hội.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "92. Theo Phật học phổ thông, Phật tử tại gia cần quy y và thọ trì bao nhiêu giới?",
+    "choice1": "Thọ tam quy và Bát quan trai giới.",
+    "choice2": "Thọ Tam quy và Thập giới.",
+    "choice3": "Thọ Ngũ giới và Tam giới.",
+    "choice4": "Tam quy và ngũ giới.",
+    "answer": "Tam quy và ngũ giới.",
+    "explanation": ""
+  },
+  {
+    "question": "93. Bốn chúng đệ tử của đức Phật gồm những chúng nào?",
+    "choice1": "Tỳ kheo, Tỳ kheo ni, Uu bà tắc và Uu bà di.",
+    "choice2": "Tỳ kheo, Tỳ kheo ni, Cận trụ nam và Cận sự nữ.",
+    "choice3": "Tỳ kheo, Tỳ kheo ni, Sa di, Sa di ni.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Đáp án a và b.",
+    "explanation": ""
+  },
+  {
+    "question": "94. Bổn phận của người Phật tử đối với Tam Bảo là gì?",
+    "choice1": "Hộ trì Tam bảo; giữ vững niềm tin chánh tín đối với Tam Bảo; Không dễ bị lợi dụng, không gây mất niềm tin trong Tăng đoàn; Giữ gìn truyền thống Phật giáo; Bảo vệ đồ vật trong chùa; quý kính Phật, pháp, Tăng; Khuyến khích người hướng thiện và quy hướng về Tam bảo; thờ Phật và trì tụng kinh chú của Phật.",
+    "choice2": "Phụng sự Tam Bảo, xem Tam Bảo là ngôi nhà tâm linh đáng được trân trọng, là nơi bình yên.",
+    "choice3": "Trân quý phụng thờ Phật pháp Tăng.",
+    "choice4": "Quy kính Tam Bảo.",
+    "answer": "Hộ trì Tam bảo; giữ vững niềm tin chánh tín đối với Tam Bảo; Không dễ bị lợi dụng, không gây mất niềm tin trong Tăng đoàn; Giữ gìn truyền thống Phật giáo; Bảo vệ đồ vật trong chùa; quý kính Phật, pháp, Tăng; Khuyến khích người hướng thiện và quy hướng về Tam bảo; thờ Phật và trì tụng kinh chú của Phật.",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "question": "95. Theo Phật giáo Bắc truyền, Niết bàn gồm có mấy loại?",
+    "choice1": "Một loại: Vô thượng Niết bàn.",
+    "choice2": "Hai loại: Vô trụ xứ Niết bàn và Tánh tịnh Niết bàn.",
+    "choice3": "Ba loại: Hữu dư Niết bàn, Vô dư Niết bàn và Vô trụ xứ Niết bàn.",
+    "choice4": "Bốn loại: Hữu dư y Niết bàn, Vô dư y Niết bàn, Vô trụ xứ Niết bàn, Tự tánh thanh tịnh Niết bàn.",
+    "answer": "Bốn loại: Hữu dư y Niết bàn, Vô dư y Niết bàn, Vô trụ xứ Niết bàn, Tự tánh thanh tịnh Niết bàn.",
+    "explanation": ""
+  },
+  {
+    "question": "96. Theo Phật học phổ thông, đức Phật chuyển pháp luân với bài pháp Tế Diện Dà?",
+    "choice1": "Tứ Diệu Đế.",
+    "choice2": "Tứ Chánh Cần.",
+    "choice3": "Tứ Vô Lượng tâm.",
+    "choice4": "Tứ Như Ý Túc.",
+    "answer": "Tứ Diệu Đế.",
+    "explanation": ""
+  },
+  {
+    "question": "97. Tứ thánh đế hay gọi Tứ diệu đế gồm những gì?",
+    "choice1": "Từ, bi, hỷ, xả.",
+    "choice2": "Thường, lạc, ngã, tịnh.",
+    "choice3": "Khổ, tập, diệt, đạo.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Khổ, tập, diệt, đạo.",
+    "explanation": ""
+  },
+  {
+    "question": "98. Theo Phật học phổ thông, khổ đế là gì?",
+    "choice1": "Là những điều làm khổ chịu, đau khổ.",
+    "choice2": "Là chân thật đúng đắn, vững chắc, rõ ràng.",
+    "choice3": "Đáp án a và b.",
+    "choice4": "Là con đường diệt khổ.",
+    "answer": "Đáp án a và b.",
+    "explanation": ""
+  },
+  {
+    "question": "99. Tam khổ trong Khổ đế gồm những gì?",
+    "choice1": "Khổ khổ, hoại khổ, hành khổ.",
+    "choice2": "Ái biệt ly khổ, cầu bất đắc khổ, oán tắng hội khổ.",
+    "choice3": "Già khổ, bệnh khổ, chết khổ.",
+    "choice4": "Thân khổ, tâm khổ, cảm xúc khổ.",
+    "answer": "Khổ khổ, hoại khổ, hành khổ.",
+    "explanation": ""
+  },
+  {
+    "question": "100. Trong Tứ diệu đế, chi phần nào là nguyên nhân của khổ?",
+    "choice1": "Khổ đế.",
+    "choice2": "Tập đế.",
+    "choice3": "Diệt đế.",
+    "choice4": "Đạo đế.",
+    "answer": "Tập đế.",
+    "explanation": ""
+  },
+  {
+    "question": "101. Khổ đế thuộc về nhân hay quả?",
+    "choice1": "Thuộc về nhân.",
+    "choice2": "Thuộc về quả.",
+    "choice3": "Vừa là nhân, vừa là quả.",
+    "choice4": "Không thể xác định.",
+    "answer": "Thuộc về quả.",
+    "explanation": ""
+  },
+  {
+    "question": "102. Bát khổ trong khổ đế gồm những gì?",
+    "choice1": "Khổ khổ, hoại khổ, hành khổ, đau khổ, sanh khổ, lão khổ, bệnh khổ và tử khổ.",
+    "choice2": "Sanh khổ, lão khổ, bệnh khổ, tử khổ, ái biệt ly khổ, cầu bất đắc khổ, oán tắng hội khổ và ngũ ấm xí thạnh khổ.",
+    "choice3": "Đáp án a và b.",
+    "choice4": "Sanh khổ, lão khổ, già khổ, tử khổ, ái biệt ly khổ, cầu bất đắc khổ, oán tăng hội khổ và ngũ ấm xí thạnh khổ.",
+    "answer": "Sanh khổ, lão khổ, bệnh khổ, tử khổ, ái biệt ly khổ, cầu bất đắc khổ, oán tắng hội khổ và ngũ ấm xí thạnh khổ.",
+    "explanation": ""
+  },
+  {
+    "question": "103. “Thấy mặt kẻ thù như kim đâm vào mắt, ở chung với người nghịch như nếm mật nằm gai” câu thơ trên ví cho loại khổ nào?",
+    "choice1": "Khổ do tình duyên ngang trái.",
+    "choice2": "Khổ do thù ghét nhau mà vẫn gặp nhau. (oán tắng hội khổ)",
+    "choice3": "Khổ về tình cảm.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Khổ do thù ghét nhau mà vẫn gặp nhau. (oán tắng hội khổ)",
+    "explanation": ""
+  },
+  {
+    "question": "104. Xa cách người mình thương yêu thuộc về phần nào trong tám khổ?",
+    "choice1": "Cầu bất đắc khổ.",
+    "choice2": "Ái biệt ly khổ.",
+    "choice3": "Oán tắng hội khổ.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Ái biệt ly khổ.",
+    "explanation": ""
+  },
+  {
+    "question": "105. Cầu bất đắc khổ là chỉ cho trường hợp nào?",
+    "choice1": "Thất vọng vì công danh.",
+    "choice2": "Thất vọng vì tiền tài.",
+    "choice3": "Thất vọng vì tình duyên.",
+    "choice4": "Đáp án a, b và c đều đúng.",
+    "answer": "Đáp án a, b và c đều đúng.",
+    "explanation": ""
+  },
+  {
+    "question": "106. Theo Phật học Phổ thông, Tập đế nghĩa là gì?",
+    "choice1": "Là nguyên nhân của những nỗi khổ đã chứa nhóm, tích trữ lâu đời, lâu kiếp.",
+    "choice2": "Là cội gốc sanh tử, luân hồi khổ đau của chúng sinh.",
+    "choice3": "Là phiền não mê lầm, kiến hoặc và tư hoặc.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "107. Bát Chánh Đạo gồm những gì?",
+    "choice1": "Gồm: chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm và chánh định.",
+    "choice2": "Gồm: Khổ, tập, diệt, đạo, từ, bi, hỷ, xả.",
+    "choice3": "Gồm: Tín, hạnh, nguyện, từ, bi, hỷ và xả.",
+    "choice4": "Đáp án b và c.",
+    "answer": "Gồm: chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm và chánh định.",
+    "explanation": ""
+  },
+  {
+    "question": "108. Ngã mạn có nghĩa là gì?",
+    "choice1": "Tự cho mình là giỏi hơn người.",
+    "choice2": "Hơn người ít mà nghĩ mình hơn nhiều.",
+    "choice3": "Ỷ mình hay giỏi mà lấn lướt người.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Ỷ mình hay giỏi mà lấn lướt người.",
+    "explanation": ""
+  },
+  {
+    "question": "109. Thập nhị nhân duyên là gì?",
+    "choice1": "Tăng thượng mạn, vô giản duyên, sơ duyên duyên, vô minh, hành, thức, danh sắc, lục căn, lục trần, thọ.",
+    "choice2": "Vô minh, Hành, Thức, Danh sắc, Lục nhập, Xúc, Thọ, Ái, Thủ, Hữu, Sanh lão, Tử.",
+    "choice3": "Vô minh, lục căn, lục trần, thọ, hành, thức, khổ, tập, diệt, đạo, Bát chánh đạo.",
+    "choice4": "Ngũ căn, ngũ lực, Vô minh, hành, thức, danh sắc, lục nhập, thọ, ái, thủ, sanh, lão, tử.",
+    "answer": "Vô minh, Hành, Thức, Danh sắc, Lục nhập, Xúc, Thọ, Ái, Thủ, Hữu, Sanh lão, Tử.",
+    "explanation": ""
+  },
+  {
+    "question": "110. Lục Nhập trong Thập nhị nhân duyên bao gồm những gì?",
+    "choice1": "Lục nhạp là chi cho 6 cặp đôi tương quan: Mắt, tai, Mũi, Lưỡi, Thân, Ý tương quan mặt thiết với Sắc, Thanh, Hương, Vị, Xúc, Pháp.",
+    "choice2": "Hay còn được gọi là sáu nội ngoại xứ là một thuật ngữ chỉ cho sáu cặp cơ quan - đối tượng của các giác quan và là liên kết thứ 5 trong chuỗi 12 nhân duyên.",
+    "choice3": "Lục nhập bao gồm: Nhãn, Nhĩ, Tỹ, Thiệt, Thân, Ý và Sắc, Thanh, Hương, Vị, Xúc, Pháp.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "111. Chánh mạng là gì?",
+    "choice1": "Nghề nghiệp chân chánh.",
+    "choice2": "Quyền lợi chân chánh.",
+    "choice3": "Đạo nghiệp chân chánh.",
+    "choice4": "Việc làm chơn chánh.",
+    "answer": "Nghề nghiệp chân chánh.",
+    "explanation": ""
+  },
+  {
+    "question": "112. Tà kiến nghĩa là gì?",
+    "choice1": "Là lầm chấp sai lầm, trái với sự thật, trái với luật nhân quả, chạy theo giáo pháp lạ.",
+    "choice2": "Là mê tín dị đoan, không phân biệt được đúng sai, chánh tà.",
+    "choice3": "Đáp án a và b.",
+    "choice4": "Là chấp chặt luôn làm theo ý mình.",
+    "answer": "Đáp án a và b.",
+    "explanation": ""
+  },
+  {
+    "question": "\"Kiết sử\" trong Phật giáo gồm những gì?",
+    "choice1": "Năm độn sử.",
+    "choice2": "Năm triền cái.",
+    "choice3": "Năm độn sử và năm lợi sử.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Năm độn sử và năm lợi sử.",
+    "explanation": ""
+  },
+  {
+    "question": "114. Hãy cho biết \"Tham, sân, si, mạn, nghi\" thuộc về nhóm phiền não nào?",
+    "choice1": "Ngũ độn sử.",
+    "choice2": "Ngũ lợi sử.",
+    "choice3": "Ngũ dục sử.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Ngũ độn sử.",
+    "explanation": ""
+  }
+]

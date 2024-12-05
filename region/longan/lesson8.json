@@ -1,0 +1,136 @@
+[
+  {
+    "question": "129. Ngũ căn là gì?",
+    "choice1": "Nhãn, nhĩ, tỷ, thiệt, thân.",
+    "choice2": "Mắt, tai, mũi, lưỡi, thân.",
+    "choice3": "Nhãn, ý, thân, tâm, nhĩ.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Nhãn, nhĩ, tỷ, thiệt, thân.",
+    "explanation": ""
+  },
+  {
+    "question": "130. Tinh thần siêng năng tu tập không mệt mỏi được gọi là gì trong Ngũ căn?",
+    "choice1": "Tín căn.",
+    "choice2": "Tấn căn.",
+    "choice3": "Định căn.",
+    "choice4": "Niệm căn.",
+    "answer": "Tấn căn.",
+    "explanation": ""
+  },
+  {
+    "question": "131. Căn bản phiền não gồm những phiền não nào?",
+    "choice1": "Tham, sân, si, mạn, nghi, ác kiến.",
+    "choice2": "Sanh, lão, bệnh, tử, ái biệt ly, cầu bất đắc, oán tắng hội, ngũ âm xí thận.",
+    "choice3": "Tham, sân, si, mạn, nghi, thân kiến, biên kiến, kiến thủ, giới cấm thủ, tà kiến.",
+    "choice4": "Đáp án a và c.",
+    "answer": "Tham, sân, si, mạn, nghi, ác kiến.",
+    "explanation": ""
+  },
+  {
+    "question": "132. Theo Phật giáo Bắc truyền, năm món Lợi sử là gì?",
+    "choice1": "Thân kiến, biên kiến, kiến thủ, giới cấm thủ, tà kiến.",
+    "choice2": "Tham, sân, si, mạn, nghi, ác kiến.",
+    "choice3": "Tham, sân, thùy miên, trạo cử, nghi.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Thân kiến, biên kiến, kiến thủ, giới cấm thủ, tà kiến."
+  },
+  {
+    "question": "133. Theo Phật giáo Bắc truyền, năm món độn sử là gì?",
+    "choice1": "Tham, sân, si, mạn, nghi.",
+    "choice2": "Thân kiến, biên kiến, kiến thủ, giới cấm thủ, tà kiến.",
+    "choice3": "Sắc, thanh, hương, vị, xúc.",
+    "choice4": "Nhãn, nhĩ, tỳ, thiệt, thân.",
+    "answer": "Tham, sân, si, mạn, nghi.",
+    "explanation": ""
+  },
+  {
+    "question": "134. Chưa chứng Thánh quả mà cho là chứng thuộc về loại kiêu mạn nào?",
+    "choice1": "Ngã mạn.",
+    "choice2": "Tăng thượng mạn.",
+    "choice3": "Tà mạn.",
+    "choice4": "Mạn quá mạn.",
+    "answer": "Tăng thượng mạn.",
+    "explanation": ""
+  },
+  {
+    "question": "135. Không tin vào khả năng của mình thuộc về loại kiêu mạn nào?",
+    "choice1": "Quá mạn.",
+    "choice2": "Ty liệt mạn.",
+    "choice3": "Kiêu mạn.",
+    "choice4": "Ngã mạn.",
+    "answer": "Ty liệt mạn.",
+    "explanation": ""
+  },
+  {
+    "question": "136. Biểu hiện của Tham là gì?",
+    "choice1": "Dòm ngó, theo dõi những gì ưa thích.",
+    "choice2": "Lập mưu này, chước nọ để chiếm đoạt.",
+    "choice3": "Được bao nhiêu cũng không cảm thấy đủ.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "137. \"Nhất niệm sân tâm khởi, bách vạn chướng môn khai\". Câu này hàm ý điều gì?",
+    "choice1": "Một niệm sân hận nối lên thì trăm ngàn cửa nghiệp chướng đều mở.",
+    "choice2": "Một niệm sân hận là nguyên nhân tạo ra muôn vàn tội ác.",
+    "choice3": "Một niệm sân gia đình ly biệt, anh em trở thành kẻ thù.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Đáp án a và b.",
+    "explanation": ""
+  },
+  {
+    "question": "138. \"Nhất tinh chi hỏa, năng thiêu vạn khoảnh công đức chi lâm\". Câu này hàm ý điều gì?",
+    "choice1": "Một đốm lửa giận có thể đốt hết muôn mẫu rừng công đức.",
+    "choice2": "Cơn giận là nguyên nhân làm tiêu tan cả núi công đức.",
+    "choice3": "Một ngọn lửa giận tan nhà nát cửa.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Đáp án a và b.",
+    "explanation": ""
+  },
+  {
+    "question": "139. Tứ Vô Lượng Tâm là những pháp nào?",
+    "choice1": "Từ, bi, hỷ, xả",
+    "choice2": "Bố thí, từ, bi và hỷ",
+    "choice3": "Bố thí, ái ngữ, lợi hành, đồng sự",
+    "choice4": "Khổ, tập, diệt, đạo",
+    "answer": "Từ, bi, hỷ, xả",
+    "explanation": ""
+  },
+  {
+    "question": "140. Lục hòa gồm những gì?",
+    "choice1": "Thân hòa, khẩu hòa, ý hòa, giới hòa, kiến hòa và lục hòa.",
+    "choice2": "Thân hòa, khẩu hòa, ý hòa, đức hòa, kiến hòa và lợi hòa.",
+    "choice3": "Thân hòa, khẩu hòa, ý hòa, giới hòa, trí hòa và lợi hòa.",
+    "choice4": "Thân hòa, khẩu hòa, ý hòa, giới hòa, kiến hòa và lợi hòa.",
+    "answer": "Thân hòa, khẩu hòa, ý hòa, giới hòa, kiến hòa và lợi hòa.",
+    "explanation": ""
+  },
+  {
+    "question": "141. Thân hòa đồng trú là gì?",
+    "choice1": "Sống trong một nhà dưới sự hòa thuận, đoàn kết thương yêu.",
+    "choice2": "Làm việc trong một tập thể phải biết tôn trọng, kính trên nhường dưới.",
+    "choice3": "Cùng là Phật tử (đệ tử của Đức Phật) phải biết hòa kính, thương yêu, bảo vệ nhau trong tình đồng đạo.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "142. Như thế nào là Khẩu hòa không tranh?",
+    "choice1": "Lời nói mật ngọt, khen ngợi nịnh hót.",
+    "choice2": "Nói lời mong làm vui lòng người.",
+    "choice3": "Nói lời hòa nhã, dịu dàng, chân thật, hòa thuận, mang lại an vui cho tập thể.",
+    "choice4": "Tâng bốc, ca ngợi mong được người chú ý.",
+    "answer": "Nói lời hòa nhã, dịu dàng, chân thật, hòa thuận, mang lại an vui cho tập thể.",
+    "explanation": ""
+  },
+  {
+    "question": "143. Thất Bồ Đề Phần có nghĩa là gì?",
+    "choice1": "Là bảy phương pháp giúp người niệm Phật vãng sinh.",
+    "choice2": "Là bảy phương pháp giúp con người sống an lành trong hiện đời.",
+    "choice3": "Là bảy phương pháp có khả năng dẫn đến sự giàu sang, phú quý.",
+    "choice4": "Là bảy phương pháp tu tập tuần tự hướng đến sự giác ngộ, giải thoát, an lạc.",
+    "answer": "Là bảy phương pháp tu tập tuần tự hướng đến sự giác ngộ, giải thoát, an lạc.",
+    "explanation": ""
+  }
+]

@@ -61,6 +61,10 @@ if (currentRegion === 'city'){
     NUM_LESSONS = 20;
 }
 
+if (currentRegion === 'longan'){
+    TOTAL_QUESTIONS = 250;
+    NUM_LESSONS = 15;
+}
 
 let MAX_QUESTIONS;
 
@@ -203,7 +207,7 @@ async function loadQuestionAll(region) {
         });
     });
 
-    sortQuestionsByOrder(questions)
+    // sortQuestionsByOrder(questions)
     console.log(questions)
     MAX_QUESTIONS = questions.length;
 }
@@ -239,15 +243,15 @@ function getNewQuestion() {
     progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;
 
     
-    if (currentLesson === 'all') {
-        // Lấy câu hỏi theo thứ tự tuần tự
-        currentQuestion = availableQuestions[0];
-        availableQuestions.splice(0, 1); // Loại bỏ câu hỏi đã chọn khỏi danh sách
-    } else {
+    if (currentLesson === 'test') {
         // Lấy câu hỏi trộn
         const questionIndex = Math.floor(Math.random() * availableQuestions.length);
         currentQuestion = availableQuestions[questionIndex];
         availableQuestions.splice(questionIndex, 1); // Loại bỏ câu hỏi đã chọn khỏi danh sách
+    } else {
+        // Lấy câu hỏi theo thứ tự tuần tự
+        currentQuestion = availableQuestions[0];
+        availableQuestions.splice(0, 1); // Loại bỏ câu hỏi đã chọn khỏi danh sách
     }
 
     console.log(availableQuestions)

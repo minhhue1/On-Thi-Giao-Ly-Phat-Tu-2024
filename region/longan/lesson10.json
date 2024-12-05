@@ -1,0 +1,137 @@
+[
+  {
+    "question": "155. Duyên khởi lễ Vu Lan bắt nguồn từ vị nào?",
+    "choice1": "Tôn giả Xá Lợi Phất về thăm mẹ.",
+    "choice2": "Tôn giả Mục Kiền Liên cứu mẹ.",
+    "choice3": "Tôn giả A Nan.",
+    "choice4": "Tôn giả Tu Bồ Đề.",
+    "answer": "Tôn giả Mục Kiền Liên cứu mẹ.",
+    "explanation": ""
+  },
+  {
+    "question": "156. Ngài Mục Kiền Liên đã chứng lục thông, sao không tự cứu mẹ, mà phải nhờ sức chú nguyện của chư Tăng?",
+    "choice1": "Do thần thông bất lực trước quả xấu quá nặng.",
+    "choice2": "Sức chú nguyện và chuyển hóa nghiệp của chư Tăng mạnh hơn thần thông.",
+    "choice3": "Nhờ sức chuyển hóa của chư Tăng, bà Thanh Đề sinh tâm hối hận, được giải thoát.",
+    "choice4": "Do nghiệp lực quá xấu ác, cần phải nhờ sức chú nguyện của chư Tăng, chuyển hóa nghiệp, khiến bà Thanh Đề sinh tâm hối hận, xả bỏ lòng bỏn xẻn mới thoát khỏi địa ngục khổ đau.",
+    "answer": "Do nghiệp lực quá xấu ác, cần phải nhờ sức chú nguyện của chư Tăng, chuyển hóa nghiệp, khiến bà Thanh Đề sinh tâm hối hận, xả bỏ lòng bỏn xẻn mới thoát khỏi địa ngục khổ đau.",
+    "explanation": ""
+  },
+  {
+    "question": "157. Vì sao trong kinh Phụ Mẫu Báo Ân, Phật lại đồng xương khô?",
+    "choice1": "Vì cứu bà Thanh Đề.",
+    "choice2": "Vì trong đó có ông bà cha mẹ nhiều đời.",
+    "choice3": "Vì tôn vinh ngày cha mẹ.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Vì trong đó có ông bà cha mẹ nhiều đời.",
+    "explanation": ""
+  },
+  {
+    "question": "158. Tại sao Đức Phật chọn ngày rằm tháng bảy (âm lịch) để thiết lễ Vu Lan?",
+    "choice1": "Để cứu độ những vong hồn bị treo ngược ở địa ngục do tạo nhiều nghiệp xấu ác.",
+    "choice2": "Vì đó là ngày chư Tăng Tự tứ.",
+    "choice3": "Vì đó là ngày chư Phật mười phương hoan hỷ.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "159. Phật tử nên báo hiếu cha mẹ lúc nào?",
+    "choice1": "Báo hiếu vào dịp lễ Vu Lan.",
+    "choice2": "Báo hiếu sau khi cha mẹ đã qua đời.",
+    "choice3": "Báo hiếu hằng ngày và bất kỳ lúc nào có thể và khi cha mẹ bệnh đau ốm.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "160. Vì sao bà Thanh Đề không ăn được bát cơm do tôn giả Mục Kiền Liên dâng?",
+    "choice1": "Bị quỷ đốt cháy.",
+    "choice2": "Bị quỷ giành ăn.",
+    "choice3": "Bát cơm bốc cháy do nghiệp lực của bà quá nặng.",
+    "choice4": "Do chịu tội nên không được ăn.",
+    "answer": "Bát cơm bốc cháy do nghiệp lực của bà quá nặng.",
+    "explanation": ""
+  },
+  {
+    "question": "161. Tội ngũ nghịch là gồm những tội nào?",
+    "choice1": "Tà kiến, mê tín, hủy hoại Tam bảo, phá hòa hợp Tăng, giết cha mẹ.",
+    "choice2": "Giết cha mẹ, giết Thầy, Vu khống, phỉ báng tăng đoàn, Làm thân Phật chảy máu, chia rẽ tăng đoàn (phá hòa hợp Tăng).",
+    "choice3": "Chấp điều không chân chánh, trái với quy luật nhân quả.",
+    "choice4": "Giết cha, giết mẹ, giết A-la-hán, Làm thân Phật chảy máu, chia rẽ Tăng đoàn (phá hòa hợp Tăng).",
+    "answer": "Giết cha, giết mẹ, giết A-la-hán, Làm thân Phật chảy máu, chia rẽ Tăng đoàn (phá hòa hợp Tăng).",
+    "explanation": ""
+  },
+  {
+    "question": "162. Ý nghĩa của việc lạy Phật là gì?",
+    "choice1": "Thể hiện sự cung kính đối với Đức Phật.",
+    "choice2": "Thể hiện đời sống tôn giáo, tâm linh.",
+    "choice3": "Lạy Phật được năm phước báu (sống lâu, an vui, sức mạnh, sắc đẹp và trí tuệ).",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "163. Lạy Phật như thế nào mới đúng?",
+    "choice1": "Khi lạy Phật hai bàn tay để ngửa hoặc úp và đặt trán ở khoảng giữa hai bàn tay.",
+    "choice2": "Khi lạy Phật, nằm vóc sát đất, tâm nghĩ đến đức hạnh của Ngài để học hỏi.",
+    "choice3": "Trước khi lễ Phật phải súc miệng, rửa mặt, thân thể sạch sẽ, y phục trang nghiêm.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "164. Hiệu lực Đại Bi chú như thế nào?",
+    "choice1": "Nhiếp phục tâm niệm, sống được an lành, gặp nhiều thiện duyên.",
+    "choice2": "Mau hết tai nạn, cầu gì được đó.",
+    "choice3": "Thoát khỏi bệnh tật, tăng thêm tuổi thọ, mua bán thuận lợi.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "165. Mục đích của việc tụng kinh là gì?",
+    "choice1": "Cầu Tam bảo ban phước lành.",
+    "choice2": "Ôn lại lời Phật dạy để ghi nhớ, hiểu biết và thực hành những điều lành thiện.",
+    "choice3": "Để tiêu trừ nghiệp chướng, cuộc sống giàu sang.",
+    "choice4": "Đem về mang tâm trí, tăng trưởng kiến thức.",
+    "answer": "Ôn lại lời Phật dạy để ghi nhớ, hiểu biết và thực hành những điều lành thiện.",
+    "explanation": ""
+  },
+  {
+    "question": "166. \"Tin là mẹ sinh ra công đức, tin có thể thành tựu quả Bồ Đề\" được nói trong kinh nào?",
+    "choice1": "Kinh Pháp Hoa.",
+    "choice2": "Kinh Niết Bàn.",
+    "choice3": "Kinh Di Giáo.",
+    "choice4": "Kinh Hoa Nghiêm.",
+    "answer": "Kinh Hoa Nghiêm.",
+    "explanation": ""
+  },
+  {
+    "question": "167. Vì sao phải ăn chay?",
+    "choice1": "Vì tăng trưởng sức khỏe, tránh nghiệp sát sanh.",
+    "choice2": "Vì nuôi dưỡng lòng từ bi, thương mạn sống, tránh quả báo xấu ác.",
+    "choice3": "Vì chúng sinh ai cũng tham sống sợ chết, tôn trọng mạng sống của mỗi chúng sinh.",
+    "choice4": "Đáp án b và c.",
+    "answer": "Đáp án b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "168. Sám hối là gì?",
+    "choice1": "Là tự mình ăn năn, nhận ra những lỗi lầm trước đây đã tạo, nguyện sửa đổi không dám tái phạm những lỗi lầm đó nữa.",
+    "choice2": "\"Sám giả, sám kỳ tiền khiên, hối giả, hối kỳ hậu quá\" (ăn năn lỗi trước, chừa bỏ lỗi sau).",
+    "choice3": "Sám hối là tự mình ăn năn, hô thẹn những lỗi lầm trước đây đã tạo, nguyện sửa đổi không dám tái phạm những lỗi lầm đó nữa. Nói cách khác Sám hối là \"ăn năn chừa bỏ\", đây là trọng tâm của sự sám hối.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "169. Thờ Phật như thế nào cho đúng?",
+    "choice1": "Có bàn thờ độc lập, cúng hoa quả, lễ bái, tụng niệm và hành trì lời Phật dạy.",
+    "choice2": "Có thể thờ chung một bàn thờ, Phật ở trên, gia tiên ở dưới, kính thành tu niệm.",
+    "choice3": "Thờ Phật tạo góc tâm linh trong nhà, giúp cho thân tâm an yên, thanh tịnh.",
+    "choice4": "Đáp án a, b, và c.",
+    "answer": "Đáp án a, b, và c.",
+    "explanation": ""
+  }  
+]

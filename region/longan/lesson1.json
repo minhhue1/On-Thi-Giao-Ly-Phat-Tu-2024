@@ -1,0 +1,200 @@
+[
+  {
+    "question": "1. Ai là người khai sáng ra đạo Phật?",
+    "choice1": "Đức Phật Dược Sư",
+    "choice2": "Đức Phật Di Lặc",
+    "choice3": "Đức Phật Thích Ca Mâu Ni",
+    "choice4": "Đức Phật A Di Đà",
+    "answer": "Đức Phật Thích Ca Mâu Ni",
+    "explanation": ""
+  },
+  {
+    "question": "2. Phật lịch được tính từ lúc nào?",
+    "choice1": "Từ năm Phật nhập Niết bàn.",
+    "choice2": "Từ năm Phật Đản sanh.",
+    "choice3": "Từ năm Phật Thành đạo.",
+    "choice4": "Từ năm Phật Chuyển pháp luân.",
+    "answer": "Từ năm Phật nhập Niết bàn.",
+    "explanation": ""
+  },
+  {
+    "question": "3. Giáo lý đạo Phật bao gồm những gì?",
+    "choice1": "Niệm, Định, Tuệ.",
+    "choice2": "Văn, Tư, Tu.",
+    "choice3": "Gồm ba tạng: Tạng Kinh, tạng Luật và tạng Luận.",
+    "choice4": "Tứ diệu đế, Lục độ, Thập nhị nhân duyên.",
+    "answer": "Gồm ba tạng: Tạng Kinh, tạng Luật và tạng Luận.",
+    "explanation": ""
+  },
+  {
+    "question": "4. Chữ \"Phật\" nghĩa là gì?",
+    "choice1": "Bậc hoàn toàn giác ngộ.",
+    "choice2": "Bậc giác ngộ hoàn toàn, tự giác, giác tha, giác hạnh viên mãn.",
+    "choice3": "Bậc giác ngộ chân chánh.",
+    "choice4": "Bậc giác ngộ vĩ đại.",
+    "answer": "Bậc giác ngộ hoàn toàn, tự giác, giác tha, giác hạnh viên mãn.",
+    "explanation": ""
+  },
+  {
+    "question": "5. Đạo Phật có nguồn gốc từ đâu và xuất hiện vào thế kỷ thứ mấy trước công nguyên (BC)?",
+    "choice1": "Đạo Phật có nguồn gốc từ Tích Lan và xuất hiện từ thế kỷ thứ VI trước Công nguyên.",
+    "choice2": "Đạo Phật xuất hiện từ đất nước Ma Kiệt Đà và xuất hiện từ thế kỷ thứ IV trước Công nguyên.",
+    "choice3": "Đạo Phật ra đời ở Ấn Độ và xuất hiện từ thế kỷ thứ VI trước Công nguyên.",
+    "choice4": "Đạo Phật xuất hiện từ đất nước Hy Lạp và xuất hiện từ thế kỷ thứ VI trước Công nguyên.",
+    "answer": "Đạo Phật ra đời ở Ấn Độ và xuất hiện từ thế kỷ thứ VI trước Công nguyên.",
+    "explanation": ""
+  },
+  {
+    "question": "6. Tính đến nay năm 2024, Đạo Phật đã tồn tại trên thế gian được bao nhiêu năm kể từ khi Đức Phật nhập Niết Bàn?",
+    "choice1": "Dương Lịch 2024 - Phật Lịch 2568.",
+    "choice2": "Dương Lịch 2024 - Phật Lịch 2569.",
+    "choice3": "Dương Lịch 2024 - Phật Lịch 2567.",
+    "choice4": "Phật Lịch 2568 - Dương Lịch 2025.",
+    "answer": "Dương Lịch 2024 - Phật Lịch 2568.",
+    "explanation": ""
+  },
+  {
+    "question": "7. Theo sự thống nhất của Phật giáo thế giới, Đức Phật Thích Ca Mâu Ni Đản Sanh và Nhập Niết Bàn vào những năm nào trước Tây Lịch (Công nguyên)?",
+    "choice1": "Đức Phật Thích Ca Mâu Ni Đản sanh vào năm 624 trước Tây Lịch và nhập Niết Bàn vào năm 544 trước Tây Lịch.",
+    "choice2": "Đức Phật Thích Ca Mâu Ni Đản sanh vào năm 622 trước Tây Lịch và nhập Niết Bàn vào năm 540 trước Tây Lịch.",
+    "choice3": "Đức Phật Thích Ca Mâu Ni Đản sanh vào năm 626 trước Tây Lịch và nhập Niết Bàn vào năm 548 trước Tây Lịch.",
+    "choice4": "Đức Phật Thích Ca Mâu Ni Đản sanh vào năm 620 trước Tây Lịch và nhập Niết Bàn vào năm 544 trước Tây Lịch.",
+    "answer": "Đức Phật Thích Ca Mâu Ni Đản sanh vào năm 624 trước Tây Lịch và nhập Niết Bàn vào năm 544 trước Tây Lịch.",
+    "explanation": ""
+  },
+  {
+    "question": "8. Giai cấp thống trị Ấn Độ thời Phật tại thế là những giai cấp nào?",
+    "choice1": "Bà La Môn và Sát Đế Lỵ.",
+    "choice2": "Bà La Môn và Thủ Đà La.",
+    "choice3": "Thủ Đà La và Phệ Xá.",
+    "choice4": "Sát Đế Lỵ và Phệ Xá.",
+    "answer": "Bà La Môn và Sát Đế Lỵ.",
+    "explanation": ""
+  },
+  {
+    "question": "9. Trước khi Bồ tát nhập thai, hoàng hậu Ma Da nằm mộng thấy điềm lành gì?",
+    "choice1": "Bốn vị Thiên Vương khiêng kiệu hoàng hậu đến dãy Hi Mã Lạp sơn.",
+    "choice2": "Chư thiên rải hoa khắp cả đất trời.",
+    "choice3": "Bồ tát cưỡi voi trắng sáu ngà từ hư không nhập vào hông phải của hoàng hậu.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Bồ tát cưỡi voi trắng sáu ngà từ hư không nhập vào hông phải của hoàng hậu.",
+    "explanation": ""
+  },
+  {
+    "question": "10. Các nhà tiên tri đoán điềm mộng \"voi trắng sáu ngà\" của hoàng hậu Ma Da như thế nào?",
+    "choice1": "Hoàng hậu sẽ từ trần sau 7 ngày hạ sinh Thái tử.",
+    "choice2": "Thành Ca-Tỳ-La-Vệ sẽ mất và rơi vào tay của vua Tỳ Lưu Ly.",
+    "choice3": "Hoàng hậu sẽ sinh quý tử tài đức song toàn.",
+    "choice4": "Đáp án a và b.",
+    "answer": "Hoàng hậu sẽ sinh quý tử tài đức song toàn.",
+    "explanation": ""
+  },
+  {
+    "question": "11. Sự ra đời của Đức Phật được gọi là gì?",
+    "choice1": "Đản sanh, thị hiện, giáng thế.",
+    "choice2": "Đản sanh, khánh đản, giáng trần.",
+    "choice3": "Đản sanh, sinh nhật, giáng sinh.",
+    "choice4": "Đản sanh, giáng sinh, thị hiện.",
+    "answer": "Đản sanh, giáng sinh, thị hiện.",
+    "explanation": ""
+  },
+  {
+    "question": "12. Thái tử Tất Đạt Đa đản sanh ở đâu?",
+    "choice1": "Vườn Lâm Tỳ Ni, thành Xá Vệ.",
+    "choice2": "Vườn Lâm Tỳ Ni, thành Vương Xá.",
+    "choice3": "Vườn Lâm Tỳ Ni, thành Ca Tỳ La Vệ.",
+    "choice4": "Vườn Lâm Tỳ Ni, thành Ba La Nại.",
+    "answer": "Vườn Lâm Tỳ Ni, thành Ca Tỳ La Vệ.",
+    "explanation": ""
+  },
+  {
+    "question": "13. Vì sao Đức Phật thị hiện đản sanh tại thế giới Ta Bà?",
+    "choice1": "Vì muốn đem lợi ích rộng lớn cho đời.",
+    "choice2": "Vì muốn độ tất cả chúng sinh.",
+    "choice3": "Vì muốn đem hạnh phúc cho chư thiên và loài người.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "14. Theo Phật giáo Bắc truyền, Đức Phật thành đạo ngày nào?",
+    "choice1": "Ngày 8/2 âm lịch.",
+    "choice2": "Ngày 15/4 âm lịch.",
+    "choice3": "Ngày 15/12 âm lịch.",
+    "choice4": "Ngày 8/12 âm lịch.",
+    "answer": "Ngày 8/12 âm lịch.",
+    "explanation": ""
+  },
+  {
+    "question": "15. Theo Phật giáo Bắc truyền, Đức Phật nhập Niết bàn ngày nào?",
+    "choice1": "Ngày 8/2 âm lịch.",
+    "choice2": "Ngày 15/2 âm lịch.",
+    "choice3": "Ngày 15/4 âm lịch.",
+    "choice4": "Ngày 15/10 âm lịch.",
+    "answer": "Ngày 15/2 âm lịch.",
+    "explanation": ""
+  },
+  {
+    "question": "16. Thân mẫu của Thái tử Tất Đạt Đa là ai?",
+    "choice1": "Hoàng hậu Vi Đề Hy.",
+    "choice2": "Hoàng hậu Mạt Lợi.",
+    "choice3": "Hoàng hậu Ma Da.",
+    "choice4": "Hoàng hậu Ma Ha Ba Xà Ba Đề.",
+    "answer": "Hoàng hậu Ma Da.",
+    "explanation": ""
+  },
+  {
+    "question": "17. Ai là người xem tướng cho Thái tử Tất Đạt Đa?",
+    "choice1": "Tiên nhân A La Lam.",
+    "choice2": "Tiên nhân Tu Đạt Đa.",
+    "choice3": "Tiên nhân A Tư Đà.",
+    "choice4": "Tiên nhân Uất Đầu Lam Phất.",
+    "answer": "Tiên nhân A Tư Đà.",
+    "explanation": ""
+  },
+  {
+    "question": "18. Vua Tịnh Phạn dùng cách nào để ràng buộc Thái tử bỏ chí xuất gia?",
+    "choice1": "Xây dựng 3 cung điện nguy nga tráng lệ, có nhiều người hầu hạ.",
+    "choice2": "Ép hôn, để Thái tử mê đắm dục lạc.",
+    "choice3": "Hứa truyền ngôi vua sớm cho Thái tử.",
+    "choice4": "Gồm đáp án a, b và c.",
+    "answer": "Gồm đáp án a, b và c.",
+    "explanation": ""
+  },
+  {
+    "question": "19. Thái tử Tất Đạt Đa xuất thân từ giai cấp nào?",
+    "choice1": "Bà la môn.",
+    "choice2": "Thủ đà la.",
+    "choice3": "Sát đế lợi.",
+    "choice4": "Phệ xá.",
+    "answer": "Sát đế lợi.",
+    "explanation": ""
+  },
+  {
+    "question": "20. Thái tử Tất Đạt Đa đã gặp ai khi đi dạo ở cửa phía Bắc của thành Ca Tỳ La Vệ?",
+    "choice1": "Một người thợ săn.",
+    "choice2": "Một cái thây chết.",
+    "choice3": "Một vị tu sĩ tướng mạo trang nghiêm.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Một vị tu sĩ tướng mạo trang nghiêm.",
+    "explanation": ""
+  },
+  {
+    "question": "21. Sau khi sinh Thái tử Tất Đạt Đa, Hoàng hậu Ma Da sinh về cõi trời nào?",
+    "choice1": "Cõi trời Hóa Lạc Thiên.",
+    "choice2": "Cõi trời Đao Lợi.",
+    "choice3": "Cõi trời Phạm Thiên.",
+    "choice4": "Cõi trời Đâu Suất.",
+    "answer": "Cõi trời Đao Lợi.",
+    "explanation": ""
+  },
+  {
+    "question": "22. Thái tử Tất Đạt Đa cùng ngựa Kiền Trắc và Sa Nặc vượt thành xuất gia ở cửa thành nào?",
+    "choice1": "Cửa thành Đông.",
+    "choice2": "Cửa thành Nam.",
+    "choice3": "Cửa thành Tây.",
+    "choice4": "Cửa thành Bắc.",
+    "answer": "Cửa thành Đông.",
+    "explanation": ""
+  }
+]

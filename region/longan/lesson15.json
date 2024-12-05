@@ -1,0 +1,191 @@
+[
+  {
+    "question": "230. Phật giáo Việt Nam thịnh nhất vào thời đại nào?",
+    "choice1": "Đinh, Lê.",
+    "choice2": "Lý, Trần.",
+    "choice3": "Hậu Lê.",
+    "choice4": "Trịnh - Nguyễn.",
+    "answer": "Lý, Trần.",
+    "explanation": ""
+  },
+  {
+    "question": "231. Trung tâm Phật giáo Luy Lâu thuộc tỉnh nào hiện nay?",
+    "choice1": "Ninh Bình.",
+    "choice2": "Bắc Ninh.",
+    "choice3": "Thái Nguyên.",
+    "choice4": "Nam Định.",
+    "answer": "Bắc Ninh.",
+    "explanation": ""
+  },
+  {
+    "question": "232. Chùa Khai Quốc là tên cũ của ngôi chùa nổi tiếng nào ở khu vực Hồ Tây, Hà Nội ngày nay?",
+    "choice1": "Chùa Trấn Quốc.",
+    "choice2": "Chùa Vạn Quốc.",
+    "choice3": "Chùa Vạn Niên.",
+    "choice4": "Chùa Diên Hựu.",
+    "answer": "Chùa Trấn Quốc.",
+    "explanation": ""
+  },
+  {
+    "question": "233. Vị Thiền sư nào đã giúp vua Lý Thái Tổ xây dựng vững bền triều Lý?",
+    "choice1": "Thiền sư Ngô Chân Lưu.",
+    "choice2": "Thiền sư Pháp Thuận.",
+    "choice3": "Thiền sư Đa Bảo.",
+    "choice4": "Thiền sư Vạn Hạnh.",
+    "answer": "Thiền sư Vạn Hạnh.",
+    "explanation": ""
+  },
+  {
+    "question": "234. Đại lão Hòa thượng nào là đương nhiệm Pháp chủ Giáo hội Phật giáo Việt Nam là vị trưởng lão Hòa thượng nào?",
+    "choice1": "Đại Trưởng lão Hòa thượng Thích Trí Tịnh.",
+    "choice2": "Đại Trưởng lão Hòa thượng Thích Thanh Từ.",
+    "choice3": "Đại Trưởng lão Hòa thượng Thích Trí Quảng.",
+    "choice4": "Đại Trưởng lão Hòa thượng Thích Phổ Tuệ.",
+    "answer": "Đại Trưởng lão Hòa thượng Thích Trí Quảng.",
+    "explanation": ""
+  },
+  {
+    "question": "235. Chủ tịch Hội đồng Trị sự đương nhiệm của GHPGVN là vị trưởng lão Hòa thượng nào?",
+    "choice1": "Trưởng lão Hòa thượng Thích Trí Thủ.",
+    "choice2": "Trưởng lão Hòa thượng Thích Trí Tịnh.",
+    "choice3": "Trưởng lão Hòa thượng Thích Thanh Từ.",
+    "choice4": "Trưởng lão Hòa thượng Thích Thiện Nhơn.",
+    "answer": "Trưởng lão Hòa thượng Thích Thiện Nhơn.",
+    "explanation": ""
+  },
+  {
+    "question": "236. Phương châm hoạt động của Giáo hội Phật giáo Việt Nam là gì?",
+    "choice1": "Đoàn kết - Hòa hợp - Trường dưỡng đạo tâm, trang nghiêm Giáo hội.",
+    "choice2": "Đạo pháp - Dân tộc - Chủ nghĩa Xã hội.",
+    "choice3": "Giới luật còn, Phật pháp còn - Giới luật mất, Phật pháp mất.",
+    "choice4": "Đạo pháp - Dân tộc.",
+    "answer": "Đoàn kết - Hòa hợp - Trường dưỡng đạo tâm, trang nghiêm Giáo hội.",
+    "explanation": ""
+  },
+  {
+    "question": "237. Đại lễ Phật Đản Liên Hiệp Quốc được tổ chức ở Việt Nam lần đầu tiên vào năm nào?",
+    "choice1": "Năm 2008.",
+    "choice2": "Năm 2014.",
+    "choice3": "Năm 2019.",
+    "choice4": "Đáp án a, b, c.",
+    "answer": "Năm 2008.",
+    "explanation": ""
+  },
+  {
+    "question": "238. Giáo hội Phật giáo Việt Nam được thành lập vào ngày, tháng, năm nào?",
+    "choice1": "11/07/1980.",
+    "choice2": "11/07/1981.",
+    "choice3": "07/11/1980.",
+    "choice4": "07/11/1981.",
+    "answer": "11/07/1981.",
+    "explanation": ""
+  },
+  {
+    "question": "239. Trung ương GHPGVN có mấy văn phòng? Văn phòng 1 đặt ở đâu?",
+    "choice1": "Có 2 văn phòng, Văn phòng 1 ở chùa Quán Sứ.",
+    "choice2": "Có 2 văn phòng, Văn phòng 1 ở thiền viện Quảng Đức.",
+    "choice3": "Có 3 văn phòng, Văn phòng 1 ở chùa Quán Sứ.",
+    "choice4": "Có 3 văn phòng, Văn phòng 1 ở chùa Một Cột.",
+    "answer": "Có 2 văn phòng, Văn phòng 1 ở chùa Quán Sứ.",
+    "explanation": ""
+  },
+  {
+    "question": "240. Văn phòng 1 Trung ương GHPGVN đặt ở đâu?",
+    "choice1": "Chùa Xá Lợi, Tp.HCM.",
+    "choice2": "Thiền viện Quảng Đức, Tp.HCM.",
+    "choice3": "Chùa Từ Đàm, Tp. Huế.",
+    "choice4": "Chùa Vĩnh Nghiêm, Tp.HCM.",
+    "answer": "Thiền viện Quảng Đức, Tp.HCM.",
+    "explanation": ""
+  },
+  {
+    "question": "241. Vị vua nào của Việt Nam đã được Thiền Sư Vạn Hạnh nuôi dưỡng trở thành bậc minh quân tài hoa xuất chúng?",
+    "choice1": "Lý Công Uẩn.",
+    "choice2": "Trần Thái Tông.",
+    "choice3": "Trần Nhân Tông.",
+    "choice4": "Trần Thánh Tông.",
+    "answer": "Lý Công Uẩn.",
+    "explanation": ""
+  },
+  {
+    "question": "242. Trưởng Ban trị sự Giáo hội Phật giáo Việt Nam Tỉnh Long An là vị Hòa thượng nào?",
+    "choice1": "Hòa thượng Thích Đạt Pháp.",
+    "choice2": "Hòa thượng Thích Tắc Tựu.",
+    "choice3": "Hòa thượng Thích Minh Thiện.",
+    "choice4": "Hòa thượng Thích Tắc Phi.",
+    "answer": "Hòa thượng Thích Minh Thiện.",
+    "explanation": ""
+  },
+  {
+    "question": "243. Vị Hòa thượng nào vì pháp thiêu thân, được tôn xưng là Bồ-tát?",
+    "choice1": "Đại Đức Thích Quảng Hương.",
+    "choice2": "Hòa thượng Thích Quảng Đức.",
+    "choice3": "Hòa thượng Thích Chân Như.",
+    "choice4": "Thượng tọa Thích Tiêu Diêu.",
+    "answer": "Hòa thượng Thích Quảng Đức.",
+    "explanation": ""
+  },
+  {
+    "question": "244. Vị vua nào khai sáng Thiền phái Trúc Lâm?",
+    "choice1": "Vua Trần Thái Tông.",
+    "choice2": "Vua Lý Thái Tổ.",
+    "choice3": "Vua Trần Nhân Tông.",
+    "choice4": "Vua Quang Trung.",
+    "answer": "Vua Trần Nhân Tông.",
+    "explanation": ""
+  },
+  {
+    "question": "245. Vua Lý Công Uẩn là đệ tử của thiền sư nào?",
+    "choice1": "Thiền sư Vạn Hạnh.",
+    "choice2": "Thiền sư Đạo Bảo.",
+    "choice3": "Thiền sư Không Lộ.",
+    "choice4": "Thiền Sư Khuông Việt.",
+    "answer": "Thiền sư Vạn Hạnh.",
+    "explanation": ""
+  },
+  {
+    "question": "246. Ai là tác giả của Khóa Hư Lục?",
+    "choice1": "Trần Thái Tông.",
+    "choice2": "Trần Thánh Tông.",
+    "choice3": "Trần Nhân Tông.",
+    "choice4": "Trần Anh Tông.",
+    "answer": "Trần Thái Tông.",
+    "explanation": ""
+  },
+  {
+    "question": "247. Hiện tại Giáo Hội Phật Giáo Việt Nam đã thành lập bao nhiêu Học Viện Phật giáo đào tạo cấp Đại học trở lên.",
+    "choice1": "Có 5.",
+    "choice2": "Có 6.",
+    "choice3": "Có 4.",
+    "choice4": "Có 3.",
+    "answer": "Có 4.",
+    "explanation": ""
+  },
+  {
+    "question": "248. Văn phòng Ban Trị sự Giáo hội Phật giáo Việt Nam tỉnh Long An đặt ở đâu?",
+    "choice1": "Chùa Thiên Châu, Số 101 Huỳnh Văn Nhựt, P.3, TP. Tân An, Tỉnh Long An.",
+    "choice2": "Chùa Thiên Khánh, Số 48, Đường Lưu Văn Tế, Khu phố Bình Cư II, Phường 4, Thị xã Tân An.",
+    "choice3": "Chùa Thiên Phước, TP. Tân An.",
+    "choice4": "Chùa Pháp Minh, Huyện Đức Hòa, Tỉnh Long An.",
+    "answer": "Chùa Thiên Châu, Số 101 Huỳnh Văn Nhựt, P.3, TP. Tân An, Tỉnh Long An.",
+    "explanation": ""
+  },
+  {
+    "question": "249. Ở Việt Nam, ngôi chùa nào có lưu lại hai nhục thân xá lợi của hai vị Thiền sư Đạo Chân (Vũ Khắc Minh) và Thiền sư Đạo Tâm (Vũ Khắc Trường)?",
+    "choice1": "Chùa Đậu.",
+    "choice2": "Chùa Dâu.",
+    "choice3": "Chùa Hương.",
+    "choice4": "Chùa Phật Tích.",
+    "answer": "Chùa Đậu.",
+    "explanation": ""
+  },
+  {
+    "question": "250. Đại hội đại biểu Phật giáo toàn quốc mấy năm tổ chức một lần?",
+    "choice1": "4 năm một lần.",
+    "choice2": "5 năm một lần.",
+    "choice3": "6 năm một lần.",
+    "choice4": "7 năm một lần.",
+    "answer": "5 năm một lần.",
+    "explanation": ""
+  }
+]

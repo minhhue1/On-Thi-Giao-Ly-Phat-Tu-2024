@@ -1,0 +1,128 @@
+[
+  {
+    "question": "115. Lục độ (Lục độ Ba la mật) được sắp xếp theo thứ tự nào?",
+    "choice1": "Bố thí, trì giới, nhẫn nhục, tinh tấn, thiền định, trí huệ.",
+    "choice2": "Trì giới, tinh tấn, nhẫn nhục, thiền định, bố thí, trí tuệ.",
+    "choice3": "Trí tuệ, thiền định, bố thí, tinh tấn, trì giới, nhẫn nhục.",
+    "choice4": "Nhẫn nhục, bố trí, thiền định, trì giới, tinh tấn, trí.",
+    "answer": "Bố thí, trì giới, nhẫn nhục, tinh tấn, thiền định, trí huệ.",
+    "explanation": ""
+  },
+  {
+    "question": "116. Nhẫn nhục Ba la mật đúng nghĩa cần thực tập rốt ráo những gì?",
+    "choice1": "Thân nhẫn, khẩu nhẫn, ý nhẫn.",
+    "choice2": "Kiềm lòng tham và xoá bỏ hận thù.",
+    "choice3": "Yêu thương mọi loại.",
+    "choice4": "Dẹp bỏ bản ngã.",
+    "answer": "Thân nhẫn, khẩu nhẫn, ý nhẫn.",
+    "explanation": ""
+  },
+  {
+    "question": "117. Bố thí có ba cách gồm những gì?",
+    "choice1": "Tài thí, pháp thí, bình đẳng bố thí.",
+    "choice2": "Nội tài thí, ngoại tài thí, vô uý thí.",
+    "choice3": "Tài thí, pháp thí, vô uý thí.",
+    "choice4": "Quá khứ thí, hiện tại thí, vị lai thí.",
+    "answer": "Tài thí, pháp thí, vô uý thí.",
+    "explanation": ""
+  },
+  {
+    "question": "118. Thế nào là Bố thí Ba La Mật?",
+    "choice1": "Bố thí để cầu phước báu nhân thiên.",
+    "choice2": "Bố thí để được mọi người biết là mình cũng có tấm lòng nhân hậu.",
+    "choice3": "Bố thí không thấy mình là người cho, kia là người nhận và vật để bố thí.",
+    "choice4": "Bố thí không kề công, cúng dường không ỷ lại.",
+    "answer": "Bố thí không thấy mình là người cho, kia là người nhận và vật để bố thí.",
+    "explanation": ""
+  },
+  {
+    "question": "119. Vô úy thí nghĩa là gì?",
+    "choice1": "Giúp người không sợ sệt.",
+    "choice2": "Giúp người không còn ngại ngùng.",
+    "choice3": "Giúp người không còn xấu hổ.",
+    "choice4": "Giúp người không còn tự ti.",
+    "answer": "Giúp người không sợ sệt.",
+    "explanation": ""
+  },
+  {
+    "question": "120. Tinh tấn là gì?",
+    "choice1": "Siêng năng đi chùa lễ Phật, nghe giảng pháp.",
+    "choice2": "Siêng năng làm công quả.",
+    "choice3": "Siêng năng bỏ ác, làm lành, hướng đạo đức, không bỏ cuộc, giữ vững niềm tin.",
+    "choice4": "Siêng năng tu tập, dù gặp nghịch cảnh cũng không thối lui.",
+    "answer": "Siêng năng bỏ ác, làm lành, hướng đạo đức, không bỏ cuộc, giữ vững niềm tin.",
+    "explanation": ""
+  },
+  {
+    "question": "121. 37 pháp trợ đạo gồm những pháp nào?",
+    "choice1": "Tứ niệm xứ; Tứ chánh cần; Tứ hoành thệ nguyện; Ngũ căn; Ngũ lực; Thất giác chi; Bát chánh đạo.",
+    "choice2": "Tứ như ý túc; Lục căn; Lục trần; Thất giác chi; Bát chánh đạo. Tứ niệm xứ; Tứ chánh cần.",
+    "choice3": "Tứ chánh cần; Tứ diệu đế; Ngũ căn; Ngũ lực; Thất phần chuyển luân; Bát chánh đạo; Tứ niệm xứ.",
+    "choice4": "Tứ niệm xứ; Tứ chánh cần; Tứ như ý túc; Ngũ căn; Ngũ lực; Thất giác chi; Bát chánh đạo.",
+    "answer": "Tứ niệm xứ; Tứ chánh cần; Tứ như ý túc; Ngũ căn; Ngũ lực; Thất giác chi; Bát chánh đạo.",
+    "explanation": ""
+  },
+  {
+    "question": "122. Thứ tự nào sau đây của Thất bồ đề phần là đúng?",
+    "choice1": "Trạch pháp, tinh tấn, khinh an, niệm, định, hỷ, xả.",
+    "choice2": "Trạch pháp, tinh tấn, khinh an, hỷ, xả, niệm, định.",
+    "choice3": "Tinh tấn, trạch pháp, khinh an, hỷ, xả, niệm, định.",
+    "choice4": "Trạch pháp, tinh tấn, hỷ, khinh an, niệm, định, xả.",
+    "answer": "Trạch pháp, tinh tấn, hỷ, khinh an, niệm, định, xả.",
+    "explanation": ""
+  },
+  {
+    "question": "123. Tứ chánh cần là gì?",
+    "choice1": "Tinh tấn dứt trừ những điều ác đã sanh, Tinh tấn dứt trừ những điều ác chưa phát sanh, Tinh tấn phát triển điều thiện chưa sanh, làm cho sanh thiện, Tinh tấn phát triển điều thiện đã sanh.",
+    "choice2": "Những điều ác chưa phát sanh, đừng cho nó sanh khởi.",
+    "choice3": "Điều thiện chưa sanh, làm cho sanh trưởng.",
+    "choice4": "Tinh tấn phát triển điều thiện đã sanh.",
+    "answer": "Tinh tấn dứt trừ những điều ác đã sanh, Tinh tấn dứt trừ những điều ác chưa phát sanh, Tinh tấn phát triển điều thiện chưa sanh, làm cho sanh thiện, Tinh tấn phát triển điều thiện đã sanh.",
+    "explanation": ""
+  },
+  {
+    "question": "124. Thứ bậc của pháp quán từ bi là gì?",
+    "choice1": "Chúng sanh duyên từ, pháp duyên từ, vô duyên từ.",
+    "choice2": "Pháp duyên từ, chúng sanh duyên từ, vô duyên từ.",
+    "choice3": "Vô duyên từ, chúng sanh duyên từ, pháp duyên từ.",
+    "choice4": "Chúng sanh duyên từ, vô duyên từ, pháp duyên từ.",
+    "answer": "Chúng sanh duyên từ, pháp duyên từ, vô duyên từ.",
+    "explanation": ""
+  },
+  {
+    "question": "125. Quán chúng sanh duyên từ là gì?",
+    "choice1": "Quan sát cả khổ của chúng sanh mà phát khởi lòng từ bi.",
+    "choice2": "Quan sát cả khổ của chúng hữu tình mà phát khởi lòng từ bi.",
+    "choice3": "Quan sát cả khổ của mọi loài mà phát khởi lòng từ bi.",
+    "choice4": "Quan sát cả khổ của chúng sanh, chúng hữu tình và mọi loài mà phát khởi lòng từ bi.",
+    "answer": "Quan sát cả khổ của chúng sanh, chúng hữu tình và mọi loài mà phát khởi lòng từ bi.",
+    "explanation": ""
+  },
+  {
+    "question": "126. Tứ niệm xứ là bốn pháp quán nào?",
+    "choice1": "Quán thân bất tịnh, quán thọ là khổ, quán tâm vô thường, quán pháp vô ngã.",
+    "choice2": "Quán dục, tinh tấn, hỷ, nhất tâm.",
+    "choice3": "Quán từ, bi, hỷ và xả.",
+    "choice4": "Đáp án a, b và c.",
+    "answer": "Quán thân bất tịnh, quán thọ là khổ, quán tâm vô thường, quán pháp vô ngã.",
+    "explanation": ""
+  },
+  {
+    "question": "127. Trong Tứ niệm xứ, dùng pháp nào để đối trị khi tâm bị vướng mắc vào đối tượng của sắc, có khả năng chuyên hóa ái dục?",
+    "choice1": "Quán tâm vô thường.",
+    "choice2": "Quán pháp vô ngã.",
+    "choice3": "Quán thọ thị khổ.",
+    "choice4": "Quán thân bất tịnh.",
+    "answer": "Quán thân bất tịnh.",
+    "explanation": ""
+  },
+  {
+    "question": "128. Tứ nhiếp pháp gồm những gì?",
+    "choice1": "Bố thí, trì giới, niệm Phật, ăn chay.",
+    "choice2": "Ái ngữ, lợi hành, tụng kinh, nghe giảng pháp.",
+    "choice3": "Bố thí, ái ngữ, lợi hành, đồng sự.",
+    "choice4": "Tri chú, ngôi thiên, tụng kinh, niệm Phật.",
+    "answer": "Bố thí, ái ngữ, lợi hành, đồng sự.",
+    "explanation": ""
+  }  
+]
