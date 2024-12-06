@@ -1,11 +1,11 @@
 [
   {
     "question": "1. Ai là người khai sáng ra đạo Phật?",
-    "choice1": "Đức Phật Dược Sư",
-    "choice2": "Đức Phật Di Lặc",
-    "choice3": "Đức Phật Thích Ca Mâu Ni",
-    "choice4": "Đức Phật A Di Đà",
-    "answer": "Đức Phật Thích Ca Mâu Ni",
+    "choice1": "Đức Phật Dược Sư.",
+    "choice2": "Đức Phật Di Lặc.",
+    "choice3": "Đức Phật Thích Ca Mâu Ni.",
+    "choice4": "Đức Phật A Di Đà.",
+    "answer": "Đức Phật Thích Ca Mâu Ni.",
     "explanation": ""
   },
   {
@@ -36,7 +36,7 @@
     "explanation": ""
   },
   {
-    "question": "5. Đạo Phật có nguồn gốc từ đâu và xuất hiện vào thế kỷ thứ mấy trước công nguyên (BC)?",
+    "question": "5. Đạo Phật có nguồn gốc từ đâu? Và xuất hiện vào thế kỷ thứ mấy trước công nguyên (BC)?",
     "choice1": "Đạo Phật có nguồn gốc từ Tích Lan và xuất hiện từ thế kỷ thứ VI trước Công nguyên.",
     "choice2": "Đạo Phật xuất hiện từ đất nước Ma Kiệt Đà và xuất hiện từ thế kỷ thứ IV trước Công nguyên.",
     "choice3": "Đạo Phật ra đời ở Ấn Độ và xuất hiện từ thế kỷ thứ VI trước Công nguyên.",
@@ -184,7 +184,7 @@
     "choice1": "Cõi trời Hóa Lạc Thiên.",
     "choice2": "Cõi trời Đao Lợi.",
     "choice3": "Cõi trời Phạm Thiên.",
-    "choice4": "Cõi trời Đâu Suất.",
+    "choice4": "Cõi trời Đâu Xuất.",
     "answer": "Cõi trời Đao Lợi.",
     "explanation": ""
   },

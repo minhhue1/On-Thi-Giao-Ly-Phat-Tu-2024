@@ -9,7 +9,7 @@
     "explanation": ""
   },
   {
-    "question": "96. Theo Phật học phổ thông, đức Phật chuyển pháp luân với bài pháp Tế Diện Dà?",
+    "question": "96. Theo Phật học phổ thông, đức Phật chuyển pháp luân với bài pháp đầu tiên là gì?",
     "choice1": "Tứ Diệu Đế.",
     "choice2": "Tứ Chánh Cần.",
     "choice3": "Tứ Vô Lượng tâm.",
@@ -29,7 +29,7 @@
   {
     "question": "98. Theo Phật học phổ thông, khổ đế là gì?",
     "choice1": "Là những điều làm khổ chịu, đau khổ.",
-    "choice2": "Là chân thật đúng đắn, vững chắc, rõ ràng.",
+    "choice2": "Là chân thật đúng đắn vững chắc, rõ ràng.",
     "choice3": "Đáp án a và b.",
     "choice4": "Là con đường diệt khổ.",
     "answer": "Đáp án a và b.",
@@ -127,7 +127,7 @@
   },
   {
     "question": "109. Thập nhị nhân duyên là gì?",
-    "choice1": "Tăng thượng mạn, vô giản duyên, sơ duyên duyên, vô minh, hành, thức, danh sắc, lục căn, lục trần, thọ.",
+    "choice1": "Tăng thượng mạn, vô gián duyên, sơ duyên duyên, vô minh, hành, thức, danh sắc, lục căn, lục trần, thọ.",
     "choice2": "Vô minh, Hành, Thức, Danh sắc, Lục nhập, Xúc, Thọ, Ái, Thủ, Hữu, Sanh lão, Tử.",
     "choice3": "Vô minh, lục căn, lục trần, thọ, hành, thức, khổ, tập, diệt, đạo, Bát chánh đạo.",
     "choice4": "Ngũ căn, ngũ lực, Vô minh, hành, thức, danh sắc, lục nhập, thọ, ái, thủ, sanh, lão, tử.",
@@ -136,7 +136,7 @@
   },
   {
     "question": "110. Lục Nhập trong Thập nhị nhân duyên bao gồm những gì?",
-    "choice1": "Lục nhạp là chi cho 6 cặp đôi tương quan: Mắt, tai, Mũi, Lưỡi, Thân, Ý tương quan mặt thiết với Sắc, Thanh, Hương, Vị, Xúc, Pháp.",
+    "choice1": "Lục nhập là chi cho 6 cặp đôi tương quan: Mắt, tai, Mũi, Lưỡi, Thân, Ý tương quan mặt thiết với Sắc, Thanh, Hương, Vị, Xúc, Pháp.",
     "choice2": "Hay còn được gọi là sáu nội ngoại xứ là một thuật ngữ chỉ cho sáu cặp cơ quan - đối tượng của các giác quan và là liên kết thứ 5 trong chuỗi 12 nhân duyên.",
     "choice3": "Lục nhập bao gồm: Nhãn, Nhĩ, Tỹ, Thiệt, Thân, Ý và Sắc, Thanh, Hương, Vị, Xúc, Pháp.",
     "choice4": "Đáp án a, b và c.",
@@ -162,7 +162,7 @@
     "explanation": ""
   },
   {
-    "question": "\"Kiết sử\" trong Phật giáo gồm những gì?",
+    "question": "113. \"Kiết sử\" trong Phật giáo gồm những gì?",
     "choice1": "Năm độn sử.",
     "choice2": "Năm triền cái.",
     "choice3": "Năm độn sử và năm lợi sử.",

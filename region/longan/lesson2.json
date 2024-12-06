@@ -12,7 +12,7 @@
     "question": "24. Danh hiệu Đức Phật Thích Ca Mâu Ni có ý nghĩa cao quý như thế nào?",
     "choice1": "Là nhà hiền triết của dòng tộc Sakya (Thích Ca).",
     "choice2": "Là bậc năng nhân, tịch mặc.",
-    "choice3": "Là bậc thông thái, đức độ.",
+    "choice3": "Là bậc thông thái",
     "choice4": "Đáp án a và b.",
     "answer": "Đáp án a và b.",
     "explanation": ""
@@ -201,7 +201,7 @@
     "question": "45. Thập đại đệ tử Tăng của Đức Phật là những vị Thánh Tăng nào?",
     "choice1": "Ma Ha Ca Diếp, A Nan, Xá Lợi Phất, Mục Kiền Liên, Phú Lâu Na, A Na Luật, Ca Chiên Diên, Ưu Ba Ly, Tu Bồ Đề, La Hầu La.",
     "choice2": "A Nan Đà, Địa Tạng, Quán Thế Âm, Đại Thế Chí, Mục Kiền Liên.",
-    "choice3": "Xá Lợi Phất, Mục Kiền Liên, A Na Hòa Tu, Phú Lâu Na, A Na Luật.",
+    "choice3": "Xá Lợi Phất, Mục Kiền Liên, A Noa Hòa Tu, Phú Lâu Na, A Na Luật.",
     "choice4": "Ưu Ba Ly, Tu Bồ Đề, La Hầu La, Quán Thế Âm, Đại Thế Chí, Mục Kiền Liên.",
     "answer": "Ma Ha Ca Diếp, A Nan, Xá Lợi Phất, Mục Kiền Liên, Phú Lâu Na, A Na Luật, Ca Chiên Diên, Ưu Ba Ly, Tu Bồ Đề, La Hầu La.",
     "explanation": ""
@@ -226,11 +226,11 @@
   },
   {
     "question": "48. Hai tôn giả nào đã hướng dẫn 250 vị ngoại đạo quy y làm đệ tử Phật?",
-    "choice1": "Tôn giả Xá Lợi Phất và Tôn giả Mục Kiền Liên.",
-    "choice2": "Tôn giả Mục Kiền Liên và Tôn giả A Na Hòa Tu.",
-    "choice3": "Tôn giả Tu Bồ Đề và Tôn giả La Hầu La.",
-    "choice4": "Tôn giả A Nan và Tôn giả Ưu Ba Ly.",
-    "answer": "Tôn giả Xá Lợi Phất và Tôn giả Mục Kiền Liên.",
+    "choice1": "Tôn giả Ca Diếp và Xá Lợi Phất.",
+    "choice2": "Tôn giả Xá Lợi Phất và Mục Kiền Liên.",
+    "choice3": "Tôn giả Ca Diếp và Mục Kiền Liên.",
+    "choice4": "Tôn giả Xá Lợi Phất và A Nan.",
+    "answer": "Tôn giả Xá Lợi Phất và Mục Kiền Liên.",
     "explanation": ""
   }
 ]

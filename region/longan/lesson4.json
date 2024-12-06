@@ -55,7 +55,7 @@
   },
   {
     "question": "71. Những điều kiện nào để vãng sanh về cõi Cực lạc?",
-    "choice1": "Nguyện vững vàng, không thôi chuyển.",
+    "choice1": "Nguyện vững vàng, không thối chuyển.",
     "choice2": "Niệm Phật liên tục, không dừng nghỉ.",
     "choice3": "Tin sâu, hạnh bền bỉ, nguyện vững vàng.",
     "choice4": "Tin theo Phật, làm việc thiện.",
@@ -76,6 +76,7 @@
     "choice1": "Là vâng giữ danh hiệu Phật.",
     "choice2": "Là niệm Phật liên tục, khi đi, đứng nằm, ngồi.",
     "choice3": "Là vừa lạy, vừa niệm Phật suốt không nghỉ.",
+    "choice4": "Là vừa niệm Phật, vừa làm việc thiện.",
     "answer": "Là niệm Phật liên tục, khi đi, đứng nằm, ngồi.",
     "explanation": ""
   },
