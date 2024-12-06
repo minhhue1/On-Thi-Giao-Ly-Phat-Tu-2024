@@ -4,7 +4,7 @@
     "choice1": "Bố thí, trì giới, nhẫn nhục, tinh tấn, thiền định, trí huệ.",
     "choice2": "Trì giới, tinh tấn, nhẫn nhục, thiền định, bố thí, trí tuệ.",
     "choice3": "Trí tuệ, thiền định, bố thí, tinh tấn, trì giới, nhẫn nhục.",
-    "choice4": "Nhẫn nhục, bố trí, thiền định, trì giới, tinh tấn, trí.",
+    "choice4": "Nhẫn nhục, bố trí, thiền định, trì giới, tinh tấn, trí huệ.",
     "answer": "Bố thí, trì giới, nhẫn nhục, tinh tấn, thiền định, trí huệ.",
     "explanation": ""
   },
@@ -31,7 +31,7 @@
     "choice1": "Bố thí để cầu phước báu nhân thiên.",
     "choice2": "Bố thí để được mọi người biết là mình cũng có tấm lòng nhân hậu.",
     "choice3": "Bố thí không thấy mình là người cho, kia là người nhận và vật để bố thí.",
-    "choice4": "Bố thí không kề công, cúng dường không ỷ lại.",
+    "choice4": "Bố thí không kể công, cúng dường không ỷ lại.",
     "answer": "Bố thí không thấy mình là người cho, kia là người nhận và vật để bố thí.",
     "explanation": ""
   },
@@ -55,7 +55,7 @@
   },
   {
     "question": "121. 37 pháp trợ đạo gồm những pháp nào?",
-    "choice1": "Tứ niệm xứ; Tứ chánh cần; Tứ hoành thệ nguyện; Ngũ căn; Ngũ lực; Thất giác chi; Bát chánh đạo.",
+    "choice1": "Tứ niệm xứ; Tứ chánh cần; Tứ hoằng thệ nguyện; Ngũ căn; Ngũ lực; Thất giác chi; Bát chánh đạo.",
     "choice2": "Tứ như ý túc; Lục căn; Lục trần; Thất giác chi; Bát chánh đạo. Tứ niệm xứ; Tứ chánh cần.",
     "choice3": "Tứ chánh cần; Tứ diệu đế; Ngũ căn; Ngũ lực; Thất phần chuyển luân; Bát chánh đạo; Tứ niệm xứ.",
     "choice4": "Tứ niệm xứ; Tứ chánh cần; Tứ như ý túc; Ngũ căn; Ngũ lực; Thất giác chi; Bát chánh đạo.",
@@ -121,7 +121,7 @@
     "choice1": "Bố thí, trì giới, niệm Phật, ăn chay.",
     "choice2": "Ái ngữ, lợi hành, tụng kinh, nghe giảng pháp.",
     "choice3": "Bố thí, ái ngữ, lợi hành, đồng sự.",
-    "choice4": "Tri chú, ngôi thiên, tụng kinh, niệm Phật.",
+    "choice4": "Trì chú, ngồi thiên, tụng kinh, niệm Phật.",
     "answer": "Bố thí, ái ngữ, lợi hành, đồng sự.",
     "explanation": ""
   }  
