@@ -76,6 +76,11 @@ async function loadQuestions() {
     } else {
         await loadQuestionsFromFile(currentRegion, currentLesson);  // Tải câu hỏi từ bài học cụ thể
     }
+    if (currentLesson === 'alltest') {
+        TOTAL_QUESTIONS = 250;
+        await loadQuestionsByLesson(currentRegion);  // Tải câu hỏi từ tất cả các bài học
+        
+    }
     startGame();  // Bắt đầu trò chơi khi đã tải xong câu hỏi
 }
 
